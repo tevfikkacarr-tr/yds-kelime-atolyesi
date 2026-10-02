@@ -1,0 +1,2343 @@
+# Mini YDS soru bankası. Blok: @t tip / @q soru / @o seçenek || neden yanlış / @o* doğru seçenek / @why / @key / @gram / @w
+# tipler: vocab, ct (cloze), sc (sentence completion), tr (translation), rs (restatement), pc (paragraph completion)
+@t sc
+@q Although regular exercise is known to reduce the risk of heart disease, ----.
+@o it also helps people sleep better at night || Ek bir fayda veriyor; although'un istediği zıtlık yok.
+@o* many adults still do not exercise enough
+@o doctors recommend at least thirty minutes a day || Tavsiye bilgisi; ilk yarıyla zıtlık kurmuyor.
+@o heart disease is the leading cause of death worldwide || Konuyla ilgili ama “-e rağmen” ilişkisi yok.
+@o walking is one of the easiest forms of exercise || Yeni bir bilgi ekliyor, zıtlık değil.
+@why Although zıtlık ister: egzersizin faydası biliniyor ama insanlar yine de yeterince egzersiz yapmıyor.
+@key reduce the risk = riski azaltmak
+@gram although + cümle: iki yan cümle arasında beklenmeyen bir durum kurar.
+@w although,reduce
+
+@t sc
+@q ----, the company decided to postpone the launch of its new product.
+@o Because demand for smartphones has increased steadily || Talep artışı ertelemeye değil, satışa neden olur.
+@o* Since the tests revealed several serious safety problems
+@o So that customers would receive it sooner || Amaç bildirir; ertelemek ürünü müşteriye daha geç ulaştırır, mantık ters.
+@o As long as customers continue to buy its older models || Koşul bildirir; geçmişteki kararı açıklamaz.
+@o Whereas its competitors have been losing market share || Karşılaştırma yapar; ertelemenin nedeni değildir.
+@why Ertelemenin mantıklı nedeni güvenlik sorunlarının ortaya çıkmasıdır; since burada sebep bildirir.
+@key reveal = ortaya çıkarmak; postpone = ertelemek
+@gram since (sebep) + cümle = because.
+@w since,reveal
+
+@t sc
+@q Scientists warn that unless greenhouse gas emissions are reduced significantly, ----.
+@o renewable energy has become cheaper in recent years || Geçmişe dair bilgi; unless ile kurulan koşulun sonucu olamaz.
+@o many countries signed the agreement in 2015 || Geçmiş olay; koşulun gelecekteki sonucunu vermiyor.
+@o* global temperatures will continue to rise
+@o the climate has always changed naturally || Genel bir görüş; koşula bağlı sonuç değil.
+@o most people are aware of the problem || Koşulla mantıksal bağı yok.
+@why unless + şimdiki zaman, ana cümlede gelecek zaman ister: emisyon azalmazsa sıcaklık artmaya devam edecek.
+@key emission = salım; significantly = önemli ölçüde
+@gram unless = if … not; ana cümlede will.
+@w unless,emission,reduce
+
+@t sc
+@q The new treatment proved to be highly effective, ----.
+@o* so it was approved for use in hospitals across the country
+@o although it had been tested on thousands of patients || Binlerce hastada test edilmesi etkililikle zıtlık oluşturmaz.
+@o because it was developed by a small team of researchers || Küçük ekip, etkili olmasının nedeni değildir.
+@o unless doctors are trained to use it properly || Koşul geçmiş zamanlı bir sonuçla uyumsuz.
+@o whereas the old treatment was approved years ago || Anlamlı bir karşılaştırma kurmuyor.
+@why Etkili olduğunun kanıtlanmasının doğal sonucu onaylanmasıdır; so sonuç bildirir.
+@key effective = etkili; approve = onaylamak
+@gram “…, so + cümle” sonuç bildirir.
+@w approve
+
+@t sc
+@q Despite the fact that the city has invested heavily in public transport, ----.
+@o the number of bus routes has doubled || Yatırımın beklenen sonucu; zıtlık yok.
+@o* traffic congestion remains a serious problem
+@o many residents now travel to work by train || Yatırımın olumlu sonucu; despite zıtlık ister.
+@o the new metro line opened last year || Yatırımın bir parçası; zıtlık yok.
+@o public transport is cheaper than driving || Zıtlık kurmuyor.
+@why Despite the fact that zıtlık ister: büyük yatırıma rağmen trafik sorunu sürüyor.
+@key invest heavily = büyük yatırım yapmak; congestion = tıkanıklık
+@gram despite the fact that + cümle = although + cümle.
+@w despite,investment
+
+@t sc
+@q Children who are exposed to several languages at an early age ----.
+@o being more likely to learn new languages later in life || -ing yapısı çekimli yüklem değildir; cümle tamamlanmıyor.
+@o* tend to find it easier to learn new languages later in life
+@o whose parents speak different languages || Yüklem yok; cümle tamamlanmıyor.
+@o which is why bilingual education is popular || Ana cümlenin yüklemi eksik kalıyor.
+@o as long as they attend a good school || Yüklem yok; yalnızca koşul ekliyor.
+@why Özne uzun bir öbek (Children who…); cümleyi yalnızca doğru seçenek çekimli ve anlamlı bir yüklemle tamamlıyor.
+@key be exposed to = -e maruz kalmak; tend to = eğiliminde olmak
+@gram Uzun özneden sonra ana yüklemi bul: who-yan cümlesi özneye aittir.
+@w expose,tend
+
+@t sc
+@q So many people applied for the scholarship ----.
+@o* that the university had to extend the selection process
+@o because the university had to extend the selection process || Sebep-sonuç ters; ayrıca so many yapısı that ister.
+@o which few students were interested in || “So many people applied” ile çelişir; so … that de tamamlanmıyor.
+@o although nobody wanted to apply for it || Başvuru çokluğuyla çelişir; so many'nin sonucunu vermiyor.
+@o as the scholarship had been cancelled || İptal edilen bursa başvuru yağması mantıksız; so … that sonucu eksik.
+@why So many/much … that yapısı sonuç bildirir: o kadar çok başvuru oldu ki süreç uzatıldı.
+@key extend = uzatmak
+@gram so + sıfat / so many + isim … that + sonuç cümlesi.
+@w extend
+
+@t sc
+@q It is widely accepted that a good night's sleep is essential for memory, ----.
+@o but it has been proven that the brain never rests || Anlamca birinci yarıyla ilgisiz ve bilimsel olarak yanlış.
+@o* which is why students are advised not to stay up late before exams
+@o so that people can work longer hours || Amaç bildiriyor; uykunun hafızaya faydasıyla bağlantısız.
+@o even though sleep has no effect on learning || İlk yarıyla çelişiyor.
+@o unless the bedroom is too warm || Anlamsız bir koşul.
+@why Uykunun hafıza için gerekli olması, sınav öncesi geç yatmamanın tavsiye edilmesinin nedenidir.
+@key widely accepted = yaygın olarak kabul gören; essential = çok önemli
+@gram “, which is why …” = bu yüzden.
+@w essential,accept
+
+@t tr
+@q Many experts believe that rising temperatures will lead to more frequent and severe droughts in the region.
+@o Birçok uzman, artan sıcaklıkların bölgede daha sık ve şiddetli kuraklıklara yol açtığına inanıyor. || Zaman yanlış: will lead to gelecek zamandır.
+@o Birçok uzmana göre bölgedeki kuraklıklar sıcaklıkların artmasına neden olacak. || Sebep-sonuç ters çevrilmiş.
+@o* Birçok uzman, artan sıcaklıkların bölgede daha sık ve daha şiddetli kuraklıklara yol açacağına inanıyor.
+@o Uzmanlar, bölgedeki sıcaklıkların artmasıyla kuraklıkların daha az görüleceğini düşünüyor. || Anlam tersine çevrilmiş (more frequent).
+@o Birçok uzman, bölgede kuraklıkların sıklaştığına ve sıcaklıkların arttığına inanıyor. || Sebep-sonuç ilişkisi ve gelecek zaman kaybolmuş.
+@why will lead to = yol açacak; more frequent and severe = daha sık ve daha şiddetli.
+@key lead to = yol açmak; drought = kuraklık; severe = şiddetli
+@gram Çeviride zaman ve sebep-sonuç yönü ilk kontrol edilir.
+@w lead to,drought
+
+@t tr
+@q The study, which was conducted over ten years, revealed a strong link between diet and mental health.
+@o On yıl önce yapılan çalışma, beslenme ile ruh sağlığı arasında güçlü bir bağlantı olduğunu gösterdi. || “over ten years” on yıl boyunca demektir, on yıl önce değil.
+@o* On yıl boyunca yürütülen çalışma, beslenme ile ruh sağlığı arasında güçlü bir bağlantı olduğunu ortaya koydu.
+@o On yıl süren çalışma, beslenmenin ruh sağlığını doğrudan etkilediğini kanıtladı. || “link” bağlantıdır; “doğrudan etkilediğini kanıtladı” anlamı abartıyor.
+@o Çalışma on yıl boyunca beslenme ve ruh sağlığı arasındaki bağlantıyı araştırdı. || “revealed” (ortaya koydu) yerine “araştırdı” denmiş; sonuç kaybolmuş.
+@o On yıllık bir çalışma, ruh sağlığının beslenmeden daha önemli olduğunu ortaya koydu. || Kaynak cümlede karşılaştırma yok.
+@why conducted over ten years = on yıl boyunca yürütülen; revealed a strong link = güçlü bir bağlantıyı ortaya koydu.
+@key conduct = yürütmek; reveal = ortaya koymak; link = bağlantı
+@gram “which” ilgi cümlesi, çeviride özneyi niteleyen sıfat cümlesi olur.
+@w conduct,reveal,link
+
+@t tr
+@q Despite numerous warnings, the government failed to take adequate measures to prevent the spread of the disease.
+@o* Çok sayıda uyarıya rağmen hükümet, hastalığın yayılmasını önlemek için yeterli önlemleri almadı.
+@o Hükümet, çok sayıda uyarı yaptığı halde hastalığın yayılmasını önleyemedi. || Uyarıyı yapan hükümet değil; ayrıca “yeterli önlem” kaybolmuş.
+@o Hükümet hastalığın yayılmasını önlemek için önlem aldı ancak uyarılar yetersiz kaldı. || Anlam tersine çevrilmiş: yetersiz olan önlemlerdir.
+@o Çok sayıda uyarı nedeniyle hükümet, hastalığın yayılmasını önlemek için gerekli önlemleri aldı. || Despite “rağmen”dir, “nedeniyle” değil.
+@o Hükümetin aldığı önlemler, birçok uyarıya rağmen hastalığın yayılmasını engelledi. || failed to = başaramadı; anlam tersine dönmüş.
+@why Despite numerous warnings = çok sayıda uyarıya rağmen; failed to take adequate measures = yeterli önlemleri almadı.
+@key numerous = çok sayıda; adequate = yeterli; prevent the spread of = yayılmasını önlemek
+@gram despite + isim öbeği = -e rağmen.
+@w despite,numerous,adequate,prevent,spread
+
+@t tr
+@q Unless farmers adapt to changing weather conditions, crop yields are likely to decline significantly.
+@o Çiftçiler değişen hava koşullarına uyum sağladıkça ürün verimi önemli ölçüde artacaktır. || Unless (-mezse) olumlu koşula çevrilmiş; decline (düşmek) artmak olmuş.
+@o* Çiftçiler değişen hava koşullarına uyum sağlamazsa ürün verimi muhtemelen önemli ölçüde düşecektir.
+@o Değişen hava koşulları nedeniyle çiftçiler uyum sağlamakta zorlanıyor ve ürün verimi düşüyor. || Koşul cümlesi kaybolmuş; şimdiki duruma çevrilmiş.
+@o Çiftçiler hava koşullarını değiştiremezse ürün verimi biraz düşebilir. || adapt to = uyum sağlamak; significantly = önemli ölçüde (biraz değil).
+@o Ürün verimi önemli ölçüde düştüğü için çiftçiler değişen koşullara uyum sağlamak zorunda. || Sebep-sonuç ters.
+@why Unless = -mezse; are likely to decline significantly = muhtemelen önemli ölçüde düşecek.
+@key adapt to = uyum sağlamak; be likely to = muhtemelen …-mek; decline = düşmek
+@gram unless + olumlu cümle = if … not.
+@w unless,adapt,likely,decline,significant
+
+@t tr
+@q Bilim insanları, yeni ilacın yan etkilerinin beklenenden çok daha az olduğunu tespit etti.
+@o Scientists expected that the side effects of the new drug would be much smaller. || “tespit etti” yerine “bekliyordu” denmiş.
+@o* Scientists have found that the new drug has far fewer side effects than anticipated.
+@o The new drug, which scientists developed, has fewer side effects than other drugs. || Karşılaştırma “beklenenden” değil, “diğer ilaçlardan” olmuş.
+@o Scientists detected that the new drug had more side effects than expected. || Anlam tersine dönmüş (more).
+@o According to scientists, the side effects of the new drug are not as expected. || “çok daha az” bilgisi kaybolmuş.
+@why tespit etti = found / detected; beklenenden çok daha az = far fewer … than anticipated.
+@key anticipate = beklemek, öngörmek; side effect = yan etki
+@gram far fewer + sayılabilir isim; far less + sayılamaz isim.
+@w detect,anticipate
+
+@t tr
+@q Hükümet, gençler arasında işsizliği azaltmak amacıyla yeni bir eğitim programı başlattı.
+@o* The government launched a new training programme in order to reduce unemployment among young people.
+@o Unemployment among young people decreased after the government's new training programme. || Amaç yerine sonuç anlatılmış.
+@o The government plans to launch a training programme to reduce youth unemployment. || Zaman yanlış: “başlattı” geçmiştir.
+@o Young people launched a new training programme to help the government reduce unemployment. || Özne yanlış.
+@o Although the government launched a new programme, unemployment among young people did not fall. || Kaynak cümlede zıtlık yok.
+@why amacıyla = in order to; başlattı = launched.
+@key launch = başlatmak; reduce = azaltmak
+@gram in order to + fiil = amacıyla.
+@w launch,in order to,reduce
+
+@t tr
+@q Elektrikli araçlar giderek daha popüler hale gelse de yüksek fiyatları hâlâ önemli bir engel oluşturuyor.
+@o Electric cars have become popular because their prices are no longer a significant obstacle. || Zıtlık sebep ilişkisine çevrilmiş ve anlam tersine dönmüş.
+@o* Although electric cars are becoming increasingly popular, their high prices still constitute a significant obstacle.
+@o Since electric cars are increasingly popular, their prices have become an obstacle. || “-se de” zıtlıktır, sebep değil.
+@o Electric cars are not popular because their high prices are an obstacle. || Popüler hale geldikleri bilgisi tersine çevrilmiş.
+@o High prices made electric cars increasingly popular despite several obstacles. || Sebep-sonuç ilişkisi uydurulmuş.
+@why -se de = although; giderek daha = increasingly; engel oluşturmak = constitute an obstacle.
+@key increasingly = giderek; constitute = oluşturmak; obstacle = engel
+@gram although + cümle, ana cümlede still sık kullanılır.
+@w although,increasingly,constitute,obstacle
+
+@t tr
+@q Researchers emphasise that the findings should be interpreted with caution because the sample was relatively small.
+@o* Araştırmacılar, örneklem görece küçük olduğu için bulguların dikkatle yorumlanması gerektiğini vurguluyor.
+@o Araştırmacılar, bulguların dikkatli yorumlanmasına rağmen örneklemin küçük olduğunu belirtiyor. || because (için) “rağmen” olmuş.
+@o Araştırmacılara göre örneklem küçük olsa da bulgular kesin olarak yorumlanabilir. || “with caution” (dikkatle) anlamı tersine çevrilmiş.
+@o Araştırmacılar örneklemi küçük tuttukları için bulguları dikkatle yorumladılar. || should (gerekir) kaybolmuş; geçmiş zamana çevrilmiş.
+@o Örneklemin küçük olması araştırmacıların bulguları yanlış yorumlamasına yol açtı. || Kaynak cümlede böyle bir sonuç yok.
+@why emphasise = vurgulamak; should be interpreted with caution = dikkatle yorumlanmalı; relatively = görece.
+@key emphasise = vurgulamak; interpret = yorumlamak; relatively = görece
+@gram should be + V3 = …-malı (edilgen).
+@w emphasise,interpret,cautious,relatively
+
+@t rs
+@q The new policy has not been as successful as the government had expected.
+@o The government expected the new policy to fail. || Hükümet başarısızlık değil, başarı bekliyordu.
+@o The new policy has been more successful than expected. || Anlam tersine dönmüş.
+@o* The new policy has been less successful than the government anticipated.
+@o The government has not yet introduced the new policy. || Politika uygulanmış; cümle sonucu anlatıyor.
+@o The success of the new policy surprised the government. || Başarılı olmadığı söyleniyor.
+@why not as successful as … had expected = beklenenden daha az başarılı.
+@key anticipate = beklemek
+@gram not as … as = -den daha az.
+@w anticipate
+
+@t rs
+@q Hardly any of the participants were able to complete the task within the time limit.
+@o Most participants completed the task easily. || Hardly any = neredeyse hiçbiri; tersine dönmüş.
+@o* Almost none of the participants managed to finish the task in the given time.
+@o The participants found the task hard, but all of them finished it. || hardly “zor” değil, “neredeyse hiç” demektir.
+@o Some participants completed the task before the time limit. || “Some” anlamı fazla olumlu.
+@o The task was completed by a few participants after the time limit. || Zaman sınırı bilgisi değiştirilmiş.
+@why Hardly any = neredeyse hiç; katılımcıların neredeyse hiçbiri görevi zamanında bitiremedi.
+@key hardly any = neredeyse hiç
+@gram hardly olumsuz anlam taşır; hard (zor) ile karıştırılmamalı.
+@w hardly
+
+@t rs
+@q It was not until the 1950s that scientists understood the structure of DNA.
+@o Scientists understood the structure of DNA before the 1950s. || not until = ancak o zaman; öncesinde anlaşılmamıştı.
+@o Scientists stopped studying DNA in the 1950s. || Cümlede bırakmak anlamı yok.
+@o* Scientists only came to understand the structure of DNA in the 1950s.
+@o The structure of DNA was discovered by accident in the 1950s. || “by accident” kaynakta yok.
+@o Until the 1950s, scientists had no interest in DNA. || İlgisizlik değil, anlayamama söz konusu.
+@why It was not until X that … = ancak X'te …
+@key structure = yapı
+@gram It was not until + zaman + that … kalıbı restatement sorularında çok sık çıkar.
+@w
+
+@t rs
+@q The more people use public transport, the less traffic congestion there will be.
+@o Traffic congestion causes people to use public transport. || Sebep-sonuç ters çevrilmiş.
+@o* An increase in the use of public transport will reduce traffic congestion.
+@o Public transport is less crowded when there is less traffic. || Farklı bir ilişki kurulmuş.
+@o People use public transport because traffic is decreasing. || Sebep-sonuç ters.
+@o Traffic congestion will increase even if people use public transport. || Anlam tersine dönmüş.
+@why The more …, the less … orantılı ilişki kurar: kullanım arttıkça trafik azalır.
+@key congestion = tıkanıklık; reduce = azaltmak
+@gram the + karşılaştırma …, the + karşılaştırma = ne kadar …-se o kadar …
+@w increase,reduce
+
+@t rs
+@q Had the company invested in new technology earlier, it would not have lost so many customers.
+@o The company lost customers even though it invested in new technology. || Şirket zamanında yatırım yapmadı.
+@o The company invested in new technology and kept its customers. || Gerçekte müşteri kaybedildi.
+@o* Because the company did not invest in new technology early enough, it lost many customers.
+@o The company will invest in new technology to win back customers. || Geleceğe dair bir plan kaynakta yok.
+@o The company lost customers because it invested in new technology too early. || Kaynakta sorun erken değil, geç yatırımdır.
+@why Had … invested = If it had invested (geçmişe yönelik gerçek dışı koşul). Gerçekte yatırım geç yapıldı ve müşteri kaybedildi.
+@key invest = yatırım yapmak
+@gram Inversion: Had + özne + V3 = If + özne + had + V3.
+@w investment
+
+@t rs
+@q Contrary to popular belief, eating late at night does not necessarily lead to weight gain.
+@o Most people believe that eating late at night is healthy. || Yaygın inanç bunun tersidir.
+@o* It is a common belief that eating late causes weight gain, but this is not always true.
+@o Eating late at night always leads to weight gain. || not necessarily = her zaman değil.
+@o People who eat late at night usually lose weight. || Kaynakta kilo vermekten söz edilmiyor.
+@o Scientists believe that eating late at night is the main cause of weight gain. || Kaynak bunu reddediyor.
+@why Contrary to popular belief = yaygın inancın aksine; does not necessarily = her zaman değil.
+@key lead to = yol açmak
+@gram not necessarily = mutlaka değil.
+@w lead to
+
+@t pc
+@q Bees play a vital role in food production. ----. Without them, many fruits and vegetables would become scarce and expensive. Unfortunately, bee populations have declined sharply in recent decades because of pesticides and habitat loss.
+@o Honey has been used as a medicine for thousands of years || Bal konusu paragrafın akışını bozuyor.
+@o* About one third of the crops we eat depend on bees for pollination
+@o Some species of bees live alone rather than in colonies || Gıda üretimiyle bağlantısız.
+@o Bees communicate with each other through complex dances || Konudan sapıyor.
+@o Beekeeping is a popular hobby in many countries || “Without them” cümlesine bağlanmıyor.
+@why Boşluk, arıların neden önemli olduğunu açıklamalı ve “Without them…” cümlesine zemin hazırlamalı.
+@key vital = hayati; scarce = kıt; decline = azalmak; habitat = yaşam alanı
+@gram Paragraf tamamlamada boşluktan sonraki cümlenin zamirine (them) bak.
+@w vital,scarce,decline,habitat
+
+@t pc
+@q Many people believe that multitasking makes them more productive. However, research suggests the opposite. ----. As a result, people who constantly switch between tasks often make more mistakes and take longer to finish their work.
+@o Modern offices are designed to encourage teamwork || Çoklu görevle ilgisi yok.
+@o* The brain cannot focus fully on two demanding tasks at the same time
+@o Many companies now offer flexible working hours || Konudan sapıyor.
+@o Productivity has increased in most developed countries || “the opposite” fikrini desteklemiyor.
+@o Some people prefer to work in complete silence || As a result cümlesinin nedeni olamaz.
+@why However sonrası çoklu görevin neden verimsiz olduğu açıklanmalı; As a result cümlesi bunun sonucunu veriyor.
+@key suggest = göstermek, işaret etmek; as a result = sonuç olarak
+@gram As a result öncesindeki cümle neden olmalı.
+@w suggest,as a result
+
+@t pc
+@q ----. Some researchers attribute this to the fact that young people spend more time indoors looking at screens. Others point out that changes in diet and sleep patterns may also contribute to the problem. Whatever the cause, eye doctors warn that the trend is likely to continue.
+@o Glasses were first invented in Italy in the thirteenth century || “this”, “the problem” ve “the trend” ifadelerinin göndergesi olamaz.
+@o* The number of children with short-sightedness has risen sharply in recent years
+@o Eye tests are free for children in many countries || Bir sorun ya da eğilim değil.
+@o Reading in poor light does not damage the eyes || Paragrafın sorun odağıyla uyuşmuyor.
+@o Screens are now used in most classrooms || Sorunu değil, olası bir nedeni veriyor.
+@why Paragraf bir sorunun nedenlerini tartışıyor (attribute this to, the problem, the trend); boşluğa sorunu ortaya koyan cümle gelmeli.
+@key attribute A to B = A'yı B'ye bağlamak; contribute to = katkıda bulunmak; trend = eğilim
+@gram Paragrafın ilk cümlesi, sonraki zamirlerin (this) neyi kastettiğini belirler.
+@w attribute,point out,contribute,trend
+
+@t pc
+@q Electric cars are often described as environmentally friendly because they produce no exhaust emissions. ----. If the electricity used to charge them comes from coal-fired power stations, their overall impact on the environment may be greater than expected.
+@o Electric cars are also much quieter than petrol cars || Olumlu bilgi ekliyor; sonraki cümledeki tersine dönüşü hazırlamıyor.
+@o* However, the picture is more complicated than it seems
+@o Many governments offer tax incentives to buyers of electric cars || Konudan sapıyor.
+@o The first electric cars were built in the nineteenth century || Tarihsel bilgi; akışa uymuyor.
+@o Charging stations are now common in most cities || Kömür ve çevre etkisi fikrine bağlanmıyor.
+@why İlk cümle olumlu bir görüş veriyor, son cümle bunun aksini gösteriyor; aradaki boşluğa zıtlık kuran geçiş cümlesi gerekir.
+@key emission = salım; overall = genel; impact = etki
+@gram However ile başlayan geçiş cümleleri paragrafın yönünü değiştirir.
+@w emission,overall,impact
+
+@t pc
+@q In many countries, the population is ageing rapidly. People are living longer, while birth rates are falling. ----. Governments will therefore need to find new ways to fund pensions and health care in the coming decades.
+@o Older people often enjoy spending time with their grandchildren || therefore cümlesine neden oluşturmuyor.
+@o* This means that there will be fewer workers to support a growing number of retired people
+@o Some young people choose not to have children at all || Doğum oranı bilgisini tekrar ediyor; ekonomik sonuca bağlanmıyor.
+@o Life expectancy is higher for women than for men || Konudan sapıyor.
+@o Many retired people continue to travel and learn new skills || Emeklilik masraflarıyla bağlantısız.
+@why therefore cümlesindeki sonuç (emeklilik ve sağlık finansmanı), çalışan sayısının azalmasından doğar.
+@key therefore = bu nedenle; fund = finanse etmek
+@gram therefore'dan önceki cümle mantıksal nedeni verir.
+@w therefore
+
+@t pc
+@q For centuries, people believed that the brain stopped developing after childhood. ----. Scientists now know that the brain can form new connections throughout life, a process known as neuroplasticity. This discovery has important implications for the treatment of brain injuries.
+@o The human brain weighs about 1.4 kilograms || Eski inanç ile yeni bilgi arasında geçiş sağlamıyor.
+@o* However, recent research has challenged this view
+@o Children learn languages faster than adults || Eski görüşü destekliyor; yeni bilgiye geçişi bozuyor.
+@o Many people suffer from memory loss as they get older || Paragrafın konusundan sapıyor.
+@o The brain uses about 20 percent of the body's energy || İlgisiz bilgi.
+@why Eski bir inanç, ardından yeni bilgi geliyor; arada eski görüşe karşı çıkan bir geçiş cümlesi gerekir.
+@key challenge a view = bir görüşe karşı çıkmak; implication = sonuç, etki
+@gram However + “this view” = önceki cümledeki görüşe gönderme.
+@w however,implication,challenge
+
+@t ct
+@q Coffee is one of the most widely consumed drinks in the world. ---- it was once considered unhealthy, recent studies suggest that moderate coffee consumption may actually reduce the risk of several diseases.
+@o Because || Sağlıksız sayılması, riskleri azaltmasının nedeni olamaz.
+@o* Although
+@o Since || Sebep bildirir; burada zıtlık var.
+@o Unless || Koşul bildirir; geçmiş bir durumla anlamsız.
+@o So that || Amaç bildirir.
+@why Önce “sağlıksız sayılıyordu”, sonra “riskleri azaltabilir” deniyor: zıtlık var.
+@key consumption = tüketim; moderate = ölçülü
+@gram although + cümle = -e rağmen.
+@w although,consumption
+
+@t ct
+@q The museum was closed for two years ---- extensive renovation work. It reopened last month with a new exhibition on ancient Egypt.
+@o despite || Restorasyon kapanmanın nedenidir, zıtlık yok.
+@o regardless of || “-e bakılmaksızın” anlamı; restorasyon kapanmanın nedenidir.
+@o* due to
+@o instead of || “yerine” anlamı mantıksız.
+@o in addition to || “ek olarak” anlamı uymuyor.
+@why Müzenin kapanma nedeni restorasyon; isimden önce sebep bildiren due to gelir.
+@key extensive = kapsamlı; renovation = yenileme
+@gram due to + isim; because + cümle.
+@w due to,extensive
+
+@t ct
+@q Many students find it difficult to ---- with the pressure of exams. Experts recommend regular breaks, enough sleep and physical exercise.
+@o come || “come with” bu anlamda kullanılmaz.
+@o* cope
+@o manage || manage doğrudan nesne alır: manage the pressure.
+@o handle || handle doğrudan nesne alır: handle the pressure.
+@o tackle || tackle doğrudan nesne alır ve genelde bir sorunla mücadele için kullanılır.
+@why Boşluktan sonra with geliyor; with ile kalıp oluşturan fiil cope'tur (cope with = başa çıkmak).
+@key cope with = başa çıkmak
+@gram Edatlı fiillerde boşluktan sonraki edat cevabı belirler.
+@w cope with
+
+@t ct
+@q Air pollution is a serious problem in many cities. ----, it causes millions of premature deaths every year, according to the World Health Organization.
+@o However || Zıtlık bildirir; ikinci cümle ilkini destekliyor.
+@o* In fact
+@o Otherwise || Koşul bildirir; anlamsız.
+@o Instead || Bir şeyin yerine geçme anlamı yok.
+@o Nevertheless || Zıtlık bildirir.
+@why İkinci cümle ilkindeki iddiayı güçlendiriyor; in fact (hatta, aslında) bunu sağlar.
+@key premature = erken, vaktinden önce
+@gram in fact = önceki ifadeyi güçlendirir ya da düzeltir.
+@w
+
+@t ct
+@q The new law requires all restaurants to display information about the calories ---- in each dish on their menus.
+@o consisted || consist edilgen kullanılmaz ve “of” ister.
+@o* contained
+@o involved || “calories involved in each dish” doğal değil.
+@o comprised || comprise bu yapıda doğal kullanılmaz.
+@o composed || be composed of = -den oluşmak; anlam uymuyor.
+@why the calories contained in each dish = her yemeğin içerdiği kalori (kısaltılmış ilgi cümlesi).
+@key contain = içermek; require = gerektirmek
+@gram calories (which are) contained in … : V3 ile kısaltılmış ilgi cümlesi.
+@w contain,require
+
+@t ct
+@q Scientists have long been interested in how birds find their way during migration. Some species travel thousands of kilometres ---- getting lost.
+@o* without
+@o despite || “kaybolmaya rağmen” anlamsız.
+@o instead of || “kaybolmak yerine” mantıksız.
+@o unless || Ardından cümle gelir, -ing değil.
+@o besides || “kaybolmanın yanı sıra” anlamsız.
+@why without getting lost = kaybolmadan.
+@key migration = göç
+@gram without + V-ing = …-meden.
+@w migration
+
+@t vocab
+@q Because the region receives very little rainfall, water is a ---- resource that must be managed carefully.
+@o* scarce
+@o abundant || Az yağış alan bir bölgede su bol olamaz.
+@o reluctant || İnsanlar için kullanılır (isteksiz); kaynak için uymaz.
+@o transparent || Su fiziksel olarak saydamdır ama burada kaynak miktarı soruluyor.
+@o widespread || “yaygın” anlamı “very little rainfall” ile çelişir.
+@why Çok az yağış, suyun kıt olduğunu gösterir.
+@key scarce = kıt; resource = kaynak
+@gram Because ile verilen neden, boşluktaki sıfatın anlamını belirler.
+@w scarce
+
+@t vocab
+@q The new vaccine was ---- for use only after it had passed three stages of clinical trials.
+@o rejected || Testleri geçtikten sonra reddedilmesi mantıksız.
+@o* approved
+@o ignored || “only after it had passed” onay sürecini anlatıyor.
+@o postponed || “for use” ile ertelenmek anlamsız.
+@o abandoned || Başarılı test sonrası terk edilmez.
+@why only after it had passed … trials: ancak testleri geçtikten sonra kullanım için onaylandı.
+@key approve = onaylamak; clinical trial = klinik deneme
+@gram be approved for use = kullanım için onaylanmak.
+@w approve
+
+@t vocab
+@q Long working hours can ---- the risk of depression, especially among young employees.
+@o* increase
+@o alleviate || Uzun çalışma saatleri riski hafifletmez.
+@o resolve || “resolve the risk” doğal bir kalıp değil.
+@o comprise || “oluşturmak / -den oluşmak” anlamı uymuyor.
+@o conceal || Riski “gizlemek” anlamsız.
+@why Uzun çalışma saatleri olumsuz bir etkendir; riski artırır.
+@key increase the risk of = riskini artırmak
+@gram risk ile kullanılan fiiller: increase / reduce / minimize the risk of.
+@w increase
+
+@t vocab
+@q The researchers were unable to ---- whether the drug caused the side effects, because too few patients took part in the study.
+@o* determine
+@o enforce || Yasa ya da kural uygulatmak için kullanılır.
+@o reinforce || Güçlendirmek; whether ile kullanılmaz.
+@o undergo || Ameliyat, değişim geçirmek; whether almaz.
+@o abandon || “whether” ile kullanılmaz.
+@why determine whether = -ip -mediğini kesin olarak saptamak; az katılımcı kesin sonuca engel.
+@key determine = belirlemek, saptamak
+@gram determine / establish / find out + whether.
+@w determine
+
+@t vocab
+@q Critics argue that the new policy will ---- the gap between rich and poor rather than close it.
+@o fill || Boşluğu doldurmak kapatmakla aynı yönde; rather than close it ile çelişir.
+@o* widen
+@o settle || “gap” ile kullanılmaz.
+@o derive || “-den türetmek”; anlamsız.
+@o conceive || “tasarlamak”; anlamsız.
+@why rather than close it: kapatmak yerine açacak, yani uçurumu genişletecek.
+@key widen the gap = uçurumu büyütmek; rather than = -mek yerine
+@gram rather than karşıtlık kurar; boşluk close'un zıttı olmalı.
+@w
+
+@t vocab
+@q Thanks to rapid economic growth, the number of people living in extreme poverty has ---- by more than half since the 1990s.
+@o* fallen
+@o risen || “Thanks to rapid economic growth” olumlu bir gelişme; yoksulluğun artması bununla çelişir.
+@o raised || raise nesne ister; nesnesiz kullanılamaz.
+@o arisen || arise “ortaya çıkmak”tır, miktar değişimi için kullanılmaz.
+@o enhanced || enhance nesne ister ve nitelik artışı için kullanılır.
+@why Hızlı ekonomik büyüme yoksulluğu azaltır; ayrıca raise, arise ve enhance yapı olarak uymaz.
+@key poverty = yoksulluk; fall by = … kadar düşmek
+@gram fall / rise / increase / decrease + by + miktar.
+@w poverty
+
+@t vocab
+@q Many species are unable to ---- to the rapid changes in temperature caused by global warming.
+@o adopt || adopt “benimsemek”tir ve to almaz.
+@o* adapt
+@o adhere || adhere to = (kurala) bağlı kalmak; değişime uyum anlamı vermez.
+@o accept || to almaz.
+@o approach || “yaklaşmak”; anlam uymaz.
+@why Türlerin değişen koşullara uyum sağlaması = adapt to.
+@key adapt to = uyum sağlamak; adopt = benimsemek
+@gram adapt to + isim; adopt + nesne.
+@w adapt,adopt
+
+@t vocab
+@q Smoking is the single most important ---- of lung cancer, responsible for around 85 percent of cases.
+@o remedy || Çare; sigara için ters anlam.
+@o* cause
+@o symptom || Belirti; sigara belirti değildir.
+@o outcome || Sonuç; sigara sonuç değil nedendir.
+@o diagnosis || Teşhis; anlam uymuyor.
+@why responsible for 85 percent of cases: sigara kanserin nedenidir.
+@key cause = neden; responsible for = -den sorumlu, -in nedeni
+@gram the cause of + isim.
+@w cause,responsible
+
+@t vocab
+@q The results of the two studies were so ---- that the researchers decided to repeat the experiment.
+@o* inconsistent
+@o reliable || Güvenilir sonuçlar deneyin tekrarını gerektirmez.
+@o comprehensive || Kapsamlı sonuçlar tekrar gerektirmez.
+@o identical || Aynı sonuçlar tekrar gerektirmez.
+@o adequate || Yeterli sonuçlar tekrar gerektirmez.
+@why so … that sonucu (deneyi tekrarlamak) olumsuz bir nitelik ister: tutarsız.
+@key inconsistent = tutarsız (consistent'ın zıttı)
+@gram so + sıfat + that + sonuç.
+@w consistent
+
+@t vocab
+@q Although the theory was ---- at first, it was later supported by a large body of evidence.
+@o confirmed || although zıtlık ister; önce doğrulanıp sonra desteklenmesi zıtlık değil.
+@o* dismissed
+@o accepted || Zıtlık oluşmuyor.
+@o endorsed || Zıtlık oluşmuyor.
+@o embraced || Zıtlık oluşmuyor.
+@why although: başta reddedildi, sonra kanıtlarla desteklendi.
+@key dismiss = önemsememek, reddetmek; evidence = kanıt
+@gram although + cümle ile kurulan zıtlıkta iki yargı ters yönde olmalıdır.
+@w dismiss,evidence
+
+@t vocab
+@q The company had to ---- its plans to open new stores because of a sudden fall in sales.
+@o accelerate || Satış düşüşü hızlandırmaya değil, ertelemeye yol açar.
+@o expand || Genişletmek; satış düşüşüyle çelişir.
+@o* postpone
+@o promote || “tanıtmak”; nedenle bağlantısız.
+@o implement || Uygulamak; satış düşüşüyle çelişir.
+@why because of a sudden fall in sales: satış düşünce planlar ertelenir.
+@key postpone = ertelemek
+@gram because of + isim; because + cümle.
+@w because of
+
+@t vocab
+@q In many cultures, it is considered rude to ---- someone while they are speaking.
+@o* interrupt
+@o interpret || “yorumlamak”; anlam uymuyor.
+@o integrate || “bütünleştirmek”; anlam uymuyor.
+@o interact || interact with ister.
+@o investigate || Araştırmak; anlam uymuyor.
+@why Biri konuşurken sözünü kesmek kaba sayılır.
+@key interrupt = sözünü kesmek
+@gram Biçimce benzer kelimeler (inter-) YDS'de sık çeldiricidir.
+@w
+
+@t vocab
+@q Doctors warn that ---- use of antibiotics can lead to the development of resistant bacteria.
+@o* excessive
+@o adequate || Yeterli kullanım dirence yol açmaz.
+@o minimal || Çok az kullanım dirence yol açmaz.
+@o temporary || Geçici kullanım tek başına neden değildir.
+@o voluntary || Gönüllü olması bağlamla ilgisiz.
+@why Dirençli bakterilerin gelişmesi aşırı kullanım sonucu olur.
+@key excessive = aşırı; resistant = dirençli
+@gram excessive + isim (excessive use / force / drinking).
+@w excessive,lead to
+
+@t vocab
+@q The minister refused to ---- on the details of the agreement, saying only that talks were going well.
+@o* elaborate
+@o insist || insist on ile anlam “ısrar etmek” olur; refused ile çelişir.
+@o rely || rely on “güvenmek”; anlam uymuyor.
+@o depend || depend on “bağlı olmak”; anlam uymuyor.
+@o reflect || reflect on “düşünmek”; burada ayrıntı vermek söz konusu.
+@why refused to elaborate on the details = ayrıntılara girmeyi reddetti; “saying only” bunu destekliyor.
+@key elaborate on = ayrıntılandırmak
+@gram elaborate on sth.
+@w elaborate
+
+@t vocab
+@q The two companies decided to ---- in order to compete more effectively against larger rivals.
+@o* merge
+@o separate || Ayrılmak rekabet gücünü artırmaz.
+@o collapse || Çökmek bir karar olamaz.
+@o resign || İstifa etmek şirketler için anlamsız.
+@o vanish || Kaybolmak bir karar değildir.
+@why Daha büyük rakiplere karşı güçlenmek için birleşmeye karar verdiler.
+@key merge = birleşmek; rival = rakip
+@gram in order to + fiil = amacıyla.
+@w merge,in order to
+
+@t vocab
+@q Rising house prices have made it ---- difficult for young people to buy their first home.
+@o* increasingly
+@o approximately || Yaklaşık; sıfatla bu şekilde kullanılmaz.
+@o barely || Neredeyse hiç; anlam tersine döner.
+@o solely || Yalnızca; anlam uymuyor.
+@o merely || Sadece; anlam uymuyor.
+@why Fiyatlar arttıkça ev almak giderek zorlaşıyor.
+@key increasingly = giderek
+@gram increasingly + sıfat = giderek daha …
+@w increasingly
+
+@t vocab
+@q Because the instructions were ----, many users installed the software incorrectly.
+@o explicit || Açık talimatlar hataya yol açmaz.
+@o precise || Kesin talimatlar hataya yol açmaz.
+@o* ambiguous
+@o comprehensive || Kapsamlı talimatlar hataya yol açmaz.
+@o reliable || Güvenilir talimatlar hataya yol açmaz.
+@why Kullanıcıların hata yapmasının nedeni talimatların belirsiz olmasıdır.
+@key ambiguous = belirsiz, çift anlamlı
+@gram Because ile verilen neden olumsuz bir nitelik ister.
+@w ambiguous
+
+@t vocab
+@q The charity aims to ---- the suffering of families who lost their homes in the earthquake.
+@o exacerbate || Yardım kuruluşu acıyı artırmaz.
+@o* alleviate
+@o provoke || Kışkırtmak; anlam uymuyor.
+@o undergo || Yaşamak, geçirmek; amaç bildiremez.
+@o inhibit || Süreç baskılamak için; suffering ile doğal değil.
+@why Yardım kuruluşunun amacı acıyı hafifletmektir.
+@key alleviate = hafifletmek; suffering = acı, ıstırap
+@gram aim to + fiil = amaçlamak.
+@w alleviate,exacerbate
+
+@t vocab
+@q Scientists have found no ---- evidence that the herbal remedy is more effective than a placebo.
+@o* convincing
+@o reluctant || İnsanlar için kullanılır.
+@o hostile || evidence ile kullanılmaz.
+@o fragile || evidence ile doğal değil.
+@o vulnerable || evidence ile kullanılmaz.
+@why no convincing evidence = ikna edici kanıt yok.
+@key convincing = ikna edici; remedy = çare, ilaç
+@gram convincing / strong / substantial + evidence.
+@w convince,evidence,remedy
+
+@t vocab
+@q The disease is ---- in tropical regions, where mosquitoes are common all year round.
+@o* prevalent
+@o scarce || Sivrisinek bol olan yerde hastalık az görülmez.
+@o immune || İnsanlar için kullanılır (immune to).
+@o reluctant || İnsanlar için kullanılır.
+@o deficient || deficient in + madde; anlam uymuyor.
+@why where mosquitoes are common: hastalık bu bölgelerde yaygındır.
+@key prevalent = yaygın
+@gram prevalent in + yer.
+@w prevalent
+
+@t ct
+@q Many people assume that intelligence is fixed at birth. ----, research shows that the brain continues to develop throughout life.
+@o Therefore || Sonuç bildirir; iki cümle zıt.
+@o* However
+@o Moreover || Ek bilgi bildirir; iki cümle zıt.
+@o For instance || Örnek vermez; zıt bir bulgu veriyor.
+@o Likewise || Benzerlik bildirir.
+@why Birinci cümle yaygın bir varsayım, ikinci cümle bunu çürüten bulgu: zıtlık.
+@key assume = varsaymak
+@gram However + virgül: iki ayrı cümle arasında zıtlık.
+@w however,assume
+
+@t ct
+@q The government introduced a sugar tax ---- reduce childhood obesity.
+@o so that || so that ardından özne + yüklem ister.
+@o* in order to
+@o because of || İsim ister; amaç bildirmez.
+@o despite || Zıtlık bildirir.
+@o as long as || Koşul bildirir ve cümle ister.
+@why Verginin amacı obeziteyi azaltmak; in order to + fiil.
+@key obesity = obezite; reduce = azaltmak
+@gram in order to + fiil; so that + cümle.
+@w in order to,obesity
+
+@t ct
+@q ---- the heavy traffic, we arrived at the conference on time.
+@o Although || Ardından özne + yüklem gerekir; burada isim öbeği var.
+@o* Despite
+@o Because of || Trafik zamanında varmanın nedeni olamaz.
+@o Even though || Ardından cümle gelmeli.
+@o Due to || Sebep bildirir; anlam ters.
+@why the heavy traffic bir isim öbeğidir ve zamanında varmakla zıttır: despite + isim.
+@key despite = -e rağmen
+@gram despite + isim / although + cümle.
+@w despite,although
+
+@t ct
+@q The study found that students who slept less than six hours performed worse, ---- those who slept eight hours achieved the highest scores.
+@o* whereas
+@o so that || Amaç bildirir.
+@o because || Sebep bildirir; iki grup karşılaştırılıyor.
+@o unless || Koşul bildirir.
+@o therefore || Bağlayıcı zarftır; virgülle iki cümleyi bu şekilde bağlayamaz.
+@why İki grup karşılaştırılıyor: whereas (oysa, -iken).
+@key perform = performans göstermek; achieve = elde etmek
+@gram whereas + cümle: iki durumu karşılaştırır.
+@w whereas,achieve
+
+@t ct
+@q You will not be allowed to take the exam ---- you bring a valid identity card.
+@o if || “if you bring” anlamı tersine çevirir.
+@o* unless
+@o because || Sebep anlamı mantıksız.
+@o although || Zıtlık anlamı mantıksız.
+@o so that || Amaç anlamı mantıksız.
+@why Kimlik getirmezsen sınava giremezsin: unless = if … not.
+@key valid = geçerli
+@gram unless + olumlu cümle.
+@w unless,valid
+
+@t ct
+@q The project was completed on time and under budget. ----, it received an award for good management.
+@o Nevertheless || Zıtlık bildirir; iki cümle aynı yönde.
+@o Otherwise || Koşul bildirir.
+@o* As a result
+@o In contrast || Karşıtlık bildirir.
+@o Instead || Yerine geçme anlamı yok.
+@why Zamanında ve bütçe altında bitmesi ödülün nedeni: sonuç bildiren bağlaç.
+@key as a result = sonuç olarak
+@gram Sonuç bağlaçları: therefore, consequently, as a result.
+@w as a result
+
+@t ct
+@q The new phone is lighter and faster than the previous model. ----, it has a longer battery life.
+@o However || Zıtlık bildirir; üç özellik de olumlu.
+@o* In addition
+@o Therefore || Sonuç bildirir; pil ömrü hafiflik ve hızın sonucu değil.
+@o Instead || Yerine geçme anlamı yok.
+@o Otherwise || Koşul bildirir.
+@why Olumlu özellikler sıralanıyor: ekleme bağlacı.
+@key previous = önceki
+@gram Ekleme: moreover, furthermore, in addition.
+@w in addition,previous
+
+@t ct
+@q The disease can be treated successfully ---- it is diagnosed at an early stage.
+@o unless || Anlamı tersine çevirir.
+@o although || Zıtlık yok.
+@o* provided that
+@o whereas || Karşılaştırma yok.
+@o in case || “ne olur ne olmaz diye” anlamı uymuyor.
+@why Tedavinin başarısı erken teşhis koşuluna bağlı: provided that = şartıyla.
+@key diagnose = teşhis etmek; provided that = şartıyla
+@gram provided that / as long as + cümle.
+@w provided that,diagnosis
+
+@t ct
+@q Many scientists believe that the dinosaurs died out ---- a massive asteroid hit the Earth about 66 million years ago.
+@o* because
+@o because of || Ardından isim gerekir; burada cümle var.
+@o despite || İsim ister ve zıtlık bildirir.
+@o so that || Amaç bildirir.
+@o unless || Koşul bildirir.
+@why Ardından özne + yüklem (an asteroid hit) geliyor ve sebep bildiriliyor: because.
+@key die out = yok olmak
+@gram because + cümle; because of + isim.
+@w because,because of
+
+@t sc
+@q Unless more is done to protect coral reefs, ----.
+@o tourists will continue to visit them every year || Koşulun olumsuz sonucunu vermiyor.
+@o* many of them could disappear within a few decades
+@o they have been studied by scientists for a long time || Zaman ve anlam uyumsuz.
+@o they provide a home for thousands of species || Koşulla bağlantısız genel bilgi.
+@o some countries have already introduced protection laws || Geçmiş bilgi; koşulun sonucu değil.
+@why Unless + koruma yapılmazsa → olumsuz bir sonuç (yok olabilirler).
+@key protect = korumak; disappear = yok olmak
+@gram unless + şimdiki zaman, ana cümlede will / could.
+@w unless,protect
+
+@t sc
+@q ----, the number of people working from home has increased dramatically.
+@o* Since the pandemic began
+@o Although fewer people now work remotely || Uzaktan çalışanların azaldığını söyler; artışla çelişir.
+@o Unless employers allow flexible working || Koşul; geçmişteki artışla uyumsuz.
+@o So that companies could save money || Amaç bildirir ve ana cümleyle uyumsuz.
+@o Until the pandemic began || until bitiş noktası bildirir; present perfect ve “artış” ile uyumsuz.
+@why has increased (present perfect) + since + başlangıç noktası.
+@key dramatically = çarpıcı biçimde
+@gram since + geçmiş olay, ana cümlede present perfect.
+@w since,increase
+
+
+@t sc
+@q The researchers had expected the new drug to reduce blood pressure; ----.
+@o therefore, they chose not to test it on any patients || Etki beklentisi, ilacı hiç denememenin nedeni olamaz; sonuç mantıksız.
+@o moreover, it was cheaper than other treatments || Ek bilgi; beklenti ile sonucu karşılaştırmıyor.
+@o* however, it had little effect in the clinical trials
+@o for example, many patients suffer from high blood pressure || Örnek ilişkisi yok.
+@o that is, it was designed to raise blood pressure || that is yeniden ifade bildirir; oysa “düşürme” beklentisiyle çelişiyor.
+@why had expected … ; however … beklentinin gerçekleşmediğini anlatır (zıtlık).
+@key expect = beklemek; effect = etki
+@gram had expected yapısı çoğu zaman beklentinin gerçekleşmediğini ima eder.
+@w however,reduce,effect
+
+@t sc
+@q Even though the city has one of the best public transport systems in the world, ----.
+@o its buses and trains are clean and punctual || Zıtlık yok; aynı yönde bilgi.
+@o* many residents still prefer to travel by car
+@o the city plans to extend its metro network further || Zıtlık yok; aynı yönde bilgi.
+@o tourists find it easy to get around || Aynı yönde bilgi.
+@o it is used by millions of people every day || Aynı yönde bilgi.
+@why Even though zıtlık ister: çok iyi toplu taşıma olmasına rağmen insanlar araba kullanıyor.
+@key prefer = tercih etmek
+@gram even though + cümle; ana cümlede still sık.
+@w even though
+
+@t sc
+@q The more time children spend reading for pleasure, ----.
+@o they spend less time on homework || Karşılaştırma yapısı tamamlanmıyor ve anlam tutarsız.
+@o* the wider their vocabulary tends to become
+@o because reading improves vocabulary || the more … the … yapısını tamamlamıyor.
+@o which is recommended by most teachers || Yapıyı tamamlamıyor.
+@o so they perform better at school || the more … the … yapısını tamamlamıyor.
+@why The more …, the + karşılaştırma … yapısı ikinci kısımda da “the + comparative” ister.
+@key vocabulary = kelime dağarcığı; tend to = eğiliminde olmak
+@gram The more …, the wider …
+@w tend
+
+@t sc
+@q Not only did the new law reduce air pollution, ----.
+@o so it was popular with voters || Not only … but also yapısını tamamlamıyor.
+@o* but it also improved public health
+@o although many people opposed it || Not only yapısını tamamlamıyor.
+@o which was the government's main aim || Yapı tamamlanmıyor.
+@o because traffic decreased in the city centre || Yapı tamamlanmıyor.
+@why Not only … but (also) … yapısı ikinci bir olumlu sonuç ister.
+@key reduce = azaltmak; improve = iyileştirmek
+@gram Not only başta ise devrik yapı gelir: Not only did …, but also …
+@w reduce
+
+@t sc
+@q ----, the region's economy has grown steadily over the past decade.
+@o* Thanks to its rich natural resources and skilled workforce
+@o In spite of its strong tourism sector || Güçlü turizm büyümeye engel değil; zıtlık mantıksız.
+@o Unless foreign companies invest in the area || Koşul; geçmişteki büyümeyle uyumsuz.
+@o Even though unemployment remains very low || Düşük işsizlik büyümeyle zıt değil.
+@o So that new jobs could be created || Amaç; yapıya uymuyor.
+@why Büyümenin nedeni olarak zengin kaynaklar ve nitelikli iş gücü veriliyor: thanks to + isim.
+@key steadily = istikrarlı biçimde; skilled = nitelikli
+@gram thanks to + isim = sayesinde.
+@w
+
+@t tr
+@q Bu bulgular, uyku eksikliğinin öğrenme ve hafıza üzerinde ciddi olumsuz etkileri olabileceğini göstermektedir.
+@o* These findings indicate that a lack of sleep may have serious negative effects on learning and memory.
+@o These findings prove that people who sleep less learn more slowly than others. || “kanıtlıyor” ve karşılaştırma kaynakta yok.
+@o According to these findings, learning and memory problems cause a lack of sleep. || Sebep-sonuç ters.
+@o These findings indicate that sleep has some effects on learning but not on memory. || Hafızayla ilgili bilgi tersine çevrilmiş.
+@o A lack of sleep had serious negative effects on learning and memory in these findings. || “-ebileceğini” (may) olasılığı kaybolmuş.
+@why göstermektedir = indicate; olabileceğini = may have; uyku eksikliği = a lack of sleep.
+@key indicate = göstermek; lack = eksiklik; effect = etki
+@gram may + fiil = -ebilir (olasılık).
+@w indicate,lack,effect
+
+@t tr
+@q Despite significant progress in recent decades, millions of children still do not have access to basic education.
+@o Son on yıllarda önemli ilerleme kaydedildiği için milyonlarca çocuk temel eğitime erişebiliyor. || despite “rağmen”dir; anlam tersine dönmüş.
+@o Milyonlarca çocuk son on yıllarda temel eğitime erişerek önemli ilerleme kaydetti. || Özne ve anlam değiştirilmiş.
+@o* Son on yıllarda kaydedilen önemli ilerlemeye rağmen milyonlarca çocuk hâlâ temel eğitime erişemiyor.
+@o Son on yıllarda temel eğitimde ilerleme olmadığı için milyonlarca çocuk okula gidemiyor. || “significant progress” bilgisi tersine çevrilmiş.
+@o Milyonlarca çocuğun temel eğitime erişememesi son on yıllardaki ilerlemeyi engelledi. || Sebep-sonuç uydurulmuş.
+@why Despite significant progress = önemli ilerlemeye rağmen; still do not have access = hâlâ erişemiyor.
+@key significant = önemli; access = erişim
+@gram despite + isim; ana cümlede still.
+@w despite,significant
+
+@t rs
+@q The museum is so popular that visitors are advised to book their tickets in advance.
+@o Visitors do not need to book because the museum is rarely crowded. || Anlam tersine dönmüş.
+@o* Because the museum attracts so many visitors, it is recommended that tickets be booked beforehand.
+@o The museum became popular after it started selling tickets online. || Kaynakta böyle bir sebep yok.
+@o Visitors who book in advance receive a discount at the popular museum. || İndirim bilgisi kaynakta yok.
+@o The museum advises visitors not to come during busy periods. || Tavsiye değiştirilmiş.
+@why so popular that … = o kadar popüler ki …; book in advance = beforehand.
+@key in advance = önceden; book = rezervasyon yapmak
+@gram so + sıfat + that = sebep-sonuç.
+@w
+
+@t rs
+@q Few people realise how much water is needed to produce a single cotton T-shirt.
+@o Most people know that cotton T-shirts require a lot of water. || Few = çok az kişi; anlam tersine dönmüş.
+@o* Not many people are aware of the large amount of water required to make one cotton T-shirt.
+@o Producing cotton T-shirts uses less water than people think. || Anlam tersine dönmüş.
+@o People should buy fewer cotton T-shirts to save water. || Tavsiye kaynakta yok.
+@o Cotton T-shirts are produced in places where water is scarce. || Kaynakta yer bilgisi yok.
+@why Few people realise = Not many people are aware.
+@key realise = farkına varmak; require = gerektirmek
+@gram few (çok az, olumsuz anlam) ≠ a few (birkaç, olumlu anlam).
+@w require
+
+@t rs
+@q The bridge would have collapsed if engineers had not reinforced it last year.
+@o The bridge collapsed even though engineers reinforced it. || Köprü çökmedi.
+@o Engineers reinforced the bridge after it collapsed last year. || Sıra ve sonuç yanlış.
+@o* The bridge did not collapse because engineers strengthened it last year.
+@o Engineers are planning to reinforce the bridge to prevent its collapse. || Gelecek planı kaynakta yok.
+@o The bridge is likely to collapse unless engineers reinforce it. || Zaman ve durum değişmiş.
+@why Üçüncü tip koşul: gerçekte güçlendirildi ve çökmedi.
+@key reinforce = güçlendirmek; collapse = çökmek
+@gram would have + V3 … if … had not + V3 = gerçekleşmemiş geçmiş.
+@w reinforce,collapse
+
+@t rs
+@q The company's profits rose by 20 percent, owing mainly to strong sales in Asia.
+@o Strong sales in Asia were caused by the company's rising profits. || Sebep-sonuç ters.
+@o* Strong sales in Asia were largely responsible for the 20 percent increase in the company's profits.
+@o The company's profits rose by 20 percent despite weak sales in Asia. || Anlam tersine dönmüş.
+@o The company plans to increase its sales in Asia by 20 percent. || Plan bilgisi kaynakta yok.
+@o Only 20 percent of the company's profits came from Asia. || Oran yanlış yorumlanmış.
+@why owing mainly to = largely responsible for (büyük ölçüde -den kaynaklanan).
+@key owing to = -den dolayı; responsible for = -in nedeni
+@gram owing to + isim = due to + isim.
+@w owing to,responsible,rise
+
+@t pc
+@q Social media platforms have changed the way news is shared. ----. As a result, false stories can spread to millions of people before they are corrected. Experts argue that platforms should do more to verify the information they host.
+@o Many newspapers now publish their articles online as well as in print || As a result cümlesinin nedenini vermiyor.
+@o* Information can now be shared instantly, often without being checked
+@o Social media was originally designed for keeping in touch with friends || Akıştan sapıyor.
+@o Some people prefer to read news on television || Konuyla bağlantısız.
+@o Advertising is the main source of income for most platforms || Yanlış haberin yayılmasını açıklamıyor.
+@why As a result cümlesinin nedeni: bilginin kontrol edilmeden anında paylaşılabilmesi.
+@key spread = yayılmak; verify = doğrulamak
+@gram As a result öncesindeki cümle neden olmalıdır.
+@w spread,verify,as a result
+
+@t pc
+@q Urban green spaces offer many benefits to city residents. They provide places for exercise and relaxation, and they help to reduce air pollution. ----. For example, trees can lower the temperature of nearby streets by several degrees during heatwaves.
+@o However, many cities lack the money to maintain their parks || For example cümlesinin genel ifadesi olamaz.
+@o* In addition, they can help to keep cities cool in summer
+@o Some parks are closed at night for safety reasons || Örnekle bağlantısız.
+@o Parks are especially popular with families with young children || Örnekle bağlantısız.
+@o Many people prefer to live in the countryside || Konudan sapıyor.
+@why For example cümlesi (ağaçların sıcaklığı düşürmesi) bir genel ifadeyi örneklemeli: şehirleri serin tutmak.
+@key benefit = fayda; reduce = azaltmak
+@gram For example öncesindeki cümle genel bir iddia içerir.
+@w benefit,reduce,for instance
+
+@t pc
+@q ----. However, recent studies suggest that moderate amounts of stress may actually be good for us. Short periods of stress can sharpen attention and improve memory. Problems arise only when stress becomes chronic.
+@o Researchers often measure stress by analysing hormone levels in saliva || Ölçüm yöntemi anlatıyor; However ile zıtlık kurulacak bir görüş yok.
+@o* Stress is usually seen as something entirely harmful
+@o Stress hormones are produced mainly by the adrenal glands || Nötr biyolojik bilgi; “actually good” ile zıtlık kurulmuyor.
+@o Stress levels vary considerably from one country to another || Ülkeler arası fark konusu However sonrasındaki fikirle bağlantısız.
+@o The word “stress” was originally borrowed from physics and engineering || Kelimenin kökeni; However ile zıtlık kurulacak bir yargı yok.
+@why However, stresin faydalı olabileceğini söylüyor; öncesinde stresi tamamen zararlı gören yaygın görüş olmalı.
+@key chronic = kronik; arise = ortaya çıkmak; harmful = zararlı
+@gram However öncesi ve sonrası zıt yargılar içerir.
+@w however,chronic,arise,harmful
+
+@t pc
+@q Antibiotics have saved millions of lives since they were first introduced. ----. Bacteria that survive treatment can multiply and pass on their resistance. Doctors are therefore urged to prescribe antibiotics only when they are really necessary.
+@o Penicillin was discovered by accident in 1928 || Direnç konusuna geçişi sağlamıyor.
+@o* However, their overuse has led to the rise of resistant bacteria
+@o Antibiotics are effective against bacteria but not against viruses || Direnç ve “therefore” cümlesine bağlanmıyor.
+@o Many antibiotics are now available without a prescription || Konudan sapıyor.
+@o Scientists are developing new types of vaccines || Konudan sapıyor.
+@why Sonraki cümle dirençli bakterilerin çoğalmasını anlatıyor; boşluk aşırı kullanımı ve direnç sorununu tanıtmalı.
+@key resistant = dirençli; prescribe = reçete etmek
+@gram However ile olumlu bilgiden olumsuz soruna geçiş.
+@w however,lead to,survive
+
+@t vocab
+@q Rather than easing the patient's breathing difficulties, the new medication appeared to ---- them, so doctors withdrew it immediately.
+@o alleviate || “Rather than easing” ile çelişir; alleviate zaten “hafifletmek” demektir.
+@o* exacerbate
+@o relieve || relieve “hafifletmek” anlamındadır; ilacın geri çekilmesiyle çelişir.
+@o verify || Bir ilaç solunum güçlüğünü “doğrulamaz”; anlamsız.
+@o anticipate || “Önceden tahmin etmek” bir ilacın etkisi olamaz.
+@why “Rather than easing” (hafifletmek yerine) ve ilacın geri çekilmesi, sorunların kötüleştiğini gösterir.
+@key exacerbate = kötüleştirmek; withdraw = geri çekmek
+@gram rather than = -mek yerine; boşluk ona zıt anlamlı bir fiil ister.
+@w exacerbate,alleviate,relieve,verify,anticipate
+
+@t vocab
+@q Facing a sharp fall in tax revenue, the government was forced to ---- public spending on several large infrastructure projects.
+@o augment || Gelir düşerken harcamayı artırmaya “zorlanmak” mantıksız.
+@o accelerate || Gelir düşüşü harcamaları hızlandırmayı gerektirmez.
+@o* curtail
+@o impose || “impose spending” doğal bir eşdizim değil; vergi/yasak dayatılır.
+@o bolster || Desteklemek/güçlendirmek, gelir kaybı bağlamıyla çelişir.
+@why Vergi gelirlerindeki sert düşüş, harcamaların kısılmasını zorunlu kılar.
+@key curtail = kısmak; revenue = gelir; infrastructure = altyapı
+@gram be forced to + V1 = -mek zorunda kalmak.
+@w curtail,augment,accelerate,impose,bolster,revenue,infrastructure
+
+@t vocab
+@q Intensive farming without crop rotation can ---- the nutrients in the soil within a few decades, leaving the land almost infertile.
+@o accumulate || Besinlerin birikmesi toprağı verimsiz bırakmaz.
+@o preserve || Korumak, “almost infertile” sonucuyla çelişir.
+@o generate || Besin üretmek verimsizliğe yol açmaz.
+@o* deplete
+@o reinforce || Güçlendirmek, verimsizlik sonucuyla çelişir.
+@why “leaving the land almost infertile” sonucu, besinlerin tükendiğini gösterir.
+@key deplete = tüketmek; nutrient = besin; infertile = verimsiz
+@gram leaving … : sonuç bildiren -ing yapısı, boşluktaki fiilin anlamını belirler.
+@w deplete,accumulate,preserve,generate,reinforce
+
+@t vocab
+@q Poor road networks continue to ---- the delivery of medical supplies to remote villages, causing serious delays in treatment.
+@o* impede
+@o facilitate || Kolaylaştırmak, “serious delays” ile çelişir.
+@o accelerate || Hızlandırmak gecikmeye yol açmaz.
+@o ensure || Kötü yollar teslimatı garanti etmez.
+@o promote || Teşvik etmek gecikme sonucuyla uyuşmaz.
+@why Kötü yollar teslimatı engeller; bu da tedavide gecikmeye neden olur.
+@key impede = engellemek; remote = uzak; supply = malzeme
+@gram causing … : önceki eylemin sonucunu bildiren -ing yapısı.
+@w impede,facilitate,accelerate,ensure,promote
+
+@t vocab
+@q Teachers who encourage students to ask questions freely help to ---- a classroom culture in which curiosity is valued.
+@o undermine || Soru sormayı teşvik etmek kültürü zayıflatmaz.
+@o suppress || Bastırmak, olumlu bağlamla çelişir.
+@o abandon || Merakın değer gördüğü bir kültür terk edilmez, oluşturulur.
+@o* foster
+@o terminate || Sona erdirmek olumlu bağlama uymaz.
+@why Soru sormayı teşvik etmek, merakın değer gördüğü bir sınıf kültürünü geliştirir.
+@key foster = geliştirmek, beslemek; curiosity = merak
+@gram help (to) + V1 = -meye yardım etmek.
+@w foster,undermine,suppress,abandon,terminate,encourage
+
+@t vocab
+@q Before the findings were published, independent experts were asked to ---- the data carefully for any errors or inconsistencies.
+@o conceal || Hataları bulmak için veri gizlenmez.
+@o* scrutinize
+@o dismiss || “carefully for any errors” incelemeyi gerektirir, reddetmeyi değil.
+@o omit || Veriyi çıkarmak hata aramakla bağdaşmaz.
+@o distort || Bağımsız uzmanlardan veriyi çarpıtmaları istenmez.
+@why “for any errors or inconsistencies” ifadesi dikkatli bir incelemeyi gösterir.
+@key scrutinize = titizlikle incelemek; inconsistency = tutarsızlık
+@gram scrutinize sth for errors = bir şeyi hata bakımından incelemek.
+@w scrutinize,conceal,dismiss,omit
+
+@t vocab
+@q Although the theory has not yet been tested experimentally, it offers a ---- explanation for the sudden disappearance of the region's ancient civilisation.
+@o flawed || Although zıtlık ister; “test edilmedi ama kusurlu” zıtlık oluşturmaz.
+@o reluctant || İnsanlar için kullanılır (isteksiz); açıklama için uymaz.
+@o* plausible
+@o negligible || “önemsiz açıklama” zıtlık mantığına uymaz.
+@o redundant || “gereksiz” açıklama, although'ın kurduğu zıtlığa uymaz.
+@why Although'ın kurduğu zıtlık: test edilmemiş olsa da akla yatkın bir açıklama sunuyor.
+@key plausible = akla yatkın; experimentally = deneysel olarak
+@gram although + cümle = -e rağmen; ikinci cümle olumlu bir nitelik ister.
+@w plausible,flawed,reluctant,negligible,although
+
+@t vocab
+@q The study found that the side effects of the drug were ----, affecting fewer than one in ten thousand patients.
+@o widespread || On binde birden az hastayı etkileyen bir şey yaygın değildir.
+@o substantial || “kayda değer” anlamı çok düşük oranla çelişir.
+@o considerable || Hatırı sayılır olması verilen oranla çelişir.
+@o pervasive || Her yere yayılmış olması çok düşük oranla çelişir.
+@o* negligible
+@why “fewer than one in ten thousand” yan etkilerin ihmal edilebilir düzeyde olduğunu gösterir.
+@key negligible = ihmal edilebilir; side effect = yan etki
+@gram Virgülden sonraki -ing yapısı boşluğu açıklar.
+@w negligible,widespread,substantial,considerable,pervasive
+
+@t vocab
+@q Elderly people and young children are particularly ---- to heat stroke because their bodies regulate temperature less efficiently.
+@o immune || Vücut ısıyı daha az verimli düzenliyorsa bağışık olamazlar.
+@o* susceptible
+@o indifferent || “Kayıtsız” anlamı bir hastalık riskine uymaz.
+@o hostile || Düşmanca olmak anlamsız.
+@o tolerant || Dayanıklılık, verilen nedenle (daha az verimli düzenleme) çelişir.
+@why because ile verilen neden, bu grupların sıcak çarpmasına yatkın olduğunu gösterir.
+@key susceptible to = -e yatkın / karşı savunmasız; regulate = düzenlemek
+@gram be susceptible to + isim.
+@w susceptible,immune,indifferent,hostile,tolerant,regulate
+
+@t vocab
+@q ---- exposure to loud noise, such as that experienced by factory workers over many years, can result in permanent hearing loss.
+@o Temporary || “over many years” geçici maruziyetle çelişir.
+@o Initial || İlk maruziyet “yıllar boyunca” ifadesine uymaz.
+@o* Prolonged
+@o Simultaneous || “Eşzamanlı” anlamı süre vurgusuna uymaz.
+@o Partial || Kısmi maruziyet kalıcı kaybı açıklamaz; süre bilgisiyle ilgisiz.
+@why “over many years” uzun süreli maruziyeti gösterir.
+@key prolonged = uzun süreli; exposure = maruz kalma; permanent = kalıcı
+@gram result in = -e yol açmak.
+@w prolonged,temporary,initial,simultaneous,partial,result in,permanent
+
+@t vocab
+@q Given the steady rise in sea levels, many experts believe that the relocation of some coastal communities is ----, whatever measures are taken now.
+@o reluctant || İnsanlar için kullanılır; “yer değiştirme isteksizdir” anlamsız.
+@o avoidable || “whatever measures are taken” (ne önlem alınırsa alınsın) kaçınılabilirlikle çelişir.
+@o unprecedented || “whatever measures are taken” kaçınılmazlık vurgular, benzersizlik değil.
+@o* inevitable
+@o marginal || “önemsiz” anlamı “ne önlem alınırsa alınsın” ile bağlantısız.
+@why “whatever measures are taken now” ne yapılırsa yapılsın olacağını, yani kaçınılmazlığı anlatır.
+@key inevitable = kaçınılmaz; relocation = yer değiştirme
+@gram whatever + cümle = ne … -se -sın.
+@w inevitable,reluctant,unprecedented,marginal
+
+@t vocab
+@q Many economists remain ---- about the government's claim that the new tax will create thousands of jobs, pointing out that similar policies failed in the past.
+@o enthusiastic || Benzer politikaların başarısız olduğunu söyleyen biri hevesli değildir.
+@o* sceptical
+@o confident || İddiaya güvenmek, geçmiş başarısızlıkları vurgulamakla çelişir.
+@o keen || Hevesli olmak eleştirel gerekçeyle çelişir; ayrıca keen on ile kullanılır.
+@o optimistic || İyimserlik, geçmiş başarısızlıklara dikkat çeken eleştirel tutumla çelişir.
+@why Geçmiş başarısızlıklara dikkat çekmek, iddiaya şüpheyle bakıldığını gösterir.
+@key sceptical = şüpheci; point out = belirtmek
+@gram remain + sıfat = … olarak kalmak.
+@w sceptical,enthusiastic,keen,claim,point out
+
+@t vocab
+@q Only a small proportion of the athletes managed to ---- the qualifying standard required for the Olympic Games.
+@o abandon || “managed to” başarı bildirir; standardı terk etmek başarı değildir.
+@o impose || Sporcular standart dayatmaz.
+@o resemble || “benzemek” anlamı uymaz.
+@o* attain
+@o revise || Sporcular yeterlilik standardını değiştiremez.
+@why manage to (başarmak) ve “qualifying standard” bir hedefe ulaşmayı gösterir.
+@key attain = ulaşmak, elde etmek; proportion = oran
+@gram manage to + V1 = -meyi başarmak.
+@w attain,abandon,impose,resemble,revise,require
+
+@t vocab
+@q Some companies have been accused of trying to ---- the environmental damage caused by their factories by publishing misleading reports.
+@o* conceal
+@o disclose || Yanıltıcı raporlar zararı açıklamaz, gizler.
+@o reveal || Ortaya koymak “misleading” ile çelişir.
+@o expose || Yanıltıcı raporlar zararı açığa çıkarmaz, örter.
+@o highlight || Vurgulamak yanıltıcı raporlarla bağdaşmaz.
+@why “misleading reports” ve “accused” zararın gizlenmeye çalışıldığını gösterir.
+@key conceal = gizlemek; misleading = yanıltıcı
+@gram be accused of + V-ing = -mekle suçlanmak.
+@w conceal,disclose,reveal,expose,highlight,damage
+
+@t vocab
+@q Thanks to generous government support, small businesses in the region began to ---- after years of economic stagnation.
+@o collapse || “Thanks to generous support” olumlu sonuç ister.
+@o vanish || Destek sayesinde yok olmak mantıksız.
+@o* flourish
+@o deteriorate || Kötüleşmek destekle çelişir.
+@o cease || Faaliyeti durdurmak olumlu bağlama uymaz.
+@why Cömert destek ve “after years of stagnation” işletmelerin gelişip serpildiğini gösterir.
+@key flourish = gelişmek, serpilmek; stagnation = durgunluk
+@gram thanks to + isim = sayesinde.
+@w flourish,collapse,vanish,deteriorate,cease
+
+@t vocab
+@q As young people moved to the cities in search of work, the population of many mountain villages continued to ----.
+@o soar || Gençler göç ederken nüfus hızla artmaz.
+@o expand || Genişlemek göçle çelişir.
+@o proliferate || Hızla çoğalmak göçle çelişir.
+@o* dwindle
+@o accumulate || Nüfus için “birikmek” doğal değil; anlam da çelişir.
+@why Gençlerin şehre göçü köy nüfusunun giderek azaldığını gösterir.
+@key dwindle = giderek azalmak; in search of = arayışında
+@gram as + cümle burada “-dıkça / -ken” anlamında neden-zaman bildirir.
+@w dwindle,soar,expand,proliferate,accumulate
+
+@t vocab
+@q The report provides a ---- review of the literature, covering more than three hundred studies published over the last fifty years.
+@o partial || 300'den fazla çalışmayı kapsayan inceleme kısmi değildir.
+@o* comprehensive
+@o minimal || “en az” anlamı geniş kapsamla çelişir.
+@o marginal || “önemsiz” kapsam bilgisiyle çelişir.
+@o temporary || Geçici bir literatür taraması anlamsız.
+@why “covering more than three hundred studies” incelemenin kapsamlı olduğunu gösterir.
+@key comprehensive = kapsamlı; literature = alanyazın
+@gram covering … : boşluğu açıklayan -ing yapısı.
+@w comprehensive,partial,minimal,marginal,temporary
+
+@t vocab
+@q Early diagnosis and proper medical care can significantly ---- the long-term effects of a stroke.
+@o exacerbate || Doğru tıbbi bakım etkileri kötüleştirmez.
+@o intensify || Şiddetlendirmek olumlu bağlamla çelişir.
+@o provoke || Kışkırtmak/tetiklemek bakımın amacı olamaz.
+@o sustain || Etkileri sürdürmek tedavinin amacıyla çelişir.
+@o* mitigate
+@why Erken tanı ve uygun bakım, inmenin uzun vadeli etkilerini hafifletir.
+@key mitigate = hafifletmek; diagnosis = tanı
+@gram can + V1; significantly fiili niteler.
+@w mitigate,exacerbate,intensify,provoke,sustain,diagnosis
+
+@t vocab
+@q Higher fines were introduced in the hope that they would ---- drivers from using their mobile phones while driving.
+@o motivate || motivate “from” ile kullanılmaz ve anlam tersidir.
+@o* deter
+@o urge || urge + to V1 alır; anlam da tersidir.
+@o exempt || exempt sb from = muaf tutmak; ceza sürücüleri muaf tutmaz, caydırır.
+@o excuse || excuse sb from = bir yükümlülükten muaf tutmak; telefon kullanmak bir yükümlülük değildir.
+@why Cezalar sürücüleri telefon kullanmaktan caydırmak için getirilir; deter from bunu karşılar.
+@key deter sb from V-ing = birini -mekten caydırmak; fine = para cezası
+@gram deter/prevent/discourage + sb + from + V-ing kalıbı; exempt/excuse from da aynı yapıyı alır ama “muaf tutmak” demektir.
+@w deter,motivate,urge
+
+@t vocab
+@q The auditors noticed a significant ---- between the company's reported profits and the actual amount of money in its bank accounts.
+@o surplus || Fazla “between A and B” kalıbıyla kullanılmaz.
+@o* discrepancy
+@o incentive || Teşvik anlamı denetim bağlamına uymaz.
+@o setback || Aksilik iki rakam arasındaki farkı anlatmaz.
+@o burden || Yük anlamı iki değer karşılaştırmasına uymaz.
+@why Bildirilen kâr ile gerçek para arasındaki uyuşmazlık discrepancy ile ifade edilir.
+@key discrepancy = tutarsızlık, uyuşmazlık; auditor = denetçi
+@gram a discrepancy between A and B = A ile B arasındaki tutarsızlık.
+@w discrepancy,surplus,incentive,setback,burden,significant
+
+@t ct
+@q Solar panels have become much cheaper over the past decade. ----, their installation costs still prevent many low-income households from using them.
+@o Therefore || Sonuç bildirir; ucuzlama kullanımı engellemenin nedeni değildir.
+@o Moreover || Ekleme bildirir; burada zıtlık var.
+@o* Nevertheless
+@o For instance || Örnek vermez; zıt bir bilgi sunar.
+@o Likewise || Benzerlik bildirir; zıtlık gerekir.
+@why Paneller ucuzladı ama kurulum maliyetleri hâlâ engel: zıtlık var.
+@key installation = kurulum; household = hane
+@gram nevertheless = yine de; cümle başında virgülle kullanılır.
+@w nevertheless,therefore,moreover,for instance,likewise,income
+
+@t ct
+@q Some species of bacteria thrive in extremely hot environments, ---- others cannot survive at temperatures above 40 °C.
+@o because || Bir türün sıcakta gelişmesi diğerinin ölmesinin nedeni değil.
+@o so that || Amaç bildirir; anlamsız.
+@o* whereas
+@o unless || Koşul bildirir; iki tür arasındaki karşıtlığı kuramaz.
+@o as long as || “-dığı sürece” koşulu mantıksız.
+@why İki grup karşılaştırılıyor: bazıları sıcakta gelişir, diğerleri yaşayamaz.
+@key thrive = gelişmek; survive = hayatta kalmak
+@gram whereas = oysa, -iken (iki durumu karşılaştırır).
+@w whereas,because,so that,unless,as long as,thrive,survive,species
+
+@t ct
+@q The factory failed to meet the new emission standards; ----, it was fined and ordered to suspend production.
+@o nevertheless || Zıtlık bildirir; ceza, başarısızlığın beklenen sonucudur.
+@o conversely || Karşıt durum bildirir; neden-sonuç var.
+@o otherwise || “aksi takdirde” anlamı geçmişte gerçekleşen sonuca uymaz.
+@o likewise || Benzerlik bildirir.
+@o* consequently
+@why Standartları karşılayamamanın sonucu ceza ve üretimin durdurulmasıdır.
+@key emission = salım; suspend = askıya almak
+@gram ; consequently, = sonuç olarak (noktalı virgülden sonra).
+@w consequently,nevertheless,conversely,otherwise,likewise,emission
+
+@t ct
+@q The old bridge was declared safe for traffic ---- engineers had found several small cracks in its supports.
+@o because || Çatlak bulunması güvenli ilan edilmenin nedeni olamaz.
+@o so that || Amaç bildirir; anlamsız.
+@o* even though
+@o provided that || Koşul anlamı geçmişteki bulguya uymaz.
+@o unless || “çatlak bulmadıkça” anlamı mantıksız.
+@why Çatlaklara rağmen güvenli ilan edildi: beklenmedik zıtlık var.
+@key declare = ilan etmek; crack = çatlak
+@gram even though + cümle = -mesine rağmen.
+@w even though,because,so that,provided that,unless,declare
+
+@t ct
+@q Researchers will be allowed to access the archive ---- they agree not to publish any personal information about the individuals involved.
+@o even though || Zıtlık bildirir; burada izin için şart var.
+@o whereas || Karşılaştırma bildirir.
+@o* provided that
+@o unless || “anlaşmadıkça izin verilir” anlamı tersine döner.
+@o so that || Amaç bildirir; anlaşmak erişimin amacı değildir.
+@why Erişim izni, kişisel bilgi yayımlamama şartına bağlı.
+@key access = erişmek; involved = ilgili
+@gram provided that = şartıyla, -mesi koşuluyla.
+@w provided that,even though,whereas,unless,so that,involve
+
+@t ct
+@q Many traditional crafts are in danger of disappearing. Weaving, ----, is now practised by only a handful of elderly artisans in the region.
+@o however || Zıtlık yok; dokumacılık ilk cümleyi destekleyen bir örnek.
+@o otherwise || “aksi halde” anlamı uymaz.
+@o in contrast || Karşıtlık yok; aynı duruma örnek veriliyor.
+@o* for instance
+@o instead || “bunun yerine” anlamı verir; burada bir şeyin yerine geçme değil, örnek var.
+@why Dokumacılık, yok olma tehlikesindeki el sanatlarına bir örnektir.
+@key craft = el sanatı; artisan = zanaatkâr
+@gram for instance cümle içinde virgüller arasında kullanılabilir.
+@w for instance,however,otherwise,in contrast
+
+@t ct
+@q Regular physical activity strengthens the heart and lungs. ----, it has been shown to improve mood and reduce anxiety.
+@o Nevertheless || Zıtlık yok; ikinci cümle ek bir fayda ekliyor.
+@o* Furthermore
+@o Conversely || Karşıt durum bildirir.
+@o Otherwise || “aksi halde” anlamsız.
+@o Namely || “yani” ile açıklama yapılmaz; yeni bilgi ekleniyor.
+@why İlk cümledeki faydaya ikinci bir fayda ekleniyor.
+@key strengthen = güçlendirmek; anxiety = kaygı
+@gram furthermore = ayrıca, üstelik (ekleme).
+@w furthermore,nevertheless,conversely,otherwise,namely,reduce
+
+@t ct
+@q Governments must invest heavily in flood defences; ----, rising sea levels could leave millions of coastal residents homeless.
+@o likewise || Benzerlik bildirir.
+@o moreover || Ekleme bildirir; burada “yapılmazsa” anlamı gerekir.
+@o* otherwise
+@o namely || Açıklama bildirir.
+@o hence || Sonuç bildirir; yatırım evsizliğe yol açmaz.
+@why Yatırım yapılmazsa ne olacağı anlatılıyor: aksi takdirde.
+@key flood defence = sel koruma; resident = sakin
+@gram otherwise = aksi takdirde; ardından genelde could/would gelir.
+@w otherwise,likewise,moreover,namely,hence,investment
+
+@t ct
+@q The two languages share a common origin; ----, their grammatical structures differ considerably today.
+@o thus || Ortak köken farklılığın nedeni değildir.
+@o likewise || Benzerlik bildirir; farklılık anlatılıyor.
+@o for instance || Örnek vermez.
+@o* nonetheless
+@o in other words || Yeniden ifade değil, zıt bilgi var.
+@why Ortak köken ve bugünkü farklılık arasında zıtlık var.
+@key origin = köken; differ = farklılık göstermek
+@gram nonetheless = yine de, buna rağmen.
+@w nonetheless,thus,likewise,for instance,in other words,differ
+
+@t ct
+@q ---- the severe drought that affected much of the country, the region's wheat production reached a record high last year.
+@o* Despite
+@o Because of || Kuraklık rekor üretimin nedeni olamaz; zıtlık var.
+@o Although || Cümle bağlacıdır; isimden önce kullanılamaz.
+@o Owing to || Sebep bildirir; beklenmedik bir zıtlık var.
+@o Since || Since + isim “-den beri” demektir ve present perfect ister; reached ile ve anlamca uymaz.
+@why Kuraklık üretimi olumsuz etkiler; buna rağmen rekor üretim var.
+@key drought = kuraklık; record high = rekor seviye
+@gram despite + isim; although + cümle.
+@w despite,because of,although,owing to,since,drought
+
+@t ct
+@q The success of the reform will largely depend ---- the willingness of local authorities to implement it.
+@o in || depend “in” ile kullanılmaz.
+@o at || depend “at” ile kullanılmaz.
+@o* on
+@o with || depend “with” ile kullanılmaz.
+@o for || depend “for” ile kullanılmaz.
+@why depend on = -e bağlı olmak.
+@key willingness = isteklilik; implement = uygulamak
+@gram depend on / rely on: fiil + edat kalıbı.
+@w depend on,largely,implement,authority,reform
+
+@t ct
+@q Several studies have attributed the rise in childhood asthma ---- poor air quality in urban areas.
+@o for || attribute “for” ile kullanılmaz.
+@o with || attribute “with” ile kullanılmaz.
+@o on || attribute “on” ile kullanılmaz.
+@o* to
+@o from || “from” stem from/derive from ile gelir.
+@why attribute A to B = A'yı B'ye bağlamak.
+@key attribute = atfetmek, bağlamak; asthma = astım
+@gram attribute something to something kalıbı.
+@w attribute,urban
+
+@t ct
+@q The new transport policy is consistent ---- the country's long-term environmental goals.
+@o* with
+@o to || consistent “to” ile kullanılmaz.
+@o of || consistent “of” ile kullanılmaz.
+@o from || consistent “from” ile kullanılmaz.
+@o on || consistent “on” ile kullanılmaz.
+@why be consistent with = ile tutarlı olmak.
+@key consistent with = ile uyumlu; long-term = uzun vadeli
+@gram Sıfat + edat kalıpları: consistent with, similar to.
+@w consistent
+
+@t ct
+@q Children who are deprived ---- adequate nutrition in their early years often experience problems with cognitive development.
+@o from || deprive “from” ile kullanılmaz.
+@o with || deprive “with” ile kullanılmaz.
+@o by || Edilgen etken için by gelebilir ama burada mahrum bırakılan şey verilmeli.
+@o for || deprive “for” ile kullanılmaz.
+@o* of
+@why be deprived of = -den yoksun bırakılmak.
+@key deprive of = mahrum bırakmak; nutrition = beslenme; cognitive = bilişsel
+@gram deprive sb of sth kalıbı (rob of, strip of gibi).
+@w deprive,adequate,nutrition,cognitive
+
+@t ct
+@q The research team has embarked ---- an ambitious project to map every neuron in the fruit fly brain.
+@o with || embark “with” ile kullanılmaz.
+@o* on
+@o at || embark “at” ile kullanılmaz.
+@o for || embark for = bir yere gitmek üzere gemiye binmek; proje için kullanılmaz.
+@o to || embark “to” ile kullanılmaz.
+@why embark on = (büyük bir işe) girişmek.
+@key embark on = başlamak, girişmek; ambitious = iddialı
+@gram embark on/upon + isim.
+@w embark on
+
+@t ct
+@q Many coastal cities are now vulnerable ---- flooding as a result of rising sea levels.
+@o of || vulnerable “of” ile kullanılmaz.
+@o from || vulnerable “from” ile kullanılmaz.
+@o* to
+@o against || against koruma bildirir (protect against); vulnerable ile uymaz.
+@o with || vulnerable “with” ile kullanılmaz.
+@why be vulnerable to = -e karşı savunmasız olmak.
+@key vulnerable = savunmasız; as a result of = -in sonucu olarak
+@gram Sıfat + edat: vulnerable/susceptible/prone to.
+@w vulnerable,as a result
+
+@t ct
+@q Since the 1970s, the average global temperature ---- by approximately 1 °C, according to climate records.
+@o rose || Since ile simple past kullanılmaz; etkisi süren bir durum var.
+@o had risen || Geçmişte bir referans noktası yok.
+@o* has risen
+@o is rising || Since ile present continuous kullanılmaz.
+@o was rising || Since ile past continuous kullanılmaz.
+@why Since + geçmiş zaman noktası, present perfect gerektirir.
+@key approximately = yaklaşık olarak; record = kayıt
+@gram since + zaman noktası → present perfect (have/has + V3).
+@w rise,approximately,since
+
+@t ct
+@q The ancient manuscript, which ---- in a cave in 1947, is now displayed at the national museum.
+@o discovered || Etken çatı; el yazması kendisi bir şey keşfetmez.
+@o* was discovered
+@o has been discovered || 1947 belirli geçmiş zamandır; present perfect kullanılmaz.
+@o had discovered || Etken ve past perfect; anlam ve zaman uymaz.
+@o is discovered || Geniş zaman edilgen 1947 ile uyuşmaz.
+@why El yazması keşfedilen nesnedir ve 1947 belirli geçmiş: past simple passive.
+@key manuscript = el yazması; display = sergilemek
+@gram was/were + V3 = geçmiş zaman edilgen.
+@w display
+
+@t ct
+@q Many long-term smokers find it extremely difficult to give up ---- even when they are fully aware of the serious health risks.
+@o to smoke || give up yalnızca -ing alır.
+@o* smoking
+@o smoke || give up'tan sonra yalın fiil gelmez.
+@o smoked || V3 bu yapıda kullanılamaz.
+@o to be smoking || give up + to-infinitive kullanılmaz.
+@why give up + V-ing = -meyi bırakmak.
+@key give up = bırakmak; be aware of = -in farkında olmak
+@gram give up, avoid, quit, keep gibi fiiller -ing alır.
+@w risk
+
+@t ct
+@q The city council has decided ---- a bicycle-sharing scheme in an attempt to reduce air pollution in the city centre.
+@o introducing || decide -ing almaz.
+@o introduce || decide'dan sonra yalın fiil gelmez.
+@o* to introduce
+@o introduced || V3 bu yapıda kullanılamaz.
+@o having introduced || decide perfect gerund almaz.
+@why decide + to V1 = -meye karar vermek.
+@key in an attempt to = -mek amacıyla; scheme = program
+@gram decide, plan, aim, refuse gibi fiiller to-infinitive alır.
+@w reduce
+
+@t ct
+@q Marie Curie, ---- research on radioactivity earned her two Nobel Prizes, was the first woman to teach at the Sorbonne.
+@o who || Boşluktan sonra isim (research) var; iyelik gerekir.
+@o which || Kişi için kullanılmaz ve iyelik bildirmez.
+@o whom || Nesne zamiridir; isimden önce gelmez.
+@o* whose
+@o that || Virgüllü ilgi cümlesinde kullanılmaz ve iyelik bildirmez.
+@why “onun araştırması” anlamında iyelik ilgi zamiri whose gerekir.
+@key radioactivity = radyoaktivite; earn = kazandırmak
+@gram whose + isim = -in … -sı olan (iyelik).
+@w
+
+@t ct
+@q The new battery stores energy far ---- than conventional lithium-ion batteries, allowing electric vehicles to travel much longer distances.
+@o more efficient || Fiili (stores) nitelemek için zarf gerekir.
+@o most efficiently || than ile üstünlük derecesi kullanılmaz.
+@o* more efficiently
+@o efficiently || than karşılaştırma derecesi ister.
+@o efficient || Sıfattır ve karşılaştırma eki yok.
+@why stores fiilini niteleyen zarfın karşılaştırma hali gerekir: more efficiently than.
+@key conventional = geleneksel; distance = mesafe
+@gram far/much + comparative + than; fiili zarf niteler.
+@w
+
+@t ct
+@q If the vaccine had been distributed more quickly, thousands of lives ----.
+@o will be saved || Type 3 koşulda will kullanılmaz.
+@o would save || Hayatlar kurtarılan şeydir; edilgen gerekir ve zaman uymaz.
+@o can be saved || Geçmişe dair koşulda can uymaz.
+@o* could have been saved
+@o would have saved || Etken çatı; hayatlar kendileri kurtarmaz.
+@why had been + V3 içeren koşul geçmişe aittir; ana cümle could/would have + been + V3 (edilgen) alır.
+@key distribute = dağıtmak; save lives = hayat kurtarmak
+@gram Type 3: If + past perfect, … would/could have + V3.
+@w vaccine,if
+
+@t ct
+@q By the time the firefighters arrived at the scene, the fire ---- most of the building.
+@o has already destroyed || Geçmiş bir anla ilişkili; present perfect uymaz.
+@o already destroys || Geniş zaman geçmiş olayla uyuşmaz.
+@o* had already destroyed
+@o was already destroyed || Edilgen çatı; ardından nesne (most of the building) gelemez.
+@o will have destroyed || Gelecek zaman; arrived ile uyuşmaz.
+@why By the time + past simple → daha önce tamamlanmış eylem için past perfect.
+@key by the time = -dığında (çoktan); destroy = yok etmek
+@gram by the time + V2, … had + V3.
+@w
+
+@t ct
+@q The researchers returned to the island ---- the rare lizard species had first been observed decades earlier.
+@o which || Ardından tam cümle var; yer bildiren ilgi zarfı gerekir.
+@o whose || Ardından isim-iyelik ilişkisi yok.
+@o what || İlgi cümlesinde isimden sonra kullanılmaz.
+@o who || Ada bir kişi değildir.
+@o* where
+@why Ada bir yer ve ardından eksiksiz bir cümle geliyor: where.
+@key observe = gözlemlemek; species = tür
+@gram Yer bildiren isim + where + tam cümle (= in which).
+@w observe,species
+
+@t sc
+@q Older adults tend to recall events from their distant past with remarkable clarity, ----.
+@o which is why they rarely remember their childhood experiences || Sonuç bildiriyor ama ilk yarıyla çelişiyor: uzak geçmişi net hatırlayan biri çocukluğunu unutmaz.
+@o although distant memories are usually recalled with great clarity || Aynı bilgiyi tekrar ediyor; although'un gerektirdiği zıtlık yok.
+@o* whereas their memory for recent events often deteriorates noticeably
+@o unless they are asked to describe events from their own childhood || Çocukluk da uzak geçmiştir; “çocukluklarını anlatmaları istenmedikçe net hatırlarlar” mantıksız.
+@o since they had forgotten most of what happened decades ago || Sebep olarak sunulan bilgi, uzak geçmişi net hatırlama fikriyle çelişiyor.
+@why Whereas iki durumu karşılaştırır: uzak geçmiş net hatırlanır, yakın geçmişe dair bellek ise zayıflar.
+@key recall = hatırlamak; deteriorate = kötüleşmek; noticeably = gözle görülür biçimde
+@gram whereas + cümle: iki zıt durumu yan yana koyar (oysa, -iken).
+@w whereas,deteriorate
+
+@t sc
+@q ----, many coastal communities have been forced to relocate further inland.
+@o Although rising sea levels have threatened their homes for decades || Zıtlık kuruyor; oysa yükselen deniz seviyesi taşınmanın sebebidir.
+@o Unless coastal defences are strengthened in the near future || Gelecekle ilgili koşul; present perfect ana cümleyle zaman uyumu yok.
+@o* Because sea levels have risen considerably over the past century
+@o So that they could benefit from a growing tourism industry || Amaç bildiriyor; “zorunda kalmak” (forced) ile bir amaç ilişkisi kurulamaz.
+@o Even if sea levels remain stable for the next few decades || Geleceğe dönük varsayım; geçmişte gerçekleşmiş taşınmayı açıklamıyor.
+@why Topluluklar deniz seviyesi yükseldiği için iç kesimlere taşınmak zorunda kalmıştır; because sebep bildirir.
+@key relocate = yer değiştirmek, taşınmak; inland = iç kesim; considerably = önemli ölçüde
+@gram because + cümle sebep bildirir; present perfect + over the past century zaman uyumu sağlar.
+@w because,rise,considerable,threaten
+
+@t sc
+@q The volcanic eruption released so much ash into the atmosphere ----.
+@o because scientists had predicted it several weeks in advance || So much … yapısı that ile tamamlanmalı; ayrıca tahmin edilmiş olması sonucu açıklamıyor.
+@o* that air traffic across much of Europe had to be halted for days
+@o which is why few flights were affected by the eruption || So … that kalıbı bozuluyor; anlam da çok miktarda külle çelişiyor.
+@o although no damage was reported in nearby villages || So much … yapısının gerektirdiği that sonuç cümlesi yok.
+@o that local residents barely noticed any change in the air || That var ama mantık ters: çok fazla kül havadaki değişimi fark edilmez kılmaz.
+@why so much + isim + that: kül o kadar çoktu ki hava trafiği durduruldu; sonuç mantıklı.
+@key eruption = patlama; ash = kül; halt = durdurmak
+@gram so + sıfat / so much + isim … that + sonuç cümlesi (o kadar … ki).
+@w halt,barely
+
+@t sc
+@q Hardly had the new vaccine been approved by health authorities ----.
+@o than it was distributed to hospitals across the country || Than, no sooner ile kullanılır; hardly ise when/before ister.
+@o before the clinical trials will be completed next year || Gelecek zaman, past perfect ile kurulan yapıya uymuyor.
+@o* when reports of a rare side effect began to emerge
+@o when it has been tested on thousands of volunteers || When doğru ama present perfect, geçmiş bağlamla zaman uyumu bozuyor.
+@o so that doctors could begin vaccinating the elderly || Amaç cümlesi; hardly … when kalıbını tamamlamıyor.
+@why Hardly had … when …: aşı onaylanır onaylanmaz nadir bir yan etkiye dair raporlar ortaya çıkmaya başladı.
+@key approve = onaylamak; side effect = yan etki; emerge = ortaya çıkmak
+@gram Hardly + had + özne + V3 … when + past simple = -er -mez.
+@w hardly,vaccine,approve,emerge,authority
+
+@t sc
+@q Researchers believe the endangered species could recover within two decades, ----.
+@o even though its population has been growing steadily for years || Zıtlık kuruyor; oysa nüfus artışı iyileşmeyi destekler.
+@o unless conservation efforts are stepped up significantly || “Çabalar artırılmazsa iyileşir” anlamı mantıksız.
+@o as long as illegal hunting continued in the region || Yasa dışı avlanmanın sürmesi iyileşmenin şartı olamaz; zaman da uyumsuz.
+@o because its habitat was largely destroyed last year || Yaşam alanının yok edilmesi iyileşmenin sebebi olamaz.
+@o* provided that its habitat is protected from further damage
+@why provided that koşul bildirir: yaşam alanı korunursa tür iyileşebilir.
+@key endangered = nesli tehlikede; recover = toparlanmak; provided that = şartıyla
+@gram provided that = as long as = only if; koşul cümlesinde geniş zaman kullanılır.
+@w provided that,species,habitat,damage
+
+
+@t sc
+@q Many universities now record their lectures and upload them online ----.
+@o* so that students can review difficult material at their own pace
+@o even though most students prefer to watch lectures online || Zıtlık mantıksız: öğrencilerin tercihi kayıtları yüklemeyi destekler.
+@o in order that professors no longer had to prepare them || Past tense ana cümleyle uyumsuz; dersi kaydetmek hazırlığı ortadan kaldırmaz.
+@o so that fewer students will have access to the content || Amaç mantıksız: internete yüklemek erişimi azaltmaz.
+@o unless students attend every class in person || Koşul anlamsız: kayıt yüklemek derse katılıma bağlı değil.
+@why so that amaç bildirir: dersler, öğrenciler zor konuları kendi hızlarında tekrar edebilsin diye yüklenir.
+@key upload = yüklemek; review = gözden geçirmek; at one's own pace = kendi hızında
+@gram so that + özne + can/will (şimdiki bağlam) amaç bildirir.
+@w so that
+
+@t sc
+@q While genetically modified crops can produce higher yields, ----.
+@o which makes them attractive to many farmers || Ana cümle yok: “which” yan cümlesi while yan cümlesini tamamlayamaz; zıtlık da kurulmuyor.
+@o farmers have therefore adopted them in large numbers || Sonuç bildiriyor; zıtlık kurmuyor.
+@o they were first developed in laboratories in the 1980s || Tarihsel bilgi; verimle bir zıtlık ilişkisi yok.
+@o* their long-term effects on ecosystems remain uncertain
+@o higher yields are the main reason for their popularity || İlk yarıyı tekrarlıyor; zıtlık yok.
+@why While burada “-se de” anlamında zıtlık kurar: verim yüksek olsa da ekosisteme uzun vadeli etkileri belirsiz.
+@key yield = verim, rekolte; long-term = uzun vadeli; uncertain = belirsiz
+@gram while (= although) cümle başında zıtlık/kabul bildirir.
+@w while,ecosystem,uncertain
+
+@t sc
+@q ----, the disease had already spread to several neighbouring villages.
+@o As soon as doctors will identify the source of the infection || Zaman bağlacından sonra will kullanılmaz; ayrıca past perfect ile uyumsuz.
+@o Unless doctors identify the source of the infection quickly || Geniş zamanlı koşul, geçmişte tamamlanmış olayla uyuşmuyor.
+@o Since the infection has been brought under control || Kontrol altına alınması yayılmayı açıklamaz; zaman da uyumsuz.
+@o So that doctors could study the infection more closely || Amaç mantıksız: hastalık doktorlar incelesin diye yayılmaz.
+@o* By the time doctors identified the source of the infection
+@why By the time + past simple, ana cümlede past perfect ister: kaynak bulunduğunda hastalık çoktan yayılmıştı.
+@key identify = belirlemek; source = kaynak; infection = enfeksiyon
+@gram by the time + past simple → ana cümle past perfect (had already V3).
+@w identify,infection,spread
+
+@t sc
+@q The research team focused on a rare genetic mutation ----.
+@o who had been studied by geneticists for decades || Who insanlar için kullanılır; mutation cansız bir varlıktır.
+@o where it was first discovered in a remote village || Where yer bildirir; mutasyon bir yer değildir.
+@o* which appears to protect carriers against heart disease
+@o which they had discovered it in a small village || İlgi zamirinden sonra “it” fazladan kullanılmış; yapı bozuk.
+@o whose effects on health is still poorly understood || Effects çoğul; “is” ile özne-yüklem uyumu bozuk.
+@why which cansız “mutation”ı niteler ve tekil özneye uygun “appears” ile doğru ilgi cümlesi kurar.
+@key mutation = mutasyon; carrier = taşıyıcı; protect against = -e karşı korumak
+@gram which cansız varlıklar için ilgi zamiridir; ilgi cümlesinde nesne zamiri tekrarlanmaz.
+@w protect
+
+@t sc
+@q Air quality in the capital was considerably worse last winter ----.
+@o as it had been during the summer months || Worse gibi bir karşılaştırma sıfatı “as” ile değil “than” ile kullanılır.
+@o the most polluted it has ever been recorded || Worse ile üstünlük yapısı aynı cümlede çakışıyor.
+@o* than it had been at any point in the previous decade
+@o although the number of cars had increased sharply || Araç sayısının artması kötüleşmeyi açıklar; zıtlık mantıksız.
+@o than any other city will be next winter || Geçen kışı gelecek kışla karşılaştırmak zaman açısından anlamsız.
+@why worse … than: hava kalitesi geçen kış önceki on yılın herhangi bir dönemine göre daha kötüydü.
+@key considerably = önemli ölçüde; air quality = hava kalitesi; previous = önceki
+@gram Karşılaştırma sıfatı (worse) + than; geçmişteki daha önceki bir durum past perfect ile verilir.
+@w considerable,previous,increase
+
+@t sc
+@q The digital archive not only preserves fragile historical manuscripts ----.
+@o but it also destroyed many of the original documents || Geçmiş zaman, preserves ile uyumsuz; anlam da arşivin amacıyla çelişiyor.
+@o and also had made them available online || Not only … but also kalıbı bozuk; past perfect de geniş zamanla uyumsuz.
+@o* but also makes them accessible to researchers worldwide
+@o as well as them being too fragile to handle || Not only'den sonra but also gelmeli; ifade anlamsız.
+@o but also it had been funded by the government || Kelime sırası ve zaman uyumsuz; özne de değişmiş.
+@why not only + V … but also + V: arşiv hem el yazmalarını korur hem de onları araştırmacılara erişilebilir kılar.
+@key preserve = korumak; fragile = kırılgan; manuscript = el yazması
+@gram not only … but also paralel yapı ister: preserves … makes (aynı zaman ve biçim).
+@w preserve
+
+@t sc
+@q Many small businesses in the region were forced to close last year ----.
+@o although energy prices had risen sharply || Enerji fiyatlarının artışı kapanmayı açıklar; zıtlık mantıksız.
+@o so that their owners could retire early || “Zorunda kalmak” ile amaç ilişkisi kurulamaz.
+@o unless the government provides financial support || Geniş zamanlı koşul, geçmişteki olayla uyuşmuyor.
+@o because demand for their products had grown considerably || Talep artışı işletmelerin kapanmasına sebep olamaz.
+@o* as the sharp rise in energy costs made them unprofitable
+@why as burada sebep bildirir: enerji maliyetlerindeki keskin artış işletmeleri kârsız hale getirdi.
+@key be forced to = zorunda kalmak; unprofitable = kârsız; sharp rise = keskin artış
+@gram as (= because, since) cümle bağlacı olarak sebep bildirebilir.
+@w as,rise,profitable
+
+@t sc
+@q ----, the fire would not have spread so rapidly through the warehouse.
+@o If the warehouse is fitted with a sprinkler system || Birinci tip koşul; would not have V3 ile uyumsuz.
+@o Had the workers ignored the fire alarm || Alarmı görmezden gelmek yangının yayılmasını önlemez; mantık ters.
+@o* If the warehouse had been fitted with a sprinkler system
+@o When the firefighters will arrive at the scene || Zaman bağlacından sonra will olmaz; koşul yapısı da yok.
+@o Since the building was made largely of wood || Ahşap yapı yayılmayı hızlandırır; “yayılmazdı” sonucuyla çelişiyor.
+@why Üçüncü tip koşul: depo yağmurlama sistemiyle donatılmış olsaydı yangın bu kadar hızlı yayılmazdı.
+@key sprinkler system = yağmurlama sistemi; warehouse = depo; spread = yayılmak
+@gram If + past perfect, would (not) have + V3: geçmişe dair gerçekleşmemiş koşul.
+@w spread
+
+@t sc
+@q The country's population is ageing rapidly, ----.
+@o* which means that fewer workers will support more retirees
+@o so that the proportion of young people has increased || Nüfusun yaşlanması genç oranının artması sonucunu doğurmaz.
+@o because the number of retirees will decrease soon || Emekli sayısının azalması yaşlanmanın sebebi olamaz; zaman da uyumsuz.
+@o although life expectancy has risen steadily || Ömrün uzaması yaşlanmayı açıklar; zıtlık mantıksız.
+@o which it has caused pension costs to fall || İlgi zamirinden sonra “it” fazla; emeklilik maliyetinin düşmesi de mantıksız.
+@why which tüm cümleyi niteler ve sonucu verir: nüfus yaşlandıkça daha az çalışan daha çok emekliyi destekleyecek.
+@key ageing = yaşlanma; retiree = emekli; support = desteklemek
+@gram Virgül + which, önceki cümlenin tamamına gönderme yapan yorum cümlesi kurar.
+@w decrease
+
+@t sc
+@q Until reliable vaccines became widely available in the twentieth century, ----.
+@o smallpox has been completely eradicated worldwide || Present perfect, geçmişteki “until” dönemiyle uyumsuz; anlam da ters.
+@o smallpox will remain a major threat to public health || Gelecek zaman, geçmiş zaman çerçevesine uymuyor.
+@o* smallpox killed millions of people around the world every year
+@o few people had ever died from smallpox || Aşı öncesi dönemde çiçek hastalığının zararsız olduğunu söylemek mantıksız.
+@o scientists are developing new vaccines against smallpox || Şimdiki zaman geçmiş çerçeveyle uyumsuz.
+@why Until + past simple geçmişteki bir dönemi sınırlar: aşılar yaygınlaşana kadar çiçek hastalığı her yıl milyonları öldürdü.
+@key reliable = güvenilir; widely available = yaygın olarak erişilebilir; eradicate = kökünü kazımak
+@gram until (-e kadar) geçmiş bağlamda ana cümlede past simple ister.
+@w vaccine,reliable
+
+@t sc
+@q In order to reduce their dependence on imported fuel, ----.
+@o the price of oil has risen sharply in recent months || Ana cümlenin öznesi (price) amaç bildiren yapının öznesi olamaz.
+@o* many countries are investing heavily in renewable energy
+@o many countries have increased their oil imports || İthalatı artırmak bağımlılığı azaltma amacıyla çelişiyor.
+@o renewable energy is becoming cheaper every year || Özne uyumsuz: enerjinin kendisi bağımlılığı azaltmak isteyemez.
+@o because many countries lack natural resources || In order to'dan sonra ana cümle gerekir; because yan cümlesi ana cümle değildir.
+@why In order to'nun gizli öznesi ana cümlenin öznesidir: ülkeler bağımlılığı azaltmak için yenilenebilir enerjiye yatırım yapıyor.
+@key dependence on = -e bağımlılık; imported = ithal; invest in = -e yatırım yapmak
+@gram in order to + V1: ana cümlenin öznesi amacı gerçekleştiren kişi/kurum olmalıdır.
+@w in order to,reduce,renewable,depend on,lack
+
+@t sc
+@q The ancient city remained hidden for centuries ----.
+@o because it was located near a busy trade route || İşlek bir yola yakın olmak gizli kalmanın sebebi olamaz.
+@o until archaeologists will uncover it next year || Until'den sonra will kullanılmaz; geçmiş bağlamla da uyumsuz.
+@o so that travellers could easily find it || Gizli kalmak bulunmayı kolaylaştırma amacıyla çelişiyor.
+@o* even though it lay close to a major trade route
+@o although nobody knew where it was located || Kimsenin yerini bilmemesi gizli kalmayı açıklar; zıtlık yok.
+@why even though beklenmeyen durumu verir: önemli bir ticaret yoluna yakın olmasına rağmen kent yüzyıllarca gizli kaldı.
+@key remain hidden = gizli kalmak; trade route = ticaret yolu; lie (lay) = bulunmak, yer almak
+@gram even though + cümle = -e rağmen, -dığı halde.
+@w even though
+
+@t sc
+@q ----, recent studies increasingly rely on objective measurements such as wearable sensors.
+@o Because wearable sensors remain too expensive for most laboratories || Sensörlerin çok pahalı olması, nesnel ölçümlere giderek daha çok dayanılmasının sebebi olamaz; mantık ters.
+@o Although objective measurements are generally more reliable || Daha güvenilir olmaları tercih edilme sebebidir; zıtlık mantıksız.
+@o Unless participants had refused to wear the devices || Past perfect koşul, geniş zamanlı ana cümleyle uyumsuz.
+@o* Whereas earlier research depended largely on self-reported data
+@o Even if earlier studies will continue to use questionnaires || Koşul cümlesinde will kullanılmaz; anlam da bağlanmıyor.
+@why Whereas eski ve yeni yöntemi karşılaştırır: önceki araştırmalar beyana dayanırken yeni çalışmalar nesnel ölçümlere dayanıyor.
+@key self-reported = katılımcı beyanına dayalı; objective = nesnel; wearable = giyilebilir
+@gram whereas cümle başında da gelebilir ve iki durumu karşılaştırır.
+@w whereas,rely on,increasingly,objective,largely
+
+@t sc
+@q The findings were so unexpected ----.
+@o because the researchers had predicted them correctly || So … that eksik; doğru tahmin edilmiş olmak “beklenmedik” ile çelişiyor.
+@o that nobody questioned their accuracy at all || That var ama mantık ters: beklenmedik sonuçlar sorgulanmaya yol açar.
+@o* that the team decided to verify them in a second experiment
+@o as the experiment would be repeated the following year || So … that kalıbının gerektirdiği that sonuç cümlesi yok.
+@o which the researchers had expected all along || Anlam çelişkisi; ayrıca so … that yapısı tamamlanmıyor.
+@why so + sıfat + that: bulgular o kadar beklenmedikti ki ekip bunları ikinci bir deneyle doğrulamaya karar verdi.
+@key finding = bulgu; unexpected = beklenmedik; verify = doğrulamak
+@gram so + sıfat + that + sonuç cümlesi.
+@w verify
+
+@t sc
+@q ----, the patients in the trial were not told which treatment they were receiving.
+@o Because the researchers wanted the results to be biased || Araştırmacıların taraflı sonuç istemesi bilimsel deneyin mantığıyla çelişiyor.
+@o* So that their expectations would not influence the results
+@o Although the trial was designed to be double-blind || Çift kör tasarım bilgi vermemeyi gerektirir; zıtlık mantıksız.
+@o Unless they agree to take part in the study voluntarily || Geniş zamanlı koşul, geçmiş zamanla uyumsuz; anlam da bağlanmıyor.
+@o Even if the results will be published in a journal next year || Koşul cümlesinde will olmaz; mantıksal bağ yok.
+@why so that + would amaç bildirir: sonuçlar hastaların beklentilerinden etkilenmesin diye hangi tedaviyi aldıkları söylenmedi.
+@key trial = klinik deney; influence = etkilemek; expectation = beklenti
+@gram Geçmiş bağlamda so that + could/would kullanılır.
+@w so that,influence,biased
+
+@t sc
+@q The report highlights the situation of rural communities ----.
+@o which they lack access to clean water || İlgi zamirinden sonra “they” fazladan özne; yapı bozuk.
+@o who it has been limited access to clean water || Who'dan sonra gelen yapı anlamsız ve dil bilgisi açısından bozuk.
+@o* whose access to clean water remains severely limited
+@o where has little access to clean water || Where'den sonra özne gerekir; yer zarfı topluluğu nitelemiyor.
+@o whose access to clean water have improved recently || Access tekil; “have” ile özne-yüklem uyumu bozuk.
+@why whose iyelik bildirir: temiz suya erişimi ciddi biçimde kısıtlı olan kırsal topluluklar.
+@key highlight = vurgulamak; rural = kırsal; severely = ciddi biçimde
+@gram whose + isim, kendisinden önceki isme ait bir şeyi anlatır (-in … -ı olan).
+@w highlight,rural,lack,limit
+
+@t sc
+@q Investors began withdrawing their money from the bank ----.
+@o as soon as the bank's profits will be announced || Zaman bağlacından sonra will kullanılmaz; geçmiş bağlamla da uyumsuz.
+@o before the bank had even been founded || Banka kurulmadan para çekilemez; mantık hatası.
+@o* as soon as rumours of its financial troubles spread
+@o until the bank reports record profits in the next quarter || Gelecekteki olay, geçmiş zamanlı ana cümleyle uyumsuz.
+@o since its financial position had always been strong || Güçlü mali durum para çekmenin sebebi olamaz.
+@why as soon as zaman bildirir: mali sıkıntı söylentileri yayılır yayılmaz yatırımcılar paralarını çekmeye başladı.
+@key withdraw = çekmek; rumour = söylenti; financial trouble = mali sıkıntı
+@gram as soon as + past simple = -er -mez; zaman bağlacından sonra will gelmez.
+@w spread
+
+@t sc
+@q ----, most minor infections are cleared by the body without medical treatment.
+@o Unless the immune system functions properly || “Bağışıklık sistemi düzgün çalışmazsa” anlamı sonuçla çelişiyor.
+@o Although the immune system fights infections effectively || Etkili savunma iyileşmenin sebebidir; zıtlık mantıksız.
+@o If the immune system had been weakened by illness || Past perfect koşul geniş zamanla uyumsuz; zayıf bağışıklık da sonuçla çelişir.
+@o* As long as the immune system functions properly
+@o So that antibiotics are prescribed less frequently || Vücudun enfeksiyonu temizlemesi bir amaç cümlesine bağlanamaz.
+@why as long as koşul bildirir: bağışıklık sistemi düzgün çalıştığı sürece hafif enfeksiyonlar tedavisiz temizlenir.
+@key immune system = bağışıklık sistemi; minor = hafif, küçük; clear = temizlemek
+@gram as long as (= provided that) -dığı sürece; geniş zamanla kullanılır.
+@w as long as,immune,infection
+
+@t sc
+@q Just as antibiotics transformed the treatment of infections in the twentieth century, ----.
+@o antibiotics are now becoming less effective because of overuse || “Just as” benzerlik ister; bu seçenek zıt bir gelişme sunuyor.
+@o many infections were treated successfully in hospitals || İlk yarıyı tekrar ediyor; benzetme kurmuyor.
+@o* gene therapy may revolutionise the treatment of inherited diseases
+@o gene therapy had been invented long before antibiotics || Zaman ve bilgi hatalı; paralel bir dönüşüm anlatmıyor.
+@o infections will no longer be a problem in the future || Başka bir alanda benzer dönüşüm göstermiyor; benzetme yok.
+@why Just as benzetme kurar: antibiyotikler enfeksiyon tedavisini nasıl dönüştürdüyse gen tedavisi de kalıtsal hastalıkları dönüştürebilir.
+@key transform = dönüştürmek; inherited = kalıtsal; revolutionise = kökten değiştirmek
+@gram just as … (so) …: iki durum arasında paralellik/benzerlik kurar.
+@w transform,infection,gene,therapy
+
+@t sc
+@q Deforestation in the region has progressed at such a rapid rate ----.
+@o because the authorities have strictly banned illegal logging || Such … yapısı that ile tamamlanmalı; ayrıca yasa dışı ağaç kesiminin yasaklanması hızlı ormansızlaşmayı açıklamaz.
+@o that the forest has fully recovered within a few years || That var ama mantık ters: hızlı ormansızlaşma ormanın iyileşmesine yol açmaz.
+@o so that new trees could be planted every year || Amaç cümlesi; such … that kalıbını tamamlamıyor ve zaman uyumsuz.
+@o which many species have been able to thrive || İlgi cümlesi bozuk; ayrıca anlam ters.
+@o* that several native species now face extinction
+@why such + (sıfat) + isim + that: ormansızlaşma o kadar hızlı ilerledi ki birçok yerli tür yok olma tehlikesiyle karşı karşıya.
+@key deforestation = ormansızlaşma; native = yerli; extinction = yok olma
+@gram such a/an + sıfat + isim + that + sonuç cümlesi.
+@w species,extinction,thrive,authority
+
+@t tr
+@q The report, which was published by an international health organisation last month, warns that antibiotic resistance could undermine decades of medical progress.
+@o Uluslararası bir sağlık kuruluşu tarafından geçen ay yayımlanan rapor, antibiyotik direncinin onlarca yıllık tıbbi ilerlemeyi baltaladığı konusunda uyarıyor. || Kiplik değişmiş: could olasılık bildirir, seçenek kesin bir durum gibi sunuyor.
+@o Uluslararası bir sağlık kuruluşunun önümüzdeki ay yayımlayacağı rapor, antibiyotik direncinin onlarca yıllık tıbbi ilerlemeyi baltalayabileceği konusunda uyarıyor. || Zaman değişmiş: rapor geçen ay yayımlandı, gelecekte yayımlanmayacak.
+@o* Uluslararası bir sağlık kuruluşu tarafından geçen ay yayımlanan rapor, antibiyotik direncinin onlarca yıllık tıbbi ilerlemeyi baltalayabileceği konusunda uyarıyor.
+@o Uluslararası bir sağlık kuruluşu tarafından geçen ay yayımlanan rapor, onlarca yıllık tıbbi ilerlemenin antibiyotik direncini zayıflatabileceği konusunda uyarıyor. || Özne-nesne ve etki yönü ters çevrilmiş.
+@o Uluslararası bir sağlık kuruluşu tarafından geçen ay yayımlanan rapor, antibiyotik direncinin tıbbi ilerlemeyi baltalamayacağını belirtiyor. || Olumsuzluk eklenmiş; uyarı anlamı tersine dönmüş.
+@why which was published = yayımlanan (sıfat cümlesi); could undermine = baltalayabilir (olasılık).
+@key undermine = baltalamak, zayıflatmak; resistance = direnç; decades of = onlarca yıllık
+@gram “which” ilgi cümlesi Türkçede ismi niteleyen sıfat-fiil olur; could olasılık kipidir.
+@w undermine
+
+@t tr
+@q Although the disease can be treated effectively if it is diagnosed early, most cases are detected only at an advanced stage.
+@o Hastalık erken teşhis edildiği için etkili bir şekilde tedavi edilebilse de vakaların çoğu ancak ileri bir evrede tespit edilmektedir. || Koşul (if) sebebe dönüştürülmüş: “edilirse” yerine “edildiği için”.
+@o Hastalık erken teşhis edilirse etkili bir şekilde tedavi edilebilse de vakaların bazıları ancak ileri bir evrede tespit edilmektedir. || Miktar değişmiş: most = çoğu, bazıları değil.
+@o* Hastalık erken teşhis edilirse etkili bir şekilde tedavi edilebilse de vakaların çoğu ancak ileri bir evrede tespit edilmektedir.
+@o Hastalık erken teşhis edilirse etkili bir şekilde tedavi edilebilse de vakaların çoğu erken bir evrede tespit edilmektedir. || Anlam ters: kaynakta vakalar ileri evrede tespit ediliyor.
+@o Hastalık erken teşhis edilirse her zaman etkili bir şekilde tedavi edilir, ancak vakaların çoğu ancak ileri bir evrede tespit edilmektedir. || Kiplik değişmiş: can = edilebilir; “her zaman edilir” kesinlik bildirir.
+@why can be treated = tedavi edilebilir; if diagnosed early = erken teşhis edilirse; most cases = vakaların çoğu.
+@key diagnose = teşhis etmek; detect = tespit etmek; advanced stage = ileri evre
+@gram although = -se de; edilgen yapı Türkçede “-ıl/-ın” ekiyle korunur.
+@w although,detect,diagnosis
+
+@t tr
+@q The decline in amphibian populations, which has been attributed largely to a fungal infection, poses a serious threat to the stability of freshwater ecosystems.
+@o Amfibi popülasyonlarındaki azalma, büyük ölçüde bir mantar enfeksiyonunun yayılmasına neden olmuş ve tatlı su ekosistemlerinin dengesini tehdit etmektedir. || Sebep-sonuç ters çevrilmiş: enfeksiyon azalmanın sebebidir, sonucu değil.
+@o Kısmen bir mantar enfeksiyonuna bağlanan amfibi popülasyonlarındaki azalma, tatlı su ekosistemlerinin dengesi için ciddi bir tehdit oluşturmaktadır. || Miktar değişmiş: largely = büyük ölçüde, kısmen değil.
+@o* Büyük ölçüde bir mantar enfeksiyonuna bağlanan amfibi popülasyonlarındaki azalma, tatlı su ekosistemlerinin dengesi için ciddi bir tehdit oluşturmaktadır.
+@o Büyük ölçüde bir mantar enfeksiyonuna bağlanan amfibi popülasyonlarındaki azalma, tatlı su ekosistemlerinin dengesi için ciddi bir tehdit oluşturmamaktadır. || Olumsuzluk eklenmiş: poses = oluşturur.
+@o Büyük ölçüde bir mantar enfeksiyonuna bağlanan amfibi popülasyonlarındaki azalma, tatlı su ekosistemlerinin dengesi için ciddi bir tehdit oluşturabilir. || Kiplik değişmiş: poses kesin bir durumdur, olasılık değil.
+@why attributed largely to = büyük ölçüde -e bağlanan; poses a serious threat = ciddi bir tehdit oluşturur.
+@key attribute to = -e bağlamak, -e atfetmek; amphibian = amfibi; freshwater = tatlı su
+@gram Edilgen ilgi cümlesi (which has been attributed) Türkçede “-e bağlanan” sıfat-fiiliyle verilir.
+@w decline,attribute,largely,infection,ecosystem
+
+@t tr
+@q Policymakers are increasingly being urged by economists to invest in early childhood education, which is thought to yield long-term social benefits.
+@o Politika yapıcılar, uzun vadeli toplumsal faydalar sağladığı düşünülen erken çocukluk eğitimine yatırım yapmaları için ekonomistlere giderek daha fazla çağrıda bulunuyor. || Özne değişmiş: çağrıda bulunanlar politika yapıcılar değil, ekonomistlerdir.
+@o Ekonomistler, uzun vadeli toplumsal faydalar sağladığı kanıtlanan erken çocukluk eğitimine yatırım yapmaları için politika yapıcılara giderek daha fazla çağrıda bulunuyor. || Kesinlik değişmiş: is thought = düşünülen, kanıtlanan değil.
+@o Ekonomistler, uzun vadeli toplumsal faydalar sağladığı düşünülen erken çocukluk eğitimine yapılan yatırımı azaltmaları için politika yapıcılara giderek daha fazla çağrıda bulunuyor. || Anlam ters: invest = yatırım yapmak, yatırımı azaltmak değil.
+@o* Ekonomistler, uzun vadeli toplumsal faydalar sağladığı düşünülen erken çocukluk eğitimine yatırım yapmaları için politika yapıcılara giderek daha fazla çağrıda bulunuyor.
+@o Ekonomistler, uzun vadeli toplumsal faydalar sağladığı düşünülen erken çocukluk eğitimine yatırım yapmaları için politika yapıcılara bir süre önce çağrıda bulunmuştu. || Zaman değişmiş: are increasingly being urged süregelen ve artan bir durumdur.
+@why are being urged by economists = ekonomistler çağrıda bulunuyor (edilgen etken çevrilebilir); is thought to = düşünülen.
+@key urge = ısrarla çağırmak; yield = sağlamak, getirmek; increasingly = giderek daha fazla
+@gram Edilgen cümle Türkçeye etken çevrilebilir, ancak eylemi yapan (by economists) korunmalıdır.
+@w urge,increasingly,benefit
+
+@t tr
+@q Many species that once thrived in the region have disappeared, not because of hunting, but because their habitats have been destroyed by urban expansion.
+@o Bir zamanlar bölgede serpilip gelişen birçok tür, yaşam alanları kentsel genişleme nedeniyle yok edildiği için değil, avcılık yüzünden ortadan kaybolmuştur. || Sebepler yer değiştirmiş: kaynakta asıl sebep avcılık değil, yaşam alanı kaybıdır.
+@o Bir zamanlar bölgede serpilip gelişen birkaç tür, avcılık yüzünden değil, yaşam alanları kentsel genişleme nedeniyle yok edildiği için ortadan kaybolmuştur. || Miktar değişmiş: many = birçok, birkaç değil.
+@o Bir zamanlar bölgede serpilip gelişen birçok tür, avcılık yüzünden değil, yaşam alanları yok edildiği için ortadan kaybolmuştur. || Öğe atlanmış: yok edilmenin sebebi olan “kentsel genişleme” çevrilmemiş.
+@o Bir zamanlar bölgede serpilip gelişen birçok tür, avcılık yüzünden değil, yaşam alanları kentsel genişleme nedeniyle yok edildiği için ortadan kaybolabilir. || Zaman/kiplik değişmiş: have disappeared gerçekleşmiş bir olaydır.
+@o* Bir zamanlar bölgede serpilip gelişen birçok tür, avcılık yüzünden değil, yaşam alanları kentsel genişleme nedeniyle yok edildiği için ortadan kaybolmuştur.
+@why not because of X but because Y = X yüzünden değil, Y olduğu için; have been destroyed = yok edilmiş.
+@key thrive = serpilip gelişmek; habitat = yaşam alanı; urban expansion = kentsel genişleme
+@gram “not because … but because …” yapısında iki sebep birbirinden ayrılır; hangisinin reddedildiğine dikkat edilir.
+@w thrive,habitat,urban,species
+
+@t tr
+@q Children who sleep fewer than eight hours a night are significantly more likely to experience attention problems than those who get adequate rest.
+@o Gecede sekiz saatten fazla uyuyan çocukların dikkat sorunları yaşama olasılığı, yeterince dinlenenlere göre önemli ölçüde daha yüksektir. || Miktar değişmiş: fewer than = -den az, fazla değil.
+@o* Gecede sekiz saatten az uyuyan çocukların dikkat sorunları yaşama olasılığı, yeterince dinlenenlere göre önemli ölçüde daha yüksektir.
+@o Gecede sekiz saatten az uyuyan çocukların dikkat sorunları yaşama olasılığı, yeterince dinlenenlere göre önemli ölçüde daha düşüktür. || Karşılaştırma ters çevrilmiş: more likely = daha olası.
+@o Gecede sekiz saatten az uyuyan çocukların dikkat sorunları yaşama olasılığı, yeterince dinlenenlere göre biraz daha yüksektir. || Derece değişmiş: significantly = önemli ölçüde, biraz değil.
+@o Dikkat sorunları yaşayan çocukların gecede sekiz saatten az uyuma olasılığı, yeterince dinlenenlere göre önemli ölçüde daha yüksektir. || Sebep-sonuç ve özne ters çevrilmiş.
+@why more likely to … than those who … = -enlere göre … olasılığı daha yüksek; significantly = önemli ölçüde.
+@key be likely to = muhtemel olmak; adequate = yeterli; significantly = önemli ölçüde
+@gram “those who” önceki ismin (children) yerini tutar: “-enler”.
+@w significant,likely,adequate
+
+@t tr
+@q The collapse of the ancient civilisation may have been caused by a prolonged drought rather than by foreign invasion, as was previously assumed.
+@o Antik uygarlığın çöküşüne, daha önce sanıldığı gibi yabancı istilası değil, uzun süren bir kuraklık yol açmıştır. || Kiplik değişmiş: may have been = olmuş olabilir; seçenek kesinlik bildiriyor.
+@o Antik uygarlığın çöküşüne, daha önce sanıldığı gibi uzun süren bir kuraklık değil, yabancı istilası yol açmış olabilir. || Sebepler yer değiştirmiş: kaynakta öne çıkarılan neden kuraklıktır.
+@o Antik uygarlığın çöküşü, daha önce sanıldığı gibi yabancı istilasına değil, uzun süren bir kuraklığa yol açmış olabilir. || Sebep-sonuç ters: kuraklık çöküşün sebebidir, sonucu değil.
+@o* Antik uygarlığın çöküşüne, daha önce sanıldığı gibi yabancı istilası değil, uzun süren bir kuraklık yol açmış olabilir.
+@o Antik uygarlığın çöküşüne, daha önce sanıldığı gibi hem yabancı istilası hem de uzun süren bir kuraklık yol açmış olabilir. || “rather than” (-den ziyade) karşıtlığı “hem … hem de” ile değiştirilmiş.
+@why may have been caused by = -e yol açmış olabilir; rather than = -den ziyade; as was previously assumed = daha önce sanıldığı gibi.
+@key collapse = çöküş; prolonged = uzun süren; assume = varsaymak, sanmak
+@gram may have + V3 geçmişe dair olasılık bildirir; edilgen “caused by” Türkçede “-e yol açmak” ile etken verilebilir.
+@w collapse,prolonged,drought,assume,previous
+
+@t tr
+@q New regulations have been introduced to ensure that food producers, many of whom had previously ignored inspection reports, comply with stricter hygiene standards.
+@o Birçoğu daha önce denetim raporlarını görmezden gelmiş olan gıda üreticilerinin daha sıkı hijyen standartlarına uymasını sağlamak amacıyla yeni düzenlemeler getirilecektir. || Zaman değişmiş: have been introduced getirilmiştir demektir.
+@o Birçoğu daha önce denetim raporlarını görmezden gelmiş olan gıda üreticileri, daha sıkı hijyen standartlarına uymak için yeni düzenlemeler getirmiştir. || Özne değişmiş: düzenlemeleri getiren üreticiler değildir.
+@o* Birçoğu daha önce denetim raporlarını görmezden gelmiş olan gıda üreticilerinin daha sıkı hijyen standartlarına uymasını sağlamak amacıyla yeni düzenlemeler getirilmiştir.
+@o Birçoğu daha önce denetim raporlarını dikkate almış olan gıda üreticilerinin daha sıkı hijyen standartlarına uymasını sağlamak amacıyla yeni düzenlemeler getirilmiştir. || Anlam ters: ignored = görmezden gelmiş, dikkate almış değil.
+@o Birçoğu daha önce denetim raporlarını görmezden gelmiş olan gıda üreticileri daha sıkı hijyen standartlarına uymadığı için yeni düzenlemeler getirilmiştir. || Amaç (to ensure) sebebe dönüştürülmüş.
+@why have been introduced to ensure = sağlamak amacıyla getirilmiştir; many of whom = birçoğu … olan.
+@key ensure = sağlamak, güvence altına almak; comply with = -e uymak; inspection = denetim
+@gram “many of whom” ilgi yapısı Türkçede “birçoğu … olan” diye çevrilir; to + V amaç bildirir.
+@w regulation,ensure,comply with,previous
+
+@t tr
+@q Even though only a small proportion of the population uses public libraries regularly, local authorities continue to fund them generously.
+@o Nüfusun büyük bir kısmı halk kütüphanelerini düzenli olarak kullansa da yerel yönetimler bu kütüphaneleri cömertçe finanse etmeye devam ediyor. || Miktar değişmiş: a small proportion = küçük bir kısım.
+@o Nüfusun yalnızca küçük bir kısmı halk kütüphanelerini düzenli olarak kullandığı için yerel yönetimler bu kütüphaneleri cömertçe finanse etmeye devam ediyor. || Zıtlık (even though) sebebe dönüştürülmüş.
+@o Nüfusun yalnızca küçük bir kısmı halk kütüphanelerini düzenli olarak kullansa da yerel yönetimler bu kütüphaneleri finanse etmeyi bırakmıştır. || Anlam ters: continue to fund = finanse etmeye devam etmek.
+@o* Nüfusun yalnızca küçük bir kısmı halk kütüphanelerini düzenli olarak kullansa da yerel yönetimler bu kütüphaneleri cömertçe finanse etmeye devam ediyor.
+@o Nüfusun yalnızca küçük bir kısmı halk kütüphanelerini düzenli olarak kullansa da yerel yönetimler bu kütüphaneleri cömertçe finanse etmeye devam edecek. || Zaman değişmiş: continue (geniş zaman) şu anki durumu anlatır, gelecek değil.
+@why even though = -se de; only a small proportion = yalnızca küçük bir kısmı; continue to fund = finanse etmeye devam ediyor.
+@key proportion = oran, kısım; local authorities = yerel yönetimler; generously = cömertçe
+@gram even though zıtlık bildirir; Türkçede “-se de / -mesine rağmen” ile karşılanır.
+@w even though,authority
+
+@t tr
+@q Plastic waste that is not properly recycled often ends up in the oceans, where it is swallowed by marine animals and eventually enters the human food chain.
+@o Düzgün bir şekilde geri dönüştürülen plastik atıklar çoğu zaman okyanuslara ulaşır; orada deniz hayvanları tarafından yutulur ve sonunda insan besin zincirine girer. || Olumsuzluk kaybolmuş: not properly recycled = düzgün geri dönüştürülmeyen.
+@o Düzgün bir şekilde geri dönüştürülmeyen plastik atıklar her zaman okyanuslara ulaşır; orada deniz hayvanları tarafından yutulur ve sonunda insan besin zincirine girer. || Sıklık zarfı değişmiş: often = çoğu zaman, her zaman değil.
+@o* Düzgün bir şekilde geri dönüştürülmeyen plastik atıklar çoğu zaman okyanuslara ulaşır; orada deniz hayvanları tarafından yutulur ve sonunda insan besin zincirine girer.
+@o Düzgün bir şekilde geri dönüştürülmeyen plastik atıklar çoğu zaman okyanuslara ulaşır ve orada deniz hayvanları tarafından yutulur. || Cümle atlanmış: “eventually enters the human food chain” çevrilmemiş.
+@o Düzgün bir şekilde geri dönüştürülmeyen plastik atıklar çoğu zaman insan besin zincirine girdikten sonra okyanuslara ulaşır ve orada deniz hayvanları tarafından yutulur. || Olayların sırası ters çevrilmiş: besin zincirine giriş en son gerçekleşir.
+@why that is not properly recycled = düzgün geri dönüştürülmeyen; where = orada; eventually = sonunda.
+@key end up = sonunda bir yere varmak; swallow = yutmak; food chain = besin zinciri
+@gram Virgül + where, önceki yere (oceans) ek bilgi verir; Türkçede çoğu zaman yeni cümleyle “orada” diye çevrilir.
+@w eventually
+
+@t tr
+@q Kentlerdeki hava kirliliğinin, özellikle yaşlılar ve çocuklar arasında solunum yolu hastalıklarını artırdığı uzun zamandır bilinmektedir.
+@o It has recently been discovered that urban air pollution increases the incidence of respiratory diseases, especially among the elderly and children. || Zaman ifadesi değişmiş: “uzun zamandır bilinmektedir” = has long been known.
+@o It has long been known that the incidence of respiratory diseases increases urban air pollution, especially among the elderly and children. || Sebep-sonuç ters çevrilmiş.
+@o* It has long been known that urban air pollution increases the incidence of respiratory diseases, especially among the elderly and children.
+@o It has long been known that urban air pollution reduces the incidence of respiratory diseases, especially among the elderly and children. || Anlam ters: artırmak = increase, reduce değil.
+@o It has long been known that urban air pollution increases the incidence of respiratory diseases, except among the elderly and children. || “özellikle” (especially) “dışında” (except) olarak çevrilmiş.
+@why uzun zamandır bilinmektedir = it has long been known; özellikle … arasında = especially among.
+@key urban = kentsel; respiratory disease = solunum yolu hastalığı; incidence = görülme sıklığı; the elderly = yaşlılar
+@gram “-dığı bilinmektedir” yapısı İngilizcede “It is/has been known that …” ile verilir.
+@w urban,increase
+
+@t tr
+@q Yapılan araştırmalar, düzenli fiziksel aktivitenin bilişsel gerilemeyi yavaşlatabileceğini, ancak tamamen önleyemeyeceğini göstermektedir.
+@o Research indicates that regular physical activity may slow cognitive decline and can prevent it entirely. || Olumsuzluk kaybolmuş: “önleyemeyeceğini” = cannot prevent.
+@o Research indicates that cognitive decline may slow regular physical activity but cannot prevent it entirely. || Özne ve nesne yer değiştirmiş; etki yönü ters.
+@o Research indicates that regular physical activity definitely slows cognitive decline but cannot prevent it entirely. || Kiplik değişmiş: “yavaşlatabileceğini” olasılıktır, kesinlik değil.
+@o Research indicates that occasional physical activity may slow cognitive decline but cannot prevent it entirely. || Sıklık değişmiş: düzenli = regular, occasional değil.
+@o* Research indicates that regular physical activity may slow cognitive decline but cannot prevent it entirely.
+@why yavaşlatabileceğini = may slow; ancak tamamen önleyemeyeceğini = but cannot prevent it entirely.
+@key cognitive decline = bilişsel gerileme; indicate = göstermek; entirely = tamamen
+@gram “-ebilir” olasılık (may), “-emez” yetersizlik (cannot) bildirir; ancak = but.
+@w indicate,cognitive,decline,prevent
+
+@t tr
+@q Göç eden işçilerin ülkelerine gönderdiği paralar, birçok gelişmekte olan ülkenin ekonomisi için hayati bir gelir kaynağı haline gelmiştir.
+@o The money sent to migrant workers by their home countries has become a vital source of income for the economies of many developing countries. || Yön değişmiş: parayı gönderen işçilerdir, ülkeler değil.
+@o* The money sent home by migrant workers has become a vital source of income for the economies of many developing countries.
+@o The money sent home by migrant workers will become a vital source of income for the economies of many developing countries. || Zaman değişmiş: “haline gelmiştir” = has become.
+@o The money sent home by migrant workers has become a vital source of income for the economies of a few developing countries. || Miktar değişmiş: birçok = many, a few değil.
+@o The money sent home by migrant workers has become a minor source of income for the economies of many developing countries. || Sıfat değişmiş: hayati = vital, minor değil.
+@why göç eden işçilerin gönderdiği paralar = the money sent home by migrant workers; haline gelmiştir = has become.
+@key migrant worker = göçmen işçi; vital = hayati; source of income = gelir kaynağı
+@gram “-in gönderdiği para” sıfat-fiil yapısı İngilizcede edilgen ortaç (sent by) ile verilir.
+@w vital,income
+
+@t tr
+@q Yeni yasa, büyük şirketlerin karbon salımlarını her yıl bağımsız denetçilere raporlamasını zorunlu kılmaktadır.
+@o The new law allows large companies to report their carbon emissions to independent auditors every year. || Kiplik değişmiş: “zorunlu kılmak” = require; allow izin vermektir.
+@o The new law requires independent auditors to report the carbon emissions of large companies every year. || Özne değişmiş: raporlamakla yükümlü olan şirketlerdir, denetçiler değil.
+@o The new law will require large companies to report their carbon emissions to independent auditors every year. || Zaman değişmiş: “kılmaktadır” şu anki durumu bildirir.
+@o* The new law requires large companies to report their carbon emissions to independent auditors every year.
+@o The new law requires all companies to report their carbon emissions to independent auditors every year. || Kapsam değişmiş: “büyük şirketler” all companies olarak genellenmiş.
+@why zorunlu kılmak = require sb to do sth; büyük şirketlerin … raporlamasını = large companies to report.
+@key require = zorunlu kılmak, gerektirmek; emission = salım; auditor = denetçi
+@gram require + nesne + to V1: birini bir şeyi yapmakla yükümlü kılmak.
+@w require,emission
+
+@t tr
+@q Okul öncesi eğitime erişimi olmayan çocukların, ilkokulda akranlarının gerisinde kalma riski daha yüksektir.
+@o* Children who lack access to pre-school education are at greater risk of falling behind their peers in primary school.
+@o Children who have access to pre-school education are at greater risk of falling behind their peers in primary school. || Olumsuzluk kaybolmuş: “erişimi olmayan” = lack access.
+@o Children who lack access to pre-school education are at lower risk of falling behind their peers in primary school. || Karşılaştırma ters: “daha yüksek” = greater, lower değil.
+@o Children who fall behind their peers in primary school are more likely to lack access to pre-school education. || Sebep-sonuç ve özne ters çevrilmiş.
+@o Children who lack access to pre-school education will certainly fall behind their peers in primary school. || Kesinlik değişmiş: “risk daha yüksek” olasılıktır, kesin sonuç değil.
+@why erişimi olmayan çocuklar = children who lack access; gerisinde kalma riski daha yüksek = at greater risk of falling behind.
+@key lack = -den yoksun olmak; peer = akran; fall behind = geride kalmak
+@gram Türkçedeki sıfat-fiil (erişimi olmayan) İngilizcede who ilgi cümlesiyle verilir.
+@w lack,risk
+
+@t rs
+@q Coastal cities are considerably more vulnerable to rising sea levels than inland settlements are.
+@o Inland settlements face a much greater threat from rising sea levels than coastal cities do. || Karşılaştırma tersine çevrilmiş; daha savunmasız olan kıyı kentleridir.
+@o Coastal and inland settlements are equally susceptible to the effects of rising sea levels. || “considerably more” farkı silinip eşitlik kurulmuş.
+@o* Rising sea levels pose a far greater risk to coastal cities than to settlements located inland.
+@o Only coastal cities will be affected by rising sea levels in the coming decades. || “Only” ile abartılmış ve gelecek zamana kaydırılmış.
+@o Coastal cities are slightly more exposed to rising sea levels than inland settlements. || “considerably” (önemli ölçüde) “slightly” (biraz) olarak zayıflatılmış.
+@why considerably more vulnerable … than = -den çok daha savunmasız; doğru seçenek aynı farkı “far greater risk” ile veriyor.
+@key vulnerable = savunmasız; considerably = önemli ölçüde; settlement = yerleşim yeri
+@gram Karşılaştırmalarda hem yönü (more/less) hem de derecesini (considerably/slightly) kontrol et.
+@w vulnerable,considerable,susceptible
+
+@t rs
+@q No sooner had the vaccine been approved than demand for it far exceeded the available supply.
+@o Supply of the vaccine greatly exceeded demand soon after it was approved. || Arz ve talep yer değiştirmiş; anlam tersine dönmüş.
+@o Demand for the vaccine rose sharply long before it was approved. || Zaman kaydırılmış; talep onaydan hemen sonra arttı.
+@o The vaccine was approved only after demand had fallen below supply. || Hem zaman sırası hem de arz-talep ilişkisi ters çevrilmiş.
+@o Demand slightly exceeded supply some months after the vaccine was approved. || “far” zayıflatılmış, “hemen” anlamı “aylar sonra” olmuş.
+@o* As soon as the vaccine was approved, demand for it greatly outstripped supply.
+@why No sooner … than = … -er …-mez; onaydan hemen sonra talep arzı fazlasıyla aştı.
+@key approve = onaylamak; exceed = aşmak; supply = arz
+@gram No sooner had + özne + V3 … than … devrik yapısı “hemen ardından” anlamı verir.
+@w vaccine
+
+@t rs
+@q The findings suggest that the drug may reduce the risk of stroke in elderly patients, although further trials are needed to confirm this.
+@o* The results indicate that the drug could lower stroke risk in older patients, but more trials are required for confirmation.
+@o The findings prove that the drug prevents strokes in elderly patients, so no further trials are needed. || Kesinlik abartılmış; “may” ve “suggest” ihtimal bildirir.
+@o The findings show that the drug cannot reduce the risk of stroke in elderly patients without further trials. || Olumsuzlaştırılmış; ilacın riski azaltabileceği söyleniyor.
+@o Further trials have already confirmed that the drug lowers the risk of stroke in elderly patients. || Zaman kaydırılmış; doğrulayıcı denemeler henüz yapılmadı.
+@o The drug may increase the risk of stroke in elderly patients, so further trials have been stopped. || Etki tersine çevrilmiş ve kaynakta olmayan bir sonuç eklenmiş.
+@why suggest + may = ihtimal; although further trials are needed = doğrulama gerekiyor; doğru seçenek her iki unsuru da koruyor.
+@key suggest = işaret etmek; reduce = azaltmak; confirm = doğrulamak
+@gram may/could ihtimal, prove/show kesinlik bildirir; restatement’ta kesinlik derecesi korunmalı.
+@w suggest,reduce,indicate,require
+
+@t rs
+@q Although wind farms require substantial initial investment, they generate electricity at a very low cost once they are operational.
+@o Because wind farms are cheap to build, the electricity they generate is also inexpensive. || Kurulum maliyeti tersine çevrilmiş ve zıtlık sebep-sonuca dönüştürülmüş.
+@o Wind farms produce expensive electricity even though they require little initial investment. || Her iki bilgi de tersine çevrilmiş.
+@o Wind farms require so much initial investment that they never become economical. || İşletme aşamasındaki düşük maliyet bilgisi reddedilmiş.
+@o* Wind farms are expensive to set up, but once running they produce electricity very cheaply.
+@o Once operational, wind farms cost more to run than they originally cost to build. || Kaynakta olmayan ve anlamla çelişen bir karşılaştırma eklenmiş.
+@why Although (-e rağmen) yüksek kurulum maliyeti ile düşük üretim maliyetini karşılaştırıyor; doğru seçenek bunu “but” ile veriyor.
+@key substantial = önemli miktarda; investment = yatırım; operational = faaliyette
+@gram Although + yan cümle = … , but …; zıtlık bağlacı sebep bağlacıyla (because) değiştirilemez.
+@w require,substantial,investment,economical
+
+@t rs
+@q The collapse of the fishing industry in the region was largely brought about by decades of overfishing.
+@o The collapse of the fishing industry led to decades of overfishing in the region. || Sebep-sonuç ilişkisi ters çevrilmiş.
+@o* The region's fishing industry collapsed mainly because of decades of overfishing.
+@o Overfishing was the only reason why the region's fishing industry collapsed. || “largely” (büyük ölçüde) “only” (tek) olarak abartılmış.
+@o Overfishing played a minor role in the collapse of the region's fishing industry. || “largely” “minor” olarak zayıflatılmış.
+@o The region's fishing industry is likely to collapse unless overfishing stops. || Zaman geleceğe kaydırılmış; çöküş zaten yaşandı.
+@why be brought about by = -den kaynaklanmak; largely = büyük ölçüde → mainly because of; doğru seçenek nedeni ve derecesini koruyor.
+@key bring about = yol açmak; largely = büyük ölçüde; collapse = çöküş
+@gram Edilgen yapıda “by” sonrası eylemin nedenini/yapanını verir; sebep yönünü kontrol et.
+@w collapse,bring about,largely
+
+@t rs
+@q The longer a disease remains undiagnosed, the more difficult it becomes to treat effectively.
+@o The more difficult a disease is to treat, the longer it takes to diagnose. || İlişkinin yönü ters çevrilmiş; teşhis gecikmesi tedaviyi zorlaştırır, tersi değil.
+@o Diseases that are diagnosed early can always be cured completely. || “always” ve “completely” ile abartılmış.
+@o The time taken to diagnose a disease has little effect on how well it can be treated. || Kaynaktaki orantılı ilişki inkâr edilmiş.
+@o The sooner a disease is diagnosed, the harder it is to treat effectively. || Orantı tersine çevrilmiş.
+@o* As the delay in diagnosing a disease increases, effective treatment becomes more and more difficult.
+@why The longer …, the more difficult … = teşhis geciktikçe tedavi zorlaşır; doğru seçenek “As the delay increases, … more and more difficult” ile aynı orantıyı kuruyor.
+@key undiagnosed = teşhis edilmemiş; treat = tedavi etmek; effectively = etkili biçimde
+@gram the + karşılaştırma …, the + karşılaştırma yapısı = As … increases, … more and more … ile ifade edilebilir.
+@w diagnosis,increase
+
+@t rs
+@q It was not until the introduction of compulsory schooling that literacy rates in rural areas began to rise significantly.
+@o Literacy rates in rural areas had already risen significantly before schooling became compulsory. || Zaman ters çevrilmiş; artış zorunlu eğitimden sonra başladı.
+@o* Literacy rates in rural areas only started to increase considerably once schooling was made compulsory.
+@o Compulsory schooling caused literacy rates in rural areas to fall. || Değişimin yönü tersine çevrilmiş.
+@o Literacy rates in rural areas rose only slightly after schooling became compulsory. || “significantly” “slightly” olarak zayıflatılmış.
+@o Schooling became compulsory because literacy rates in rural areas were rising. || Sebep-sonuç ters çevrilmiş.
+@why It was not until X that … = ancak X’ten sonra …; doğru seçenek “only started … once …” ile aynı zaman ilişkisini veriyor.
+@key compulsory = zorunlu; literacy = okuryazarlık; rural = kırsal
+@gram It was not until + zaman/olay + that … = only after/once …
+@w rural,significant,increase,considerable
+
+@t rs
+@q Not only does regular physical activity strengthen the heart, but it also improves mood and cognitive function.
+@o Regular physical activity strengthens the heart but has no effect on mood or cognitive function. || İkinci fayda inkâr edilmiş.
+@o Regular physical activity improves mood and cognitive function rather than strengthening the heart. || Birinci fayda inkâr edilmiş.
+@o Improving mood and cognitive function is the only benefit of regular physical activity. || “only” ile abartılmış ve kalp faydası silinmiş.
+@o* In addition to strengthening the heart, regular physical activity benefits mood and cognitive function.
+@o Regular physical activity may strengthen the heart provided that it also improves mood. || Kaynakta olmayan bir koşul ve ihtimal eklenmiş.
+@why Not only … but also … iki faydayı birlikte verir; In addition to … aynı toplamsal anlamı korur.
+@key strengthen = güçlendirmek; cognitive = bilişsel; mood = ruh hâli
+@gram Not only + yardımcı fiil + özne … but (it) also … devrik yapısı = In addition to + V-ing.
+@w cognitive,in addition,benefit,provided that
+
+@t rs
+@q Unless urgent action is taken to protect their habitats, many amphibian species will face extinction within the next few decades.
+@o Many amphibian species will become extinct even if their habitats are protected. || Koşul ortadan kaldırılmış; koruma yapılırsa yok oluş önlenebilir.
+@o Protecting amphibian habitats has already saved many species from extinction. || Zaman geçmişe kaydırılmış; kaynak bir uyarı yapıyor.
+@o* Many amphibian species will die out within decades if their habitats are not urgently protected.
+@o A few amphibian species might disappear even if their habitats are urgently protected. || Miktar (many → a few) ve kesinlik (will → might) değiştirilmiş, koşul bozulmuş.
+@o Amphibian species have been facing extinction for many decades because of habitat loss. || Zaman geçmişe kaydırılmış, koşul cümlesi sebep cümlesine dönüştürülmüş.
+@why Unless = if … not; habitatlar acilen korunmazsa birçok tür yok olacak.
+@key habitat = yaşam alanı; extinction = nesli tükenme; urgent = acil
+@gram Unless + olumlu fiil = if + olumsuz fiil.
+@w habitat,extinction,species,unless
+
+@t rs
+@q Rarely have economists been able to predict a financial crisis accurately before it occurs.
+@o Economists have usually predicted financial crises accurately before they occurred. || “Rarely” (nadiren) “usually” (genellikle) yapılarak anlam tersine çevrilmiş.
+@o Economists have never tried to predict financial crises before they occur. || Başarı yerine deneme söz konusu edilmiş ve “never” ile abartılmış.
+@o* Economists have seldom succeeded in accurately forecasting financial crises before they happen.
+@o Financial crises rarely occur when economists have predicted them accurately. || İlişki değiştirilmiş; krizlerin gerçekleşme sıklığından söz ediliyor.
+@o Economists will soon be able to predict financial crises with complete accuracy. || Zaman geleceğe kaydırılmış ve kesinlik abartılmış.
+@why Rarely have … = nadiren …; seldom aynı anlamı taşır.
+@key predict = tahmin etmek; accurately = doğru biçimde; forecast = öngörmek
+@gram Olumsuz zarf (Rarely, Seldom, Hardly) cümle başına gelince devrik yapı kullanılır.
+@w predict,accurate
+
+@t rs
+@q The sample was too small for the researchers to draw any reliable conclusions about the wider population.
+@o The researchers drew reliable conclusions about the wider population despite the small sample. || Sonuç tersine çevrilmiş; güvenilir sonuç çıkarılamadı.
+@o The researchers deliberately used a small sample in order to draw reliable conclusions. || Kaynakta olmayan bir amaç ilişkisi eklenmiş.
+@o* The sample was so small that no reliable conclusions about the wider population could be drawn.
+@o The sample was large enough for the researchers to reach some reliable conclusions. || too … to yapısı “enough” ile tersine çevrilmiş.
+@o The researchers might have reached reliable conclusions if the population had been smaller. || Koşul örneklemden nüfusa kaydırılmış.
+@why too small … to draw = o kadar küçüktü ki sonuç çıkarılamadı; doğru seçenek “so small that no … could be drawn” ile aynı anlamı veriyor.
+@key sample = örneklem; draw a conclusion = sonuç çıkarmak; reliable = güvenilir
+@gram too + sıfat + for + kişi + to V = so + sıfat + that … can’t.
+@w reliable,conclude
+
+@t rs
+@q Whereas earlier studies focused almost exclusively on genetic factors, recent research has increasingly examined the role of the environment in obesity.
+@o Both earlier and recent studies have focused mainly on the genetic factors behind obesity. || Kaynaktaki zıtlık ortadan kaldırılmış.
+@o Earlier studies examined the environment, whereas recent research has focused on genetic factors. || Dönemler yer değiştirmiş; anlam tersine dönmüş.
+@o Recent research has shown that genetic factors play no role whatsoever in obesity. || Kaynakta olmayan, abartılı bir iddia eklenmiş.
+@o* Unlike earlier work centred on genes, recent obesity research increasingly looks at the environment.
+@o Earlier studies on obesity were rejected because they ignored the environment. || Kaynakta olmayan bir sebep-sonuç ilişkisi eklenmiş.
+@why Whereas iki dönemi karşılaştırır: eskiden genetik, son dönemde giderek çevre; doğru seçenek bu zıtlığı “Unlike” ile koruyor.
+@key exclusively = yalnızca; factor = etken; increasingly = giderek artan biçimde
+@gram Whereas/while/unlike karşılaştırma bildirir; tarafların yer değiştirmesi anlamı tersine çevirir.
+@w whereas,factor,increasingly,examine,obesity
+
+@t rs
+@q Patients must not be discharged from hospital until their test results have been reviewed by a specialist.
+@o Patients may leave hospital before a specialist has reviewed their test results. || Yasak izne dönüştürülmüş; anlam tersine çevrilmiş.
+@o Specialists must review the test results after patients have left hospital. || Zaman sırası ters çevrilmiş.
+@o* A specialist is required to review patients' test results before they are allowed to leave hospital.
+@o Patients are usually discharged once a specialist has decided to review their results. || Zorunluluk “usually” ile zayıflatılmış; inceleme tamamlanmadan taburculuk ima ediliyor.
+@o Only patients with abnormal results need to be seen by a specialist before leaving hospital. || Kapsam daraltılmış; kural tüm hastalar için geçerli.
+@why must not … until … = … olmadan önce kesinlikle olmaz; uzman incelemesi taburculuktan önce zorunlu.
+@key discharge = taburcu etmek; review = incelemek; specialist = uzman
+@gram not … until = ancak … -dikten sonra; must not yasak bildirir.
+@w require
+
+@t rs
+@q Twice as many students enrolled in online courses last year as in the previous year.
+@o Half as many students enrolled in online courses last year as in the previous year. || Oran tersine çevrilmiş (iki katı → yarısı).
+@o The number of online course enrolments rose slightly compared with the previous year. || “Twice as many” (iki katı) “slightly” olarak zayıflatılmış.
+@o Students enrolled in online courses twice last year. || Miktar karşılaştırması sıklığa (iki kez) dönüştürülmüş.
+@o Twice as many students will enrol in online courses next year as did last year. || Zaman geleceğe kaydırılmış.
+@o* Last year's online course enrolments were double the figure recorded in the year before.
+@why Twice as many … as … = …-in iki katı; geçen yılki kayıt sayısı bir önceki yılın iki katı.
+@key enrol = kaydolmak; previous = önceki; double = iki katı
+@gram twice/half/three times as many … as … oranlı karşılaştırma kurar.
+@w previous
+
+@t rs
+@q Although automation may eliminate some jobs, it is by no means certain to cause widespread unemployment.
+@o Automation will inevitably lead to widespread unemployment. || Kesinlik abartılmış; kaynak bunun kesin olmadığını söylüyor.
+@o Automation will create new jobs rather than eliminate any existing ones. || İlk kısım tersine çevrilmiş; bazı işler yok olabilir.
+@o Automation has already caused widespread unemployment in many sectors. || Zaman geçmişe kaydırılmış ve kaynakla çelişen kesin bir iddia yapılmış.
+@o Since automation eliminates some jobs, it is bound to cause high unemployment. || Zıtlık sebep-sonuca dönüştürülmüş ve kesinlik abartılmış.
+@o* Automation could cost some jobs, but it will not necessarily lead to mass unemployment.
+@why may eliminate = ortadan kaldırabilir; by no means certain = hiç de kesin değil → not necessarily.
+@key eliminate = ortadan kaldırmak; by no means = asla, hiç de; widespread = yaygın
+@gram by no means certain ≈ not necessarily; may/could ihtimal, inevitably/bound to kesinlik bildirir.
+@w widespread,inevitable,lead to,since
+
+@t pc
+@q ----. These organisms, collectively known as the gut microbiome, help to break down food, produce certain vitamins and protect against harmful pathogens. Recent studies have also linked the composition of the microbiome to conditions as diverse as obesity, depression and allergies. Consequently, many scientists now regard it as an organ in its own right.
+@o Antibiotics are among the most commonly prescribed drugs in the world || “These organisms” ifadesinin göndergesi olamaz; ilaçlar organizma değildir.
+@o Obesity has become a major public health concern in many developed countries || Mikrobiyomu tanıtmıyor; “These organisms” bağlanacak bir öge yok.
+@o* The human digestive system is home to trillions of bacteria and other microorganisms
+@o However, the gut microbiome plays only a minor role in human health || However ile paragraf başlamaz ve son cümledeki “organ” vurgusuyla çelişir.
+@o Some bacteria are capable of surviving in extremely hot environments || Aşırı sıcakta yaşayan bakteriler bağırsak mikrobiyomu olarak tanımlanamaz; konu kopuyor.
+@why “These organisms … gut microbiome” ifadesi, sindirim sistemindeki mikroorganizmaları tanıtan bir giriş cümlesi gerektirir.
+@key organism = organizma; pathogen = hastalık etkeni; consequently = sonuç olarak
+@gram Boşluk paragraf başındaysa, sonraki cümledeki gösterme sözcüğünün (These) göndergesini arayın.
+@w organism,obesity,consequently
+
+@t pc
+@q Invasive species are plants or animals that have been introduced, often accidentally, into environments where they did not previously exist. ----. Without these natural controls, their populations can grow rapidly and outcompete native species for food and space. The cane toad in Australia, for instance, has spread across vast areas since its introduction in 1935.
+@o Many native species have adapted successfully to changes in their environment || Yerli türlere sapıyor; “these natural controls” ifadesinin göndergesi yok.
+@o The cane toad was originally brought to Australia to control beetles || Örneğe erken atlıyor; “these natural controls” bağlantısını kurmuyor.
+@o As a result, the number of invasive species has fallen sharply in recent decades || As a result mantıksız; paragraf istilacı türlerin yayılmasını anlatıyor.
+@o* In their new habitats, they often lack the predators and diseases that limited them at home
+@o Some invasive species are deliberately introduced as pets or ornamental plants || Taşınma yolunu anlatıyor; “these natural controls” ifadesine zemin hazırlamıyor.
+@why “Without these natural controls” öncesinde doğal kontrol mekanizmalarının (avcılar, hastalıklar) anılması gerekir.
+@key invasive = istilacı; outcompete = rekabette geride bırakmak; vast = geniş
+@gram “these + isim” yapısı bir önceki cümlede adı geçen kavramı işaret eder.
+@w species,habitat,previous,vast
+
+@t pc
+@q Central banks typically raise interest rates when inflation rises above their target. Higher rates make borrowing more expensive for both households and businesses. As a result, spending and investment tend to slow down, which reduces the pressure on prices. ----.
+@o Inflation is usually measured by changes in the price of a basket of consumer goods || Ölçüm yöntemine sapıyor; anlatılan neden-sonuç zincirini sürdürmüyor.
+@o For this reason, lower interest rates are the most effective way to control inflation || Paragrafla çelişiyor; enflasyonla faiz artırımıyla mücadele ediliyor.
+@o* However, if rates are raised too sharply, this cooling effect may push the economy into recession
+@o Many central banks were established in the nineteenth century || Tarihsel bilgi; akışı koparıyor.
+@o Consequently, borrowing becomes cheaper and households increase their spending || Önceki cümlelerle çelişiyor; borçlanma pahalılaşıyor.
+@why Paragraf faiz artışının yavaşlatıcı etkisini anlatıyor; son cümle However ile bu etkinin (this cooling effect) olası riskini ekliyor.
+@key inflation = enflasyon; investment = yatırım; as a result = sonuç olarak
+@gram Son cümle genellikle bir sonuç, sınırlama ya da değerlendirme getirir; bağlacın mantığını kontrol edin.
+@w inflation,investment,as a result,however
+
+@t pc
+@q ----. Linguists estimate that, of the roughly 7,000 languages spoken today, nearly half could disappear by the end of this century. When a language dies, it often takes with it unique knowledge about local plants, medicines and history. For this reason, many communities have launched programmes to record and teach their ancestral languages.
+@o English has become the dominant language of international science || Paragraf dillerin yok oluşunu ele alıyor; ikinci cümledeki tahmin bu iddiayı desteklemiyor.
+@o* Languages are disappearing at an unprecedented rate
+@o Learning a second language has been shown to improve memory || Konudan sapıyor; yok olma tahmini ile bağ kurmuyor.
+@o Nevertheless, most of the world's languages are in no danger of disappearing || Nevertheless ile paragraf başlamaz ve ikinci cümleyle çelişir.
+@o Some communities have already recorded their ancestral languages || Son cümlenin içeriğini öne alıyor; sorunu tanıtan bir giriş değil.
+@why Sonraki cümleler dillerin yok olma hızını (yarısı kaybolabilir) ve sonuçlarını anlatıyor; giriş cümlesi bu sorunu ortaya koymalı.
+@key unprecedented = eşi görülmemiş; estimate = tahmin etmek; launch = başlatmak
+@gram Giriş cümlesi paragrafın ana fikrini verir; sonraki cümleler onu destekler.
+@w unprecedented,estimate,launch
+
+@t pc
+@q A placebo is a substance with no active ingredients, such as a sugar pill. Surprisingly, patients who receive placebos often report real improvements in their symptoms. ----. Because of this effect, new drugs are usually tested against a placebo rather than against no treatment at all.
+@o Sugar is known to be one of the main causes of tooth decay in young children || Şeker hapı ile yüzeysel bağ kuruyor; konudan sapıyor.
+@o Nevertheless, placebos have no effect whatsoever on how patients feel || Önceki cümleyle çelişiyor; “this effect” göndergesiz kalıyor.
+@o Many new drugs are withdrawn from the market because of serious side effects || Yan etkilere sapıyor; plasebo karşılaştırmasının nedenini açıklamıyor.
+@o In most countries, doctors are not allowed to prescribe placebos to their patients || Etik konuya sapıyor; “this effect” ifadesine zemin hazırlamıyor.
+@o* This phenomenon, the placebo effect, seems to arise from patients' expectations of recovery
+@why Boşluk, iyileşmeyi “placebo effect” olarak adlandırıp açıklamalı; böylece “Because of this effect” anlam kazanır.
+@key phenomenon = olgu; symptom = belirti; arise from = -den kaynaklanmak
+@gram “This phenomenon” önceki cümlede anlatılan durumu özetleyerek yeni cümleye bağlar.
+@w phenomenon,symptom,arise,nevertheless
+
+@t pc
+@q The Industrial Revolution, which began in Britain in the late eighteenth century, transformed the way goods were produced. Machines powered by steam replaced much of the manual labour that had previously been done at home or in small workshops. Large numbers of people therefore moved from the countryside to rapidly growing industrial towns. ----.
+@o Steam engines had been invented several decades before the Industrial Revolution || Geriye dönüş yapıyor; kasabalara göç konusunu sürdürmüyor.
+@o Today, most people in Britain still live in rural villages || Günümüze sapıyor ve kentlere göç bilgisiyle çelişiyor.
+@o* These towns, however, were often overcrowded and lacked basic sanitation
+@o As a result, the population of the countryside grew faster than that of the towns || As a result mantıksız; nüfus kırsaldan kente kaydı.
+@o Manual labour remains common in many developing countries || Günümüz gelişmekte olan ülkelere sapıyor; akış kopuyor.
+@why Son cümle hızla büyüyen sanayi kentlerine göçü anlatıyor; “These towns” ile bu kentlerin sorunlarına geçen cümle akışı sürdürür.
+@key transform = dönüştürmek; labour = emek; previously = daha önce
+@gram “These + isim” ile önceki cümledeki ögeye gönderme yapılır; konu ilerlemesi korunmalı.
+@w transform,labour,previous,rural
+
+@t pc
+@q ----. It occurs when fertile land in dry regions gradually loses its productivity as a result of overgrazing, deforestation and poor irrigation practices. Climate change is expected to accelerate the process by making droughts longer and more frequent. Since millions of people depend on such land for food, the consequences could be severe.
+@o Deserts cover about one third of the Earth's land surface || Çoğul “Deserts” tekil “It” ile uyuşmuyor ve bir süreç tanımlamıyor.
+@o Many farmers in dry regions have switched to drought-resistant crops || Çözüme atlıyor; “It occurs when …” cümlesinin göndergesi olamaz.
+@o Climate change is mainly caused by the burning of fossil fuels || “It” iklim değişikliği olursa ikinci cümle anlamsızlaşır; üçüncü cümle de iklim değişikliğini ayrıca anıyor.
+@o* Desertification poses a growing threat to food security worldwide
+@o However, overgrazing is rarely a problem in modern agriculture || However ile paragraf başlamaz ve ikinci cümledeki nedenlerle çelişir.
+@why “It occurs when fertile land … loses its productivity” çölleşmeyi tanımlıyor; boşlukta “It” zamirinin göndergesi olan Desertification bulunmalı.
+@key drought = kuraklık; accelerate = hızlandırmak; consequence = sonuç
+@gram Tekil zamir (It) tekil bir göndergeye ihtiyaç duyar; çoğul isimle uyuşmaz.
+@w drought,accelerate,consequence,since
+
+@t pc
+@q Most students prepare for exams by rereading their notes or textbooks. Although this strategy feels productive, it is surprisingly ineffective. ----. In one study, students who tested themselves remembered nearly 50 percent more material a week later than those who simply reread it. Researchers believe that the effort of retrieving information strengthens the memory traces involved.
+@o Many students also find it difficult to concentrate in noisy environments such as cafés or shared rooms || Gürültü konusuna sapıyor; kendini test etme çalışmasına geçişi hazırlamıyor.
+@o Therefore, rereading remains the most reliable way to prepare for exams || Önceki cümledeki “ineffective” yargısıyla çelişiyor.
+@o Exams are an unreliable measure of students' true abilities || Sınavların geçerliliğine sapıyor; çalışma yöntemi konusunu sürdürmüyor.
+@o* A far better approach is to practise recalling the information without looking at it
+@o Some students prefer to study in groups rather than alone || Grup çalışmasına sapıyor; “tested themselves” bulgusuyla bağ kurmuyor.
+@why Etkisiz yöntemden sonra daha iyi yöntem (hatırlama pratiği) tanıtılmalı; sonraki cümledeki çalışma bunu destekliyor.
+@key approach = yaklaşım; retrieve = geri çağırmak; although = -e rağmen
+@gram Boşluk ortadaysa hem önceki cümleyle (zıtlık) hem sonraki cümleyle (örnek/kanıt) bağlantıyı kontrol edin.
+@w approach,although,reliable
+
+@t pc
+@q Research consistently shows that people with lower incomes tend to live shorter lives than their wealthier counterparts. Part of this gap can be explained by differences in access to healthcare. However, access alone does not account for the whole difference. ----.
+@o Healthcare is therefore the only factor that determines life expectancy || “access alone does not account for” ifadesiyle doğrudan çelişiyor.
+@o Wealthier people are more likely to live in large cities || Yaşam süresi farkını açıklayan bir etken sunmuyor; konudan sapıyor.
+@o Life expectancy has increased steadily in most countries over the past century || Genel eğilime sapıyor; açıklanamayan farkı tamamlamıyor.
+@o As a result, lower-income groups now live longer than wealthier ones || İlk cümleyle çelişiyor ve As a result mantıksız.
+@o* Poor housing, unhealthy diets and chronic stress also play a part
+@why “access alone does not account for the whole difference” sonrasında farkın geri kalanını açıklayan başka etkenler sıralanmalı.
+@key income = gelir; account for = açıklamak; chronic = süreğen
+@gram “alone … not” yapısı, ardından “also” ile ek etkenlerin gelmesini bekletir.
+@w income,account for,factor,chronic,however
+
+@t pc
+@q ----. Its depths are dark, cold and subject to enormous pressure, which makes direct observation extremely difficult. As a result, scientists estimate that more than 80 percent of it remains unmapped and unexplored. Each new expedition, however, reveals species that were previously unknown to science.
+@o Oceans play a crucial role in regulating the Earth's climate || Çoğul “Oceans” tekil “Its” ile uyuşmuyor ve iklim konusuna kayıyor.
+@o Many marine animals migrate thousands of kilometres every year || Çoğul “animals” tekil “Its/it” ile uyuşmuyor; göç konusu keşfedilmemişlik fikrine bağlanmıyor.
+@o Space exploration receives far more funding than ocean research || “Its depths are dark … pressure” uzayı tanımlayamaz; gönderge uyuşmuyor.
+@o* The deep ocean is one of the least understood environments on Earth
+@o The deep ocean has now been fully mapped by modern satellite technology || Sonraki “80 percent unmapped” bilgisiyle çelişiyor.
+@why Sonraki cümleler derin okyanusun gözlenmesinin zorluğunu ve keşfedilmemişliğini anlatıyor; giriş bu ana fikri vermeli ve “Its” için tekil gönderge sağlamalı.
+@key estimate = tahmin etmek; species = tür; previously = daha önce
+@gram İyelik sıfatı (Its) tekil bir isme gönderme yapar; çoğul ögelerle uyuşmaz.
+@w estimate,species,previous,as a result,crucial
+
+@t pc
+@q In the 1960s, the introduction of high-yield crop varieties, chemical fertilisers and modern irrigation dramatically increased food production in many developing countries. This so-called Green Revolution is credited with saving hundreds of millions of people from famine. ----. Heavy use of fertilisers and pesticides polluted rivers and soils, while intensive irrigation depleted groundwater supplies in several regions.
+@o Famine is still a serious problem in parts of Africa today || Günümüze sapıyor; sonraki çevresel zarar örneklerine geçiş sağlamıyor.
+@o* Its achievements, however, came at a considerable environmental cost
+@o Many farmers could not afford the new seeds and fertilisers || Ekonomik bir sorun; sonraki cümle bunu değil çevresel zararları açıklıyor.
+@o As a result, food production in developing countries declined sharply || İlk cümleyle çelişiyor; üretim arttı.
+@o The Green Revolution began in Mexico with research on wheat || Tarihsel ayrıntı; olumlu sonuçtan olumsuz örneklere geçişi kurmuyor.
+@why Olumlu sonuçlardan çevresel zararlara geçiş için However içeren ve “environmental cost” diyen bir köprü cümle gerekir; sonraki cümle bunu örnekliyor.
+@key considerable = önemli ölçüde; deplete = tüketmek; famine = kıtlık
+@gram However ile kurulan geçiş cümlesi, sonraki cümlenin vereceği örneklerin genel başlığını sunar.
+@w increase,considerable,deplete,however
+
+@t pc
+@q Noise pollution is often regarded as a minor nuisance rather than a genuine health hazard. Yet a growing body of evidence suggests otherwise. Long-term exposure to traffic noise has been associated with sleep disturbance, high blood pressure and an increased risk of heart disease. ----.
+@o Traffic noise is usually louder in the morning than in the evening || Ayrıntıya sapıyor; sağlık bulgularından bir sonuç çıkarmıyor.
+@o Thus, noise pollution poses no real threat to public health || Sunulan kanıtlarla çelişiyor.
+@o Air pollution, by contrast, is responsible for millions of premature deaths each year || Konuyu hava kirliliğine kaydırıyor.
+@o Many people use headphones to listen to music while travelling || İlgisiz; paragrafın sağlık odağını sürdürmüyor.
+@o* For this reason, some experts argue that noise should be regulated more strictly
+@why Gürültünün ciddi sağlık riskleri sıralandıktan sonra “For this reason” ile bir öneri/sonuç cümlesi gelmesi akışa uyar.
+@key hazard = tehlike; associate with = ilişkilendirmek; regulate = düzenlemek
+@gram For this reason / Thus gibi sonuç bağlaçları önceki bilgilerle tutarlı bir sonuç gerektirir.
+@w hazard,evidence,suggest,associate,argue,regulate
+
+@t pc
+@q ----. Rather, it is often a strategy for avoiding the negative emotions associated with a task, such as anxiety, boredom or fear of failure. By postponing the task, people gain short-term relief from these feelings. Unfortunately, this relief is temporary, and the stress usually returns, often more intensely, as the deadline approaches.
+@o People who procrastinate tend to be more creative than others || Yaratıcılığa sapıyor; “Rather” ile düzeltilecek olumsuz bir önerme içermiyor.
+@o Many students procrastinate when they have to write long essays or prepare for exams || Örnek veriyor; “Rather” bağlacı için olumsuz bir önerme yok.
+@o Time management courses have become popular in many companies || Konudan sapıyor; “it” zamirinin göndergesi erteleme olamaz.
+@o Procrastination is mainly caused by laziness and a lack of self-discipline || Olumlu bir iddia; “Rather” düzeltmesi için olumsuz bir önerme (not …) gerekir.
+@o* Psychologists argue that procrastination is not merely a sign of laziness
+@why “Rather” (aksine) bir olumsuz ifadeden sonra gelir: “not merely laziness … Rather, a strategy …”.
+@key merely = yalnızca; associate = ilişkilendirmek; temporary = geçici
+@gram Rather, olumsuz bir cümleyi düzelterek doğru açıklamayı sunar (not X; rather, Y).
+@w argue,merely,associate,temporary
+
+@t pc
+@q Over the past two decades, clothing production has roughly doubled, driven largely by the rise of so-called fast fashion. ----. As a result, many garments are worn only a handful of times before being thrown away. The environmental consequences are serious: the textile industry consumes vast quantities of water and is responsible for a significant share of global carbon emissions.
+@o Cotton is grown in more than 80 countries around the world || Akışı koparıyor; giysilerin kısa kullanımının nedenini açıklamıyor.
+@o Many consumers now prefer to buy second-hand clothes || As a result cümlesiyle çelişiyor; giysilerin hızla atılmasına yol açmaz.
+@o Clothing prices, however, have risen sharply during the same period || Pahalılaşma giysilerin az giyilip atılmasını açıklamaz; akışla çelişir.
+@o* This model relies on cheap, trendy items that consumers are urged to replace often
+@o The textile industry employs millions of workers in developing countries || İstihdam konusuna sapıyor; As a result cümlesinin nedeni olamaz.
+@why “This model” hızlı modayı açıklıyor ve “As a result” cümlesindeki az giyilip atılma sonucunun nedenini veriyor.
+@key largely = büyük ölçüde; consequence = sonuç; emission = salım
+@gram As a result öncesindeki cümle, sonucun nedenini içermelidir.
+@w largely,consequence,vast,significant,emission,responsible
+
+@t pc
+@q Artificial intelligence systems are increasingly being used to analyse medical images such as X-rays and scans. In several studies, these systems have detected certain cancers as accurately as experienced radiologists. Nevertheless, experts caution against relying on them too heavily. ----.
+@o X-rays were discovered by Wilhelm Röntgen in 1895 || Tarihsel bilgi; uyarının gerekçesini vermiyor.
+@o Therefore, radiologists will soon no longer be needed in hospitals || “Nevertheless … caution” uyarısıyla çelişiyor.
+@o* Such systems can make errors that even experts find hard to spot
+@o Many hospitals cannot afford to buy expensive scanning equipment || Maliyete sapıyor; yapay zekâya aşırı güvenmenin sakıncasını açıklamıyor.
+@o Cancer is one of the leading causes of death worldwide || Genel bilgi; uyarıyı gerekçelendirmiyor.
+@why Uzmanların aşırı güvene karşı uyarısından sonra bu uyarının gerekçesi (uzmanların bile fark etmekte zorlandığı hatalar) gelmeli.
+@key increasingly = giderek; detect = saptamak; nevertheless = yine de
+@gram Nevertheless ile getirilen çekince, sonraki cümlede gerekçelendirilir.
+@w increasingly,detect,accurate,nevertheless,rely on

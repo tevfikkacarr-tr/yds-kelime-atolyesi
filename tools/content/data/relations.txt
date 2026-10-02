@@ -1,0 +1,520 @@
+abundant|ample|near|abundant çok bol; ample ihtiyaçtan fazla yeterli
+abundant|vast|context|vast boyut/alan büyüklüğü; abundant miktar bolluğu
+accept|acknowledge|near|acknowledge varlığını/doğruluğunu açıkça tanımak
+accept|adopt|context|adopt politika/yöntem benimseyip uygulamak
+accept|approve|near|approve resmi onay; approve of + isim
+accept|embrace|intensity|embrace isteyerek, coşkuyla benimsemek
+accomplish|achieve|near|achieve hedef/sonuç; accomplish görevi tamamlamak
+accomplish|attain|near|attain zorlukla bir seviyeye ulaşmak
+accomplish|fulfil|context|fulfil vaat/görev/şart yerine getirmek
+account for|elaborate|grammar|account for + isim açıklar; elaborate on + isim
+accurate|precise|near|accurate doğruya uygun; precise çok kesin/ayrıntılı
+achieve|attain|near|attain daha resmi; seviye/yaşa ulaşmak
+acknowledge|admit|near|admit hata/suç itirafı tonu taşır
+acknowledge|concede|near|concede tartışmada istemeyerek kabul etmek
+acquire|derive|context|derive from + kaynak; fayda/anlam türetmek
+acquire|develop|context|yalnızca beceri/alışkanlık edinme anlamında
+acquire|gain|near|gain deneyim/avantaj; acquire resmi, satın alma da
+acquire|obtain|near|obtain izin/veri elde etmek; acquire kalıcı edinim
+adapt|adjust|near|adapt to köklü uyum; adjust küçük ayar
+adapt|modify|near|adapt yeni amaca uyarlar; modify kısmen değiştirir
+adapt|revise|context|revise metni/planı gözden geçirip düzeltmek
+address|deal with|grammar|deal with edatlı; address doğrudan nesne alır
+address|handle|context|address sorunu ele almak; handle idare etmek
+address|tackle|context|yalnızca 'address/tackle a problem' kalıbında
+adequate|sufficient|near|adequate nitelikçe yeterli; sufficient miktarca yeterli
+adjust|alter|near|adjust küçük ayar; alter genel değiştirmek
+adjust|modify|near|adjust ince ayar; modify yapıyı kısmen değiştirmek
+adjust|regulate|context|regulate kuralla denetlemek; sadece ayar anlamında
+admit|concede|near|concede istemeyerek kabul; admit itiraf etmek
+adopt|embrace|near|embrace coşkulu benimseme vurgusu taşır
+advantage|asset|near|asset değerli kaynak/kişi; advantage üstünlük
+advantage|benefit|near|advantage rekabet üstünlüğü; benefit fayda/yarar
+advantage|merit|near|merit değer/erdem; tartışmada artı yön
+adverse|detrimental|near|detrimental to + isim; adverse effects kalıbı
+adverse|harmful|near|adverse olumsuz/ters; harmful doğrudan zararlı
+affect|alter|context|alter doğrudan değiştirir; affect etkiler
+affect|impact|near|impact (on) daha güçlü; affect fiil, effect isim
+affect|influence|near|influence dolaylı, kademeli etki
+allege|assert|near|allege kanıtsız suçlama; assert emin iddia
+allege|claim|near|allege genelde kanıtsız suç/yanlış iddiası
+alleviate|curtail|context|curtail kısıtlamak; alleviate sıkıntıyı hafifletmek
+alleviate|mitigate|near|mitigate risk/etki azaltır; alleviate acı/sıkıntı
+alleviate|relieve|near|relieve günlük dil; relieve sb of sth
+allocate|ensure|context|allocate kaynak ayırmak; ensure garanti etmek
+allocate|facilitate|context|allocate tahsis etmek; facilitate kolaylaştırmak
+alter|modify|near|modify kısmen değiştirir; alter genel değişiklik
+although|even though|intensity|even though zıtlığı daha vurgulu yapar
+although|while|context|while zıtlık anlamında; ayrıca 'iken' zaman
+ambiguous|vague|near|ambiguous birden çok anlam; vague bulanık/belirsiz
+ample|excessive|intensity|excessive aşırı, olumsuz; ample bolca yeterli
+ample|sufficient|intensity|ample yeterliden fazla; sufficient tam yeterli
+analogous|comparable|near|analogous to işlevsel benzerlik; comparable to/with
+analogous|similar|near|analogous resmi, yapısal/işlevsel benzerlik
+analyse|evaluate|near|evaluate değer yargısı içerir; analyse çözümler
+analyse|examine|near|examine dikkatle inceler; analyse sistematik çözümler
+analyse|scrutinize|intensity|scrutinize çok titiz, eleştirel inceleme
+anticipate|foresee|near|anticipate beklentiyle hazırlanmayı da içerir
+anticipate|predict|near|predict tahmin; anticipate bekleyip hazırlanmak
+apparent|evident|near|apparent 'görünüşte' anlamı da taşır
+apparent|obvious|near|obvious çok açık; apparent görünürde
+apply|employ|near|employ yöntem kullanmak; apply to + alan
+apply|enforce|context|enforce yasayı zorla uygulatmak
+apply|implement|near|implement plan/politikayı hayata geçirmek
+appraise|assess|near|appraise resmi değer biçme; assess değerlendirme
+appraise|evaluate|near|appraise resmi değer biçme; evaluate genel
+approve|endorse|near|endorse açıkça desteklemek; approve of + isim
+argue|claim|near|argue gerekçeyle savunur; claim kanıtsız iddia
+argue|contend|near|contend resmi; contend with = uğraşmak
+argue|indicate|context|indicate verinin gösterdiği; argue kişinin savunduğu
+argue|maintain|near|maintain ısrarla savunmak; argue gerekçelendirmek
+arise|emerge|near|emerge görünür hale gelmek; arise sorun doğmak
+arise|occur|near|arise sorun/fırsat doğar; occur olay olur
+arise|originate|near|originate in/from köken; arise from neden
+as|because|near|as resmi, bilinen sebep; because vurgulu
+as|since|near|ikisi bilinen sebep; since 'beri' anlamı da
+as a result|consequently|strong|anlam aynı; as a result of + isim de olur
+as a result|thereby|grammar|thereby + -ing/cümle içi; as a result başta
+as a result|therefore|near|therefore mantıksal çıkarım; as a result olay sonucu
+as a result|thus|near|thus + -ing alabilir; daha resmi
+as long as|if|near|as long as şart vurgulu; if genel koşul
+as long as|provided that|strong|provided that daha resmi; ikisi de şart
+aspect|dimension|near|dimension soyut boyut; aspect yön/taraf
+aspect|feature|near|feature belirgin özellik; aspect bakış yönü
+assemble|construct|context|assemble parçaları birleştirir; insan toplamak da
+assert|claim|near|assert güçlü, emin iddia; claim kanıtsız olabilir
+assert|contend|near|contend tartışmada savunmak; assert emin beyan
+assert|declare|near|declare resmi, kamuya ilan etmek
+assert|maintain|near|maintain itiraza rağmen ısrarla savunmak
+assess|estimate|near|estimate yaklaşık sayı/değer tahmini
+assess|evaluate|near|evaluate değer yargısı vurgusu; çoğunlukla değişir
+assess|gauge|near|gauge kabaca ölçmek/kestirmek
+assess|measure|near|measure sayısal ölçüm; assess yargı içerir
+asset|merit|context|asset değerli varlık; merit nitelik/değer
+assist|facilitate|grammar|assist sb (in/with); facilitate + süreç (isim)
+assist|promote|context|promote teşvik/tanıtım; assist yardım etmek
+associate|link|near|associate X with Y; link X to/with Y
+assume|presume|near|presume daha güçlü dayanaklı varsayım
+assumption|hypothesis|near|hypothesis test edilecek bilimsel önerme
+assure|convince|grammar|assure sb (that) güvence; convince sb of/to
+attain|secure|near|secure çabayla elde edip garantiye almak
+augment|boost|near|boost hızlı, canlandırıcı artış; augment resmi
+augment|increase|near|augment resmi, ekleyerek artırmak; hep geçişli
+augment|surge|grammar|surge geçişsiz ani yükseliş; augment geçişli
+avert|deter|grammar|deter sb from doing; avert + olay
+avert|preclude|near|preclude olasılığı baştan ortadan kaldırır
+avert|prevent|near|avert yaklaşan tehlikeyi savuşturur; prevent from
+barely|hardly|near|hardly 'neredeyse hiç'; barely 'zar zor'
+barrier|obstacle|near|barrier to + isim, yapısal engel
+barrier|setback|context|setback aksilik/gerileme; barrier engel
+because|since|near|since bilinen sebep, genelde başta; 'beri' de
+because of|due to|grammar|due to 'be' sonrası sıfat gibi; because of zarf
+because of|owing to|near|owing to daha resmi
+beneficial|valuable|near|valuable değerli; beneficial to faydalı
+benefit|gain|near|gain kazanç/artış; benefit fayda; benefit from
+benefit|welfare|context|welfare refah/sosyal yardım; benefit fayda
+besides|furthermore|grammar|besides edat da (+isim/-ing); furthermore yalnız bağlaç
+besides|in addition|grammar|in addition to + isim; besides + isim
+besides|moreover|grammar|besides edat/gayriresmi; moreover resmi bağlaç
+biased|partial|context|partial 'kısmi' anlamı da; partial to = düşkün
+bolster|boost|near|bolster destekleyip sağlamlaştırır; boost artırır
+bolster|endorse|context|endorse onaylamak; bolster güçlendirmek
+bolster|reinforce|near|reinforce daha yapısal güçlendirme
+bolster|uphold|context|uphold karar/ilkeyi korumak
+boost|enhance|near|enhance kaliteyi artırır; boost miktar/moral
+boost|expand|near|expand boyut/kapsam genişletmek
+boost|increase|near|boost hızlı, olumlu artış; increase nötr
+boost|stimulate|near|stimulate harekete geçirmek, canlandırmak
+bring about|cause|near|bring about genelde değişim; cause olumsuz çağrışım
+bring about|generate|near|generate gelir/enerji/fikir üretmek
+bring about|give rise to|near|give rise to dolaylı sebep, resmi
+bring about|induce|near|induce tıbbi/kimyasal tetikleme; induce sb to
+bring about|lead to|near|lead to dolaylı sonuç; bring about değişim yaratmak
+bring about|produce|near|produce etki/sonuç üretmek; daha genel
+bring about|result in|near|result in sonuç; bring about değişim yaratmak
+burden|hardship|near|burden yük/sorumluluk; hardship maddi zorluk
+burden|setback|context|setback aksilik; burden yük
+calculate|estimate|near|estimate yaklaşık; calculate kesin hesap
+calculate|quantify|near|quantify sayıyla ifade etmek
+cause|contribute|grammar|contribute to + isim, kısmi neden
+cause|factor|context|factor etkenlerden biri; cause isim anlamında
+cause|give rise to|grammar|give rise to + isim; cause sb to do
+cause|induce|near|induce sb to; tıbbi tetikleme çağrışımı
+cause|lead to|grammar|lead to + isim; cause + nesne (to do)
+cause|provoke|near|provoke tepki/öfke kışkırtmak
+cause|result in|grammar|result in + isim/-ing; cause sb to do
+cause|trigger|near|trigger ani başlatan etken
+cease|halt|near|halt ani durdurma; cease resmi, cease to do
+challenge|confront|context|challenge itiraz da; confront yüzleşmek
+challenge|obstacle|near|obstacle engel; challenge zorlayıcı durum
+cite|refer to|grammar|refer to edatlı; cite kaynak alıntılamak
+claim|contend|near|contend tartışmada savunmak; claim iddia
+claim|maintain|near|maintain ısrarla savunmak; claim iddia
+clarify|interpret|context|interpret yorumlamak; clarify netleştirmek
+clarify|summarise|context|summarise özetlemek; clarify netleştirmek
+collapse|plummet|near|collapse çöküş; plummet sayısal sert düşüş
+combat|confront|near|combat aktif mücadele (hastalık/suç)
+combat|tackle|near|combat savaşır gibi mücadele; tackle ele almak
+combine|integrate|near|integrate uyumlu tek sistemde bütünleştirmek
+combine|merge|near|merge tamamen kaynaşmak (şirket/kurum)
+commence|initiate|near|commence resmi başlamak; initiate başlatmak
+comparable|equivalent|intensity|equivalent eşdeğer; comparable benzer düzeyde
+comparable|similar|near|comparable to/with karşılaştırılabilir düzeyde
+compel|require|intensity|compel zorlamak (compel sb to do)
+component|factor|context|component parça; factor etken
+compose|comprise|grammar|be composed of; comprise edatsız nesne
+comprehensive|extensive|near|comprehensive her şeyi kapsar; extensive geniş
+comprehensive|overall|context|overall genel/toplam; zarf da olabilir
+comprehensive|thorough|near|thorough titiz, derinlemesine
+comprise|consist of|grammar|consist of edatlı; comprise doğrudan nesne
+comprise|contain|near|contain içermek; comprise tümünü oluşturmak
+comprise|include|near|include kısmi liste; comprise tam liste
+conceive|devise|near|conceive fikir tasarlamak; devise plan geliştirmek
+concept|notion|near|notion daha gayriresmi düşünce/fikir
+concept|principle|context|principle ilke/kural; concept kavram
+conclude|infer|near|infer from çıkarım; conclude sonuca bağlamak
+conduct|undertake|near|conduct research/survey; undertake görev üstlenmek
+confront|dismiss|context|dismiss önemsememek; confront yüzleşmek, zıt yön
+confront|tackle|near|tackle çözmeye girişmek; confront yüzleşmek
+consequence|effect|near|consequence genelde olumsuz sonuç
+consequence|impact|near|impact güçlü etki; consequence sonuç
+consequence|implication|near|implication olası dolaylı sonuç/anlam
+consequence|outcome|near|outcome nötr sonuç; consequence etki vurgusu
+consequently|hence|near|hence + isim öbeği de alabilir
+consequently|therefore|near|therefore mantıksal çıkarım; consequently olay sonucu
+consequently|thus|near|thus daha resmi, + -ing alabilir
+conserve|preserve|near|conserve kaynak tasarrufu; preserve olduğu gibi korumak
+conserve|protect|near|conserve kaynak/doğa; protect genel koruma
+conserve|safeguard|near|safeguard tehlikeye karşı güvenceye almak
+consider|contemplate|near|contemplate uzun uzun düşünmek
+consider|deem|near|deem resmi; yalnızca 'saymak' anlamında
+consider|regard|grammar|regard X as Y; consider X (to be) Y
+considerable|numerous|grammar|numerous + çoğul sayılabilir; considerable miktar
+considerable|prominent|context|prominent önde gelen/göze çarpan
+considerable|significant|near|significant önemli; considerable miktarca büyük
+considerable|substantial|near|substantial somut, büyük miktar
+consistent|reliable|near|reliable güvenilir; consistent tutarlı
+consistent|uniform|near|uniform tekdüze/aynı; consistent tutarlı
+constrain|limit|near|constrain resmi, dış baskıyla kısıtlamak
+constrain|restrict|near|constrain resmi; restrict kuralla sınırlamak
+contain|include|near|include listedekilerden bazısı; contain barındırmak
+contemplate|deem|context|deem saymak; contemplate düşünmek
+contemplate|perceive|context|perceive algılamak; contemplate düşünüp tartmak
+contemporary|current|context|contemporary çağdaş/aynı döneme ait
+contend|maintain|near|contend tartışmada; maintain ısrarla savunmak
+contrast|differ|grammar|differ from geçişsiz; contrast with/isim
+contribute|lead to|intensity|contribute to kısmi katkı; lead to doğrudan
+conversely|in contrast|near|conversely tersine ilişki; in contrast farklılık
+conversely|on the other hand|near|conversely tersine ilişki; on the other hand diğer yön
+convert|revise|context|revise düzeltir; convert dönüştürür
+convert|transform|near|convert into biçim değiştirme; transform köklü
+convince|persuade|near|persuade sb to do; convince sb of/that
+cope with|deal with|near|cope with zorlukla başa çıkmak
+cope with|handle|grammar|cope with edatlı; handle doğrudan nesne
+correlate|link|grammar|correlate with; link X to Y geçişli
+credible|plausible|near|plausible akla yatkın; credible inandırıcı
+credible|reliable|near|reliable güvenilir; credible inandırıcı
+crisis|hardship|intensity|crisis ani, akut; hardship süregelen sıkıntı
+criterion|measure|context|measure ölçüt/önlem; criterion ölçüt
+critical|crucial|near|critical 'eleştirel' anlamı da taşır
+critical|vital|near|vital yaşamsal; critical kritik/eleştirel
+crucial|essential|near|essential temel/olmazsa olmaz; crucial belirleyici
+crucial|indispensable|near|indispensable vazgeçilmez; crucial belirleyici
+crucial|vital|near|vital yaşamsal çağrışım; çoğunlukla değişir
+cultivate|develop|near|cultivate emekle geliştirmek (ilişki/beceri)
+cultivate|foster|near|foster teşvik ederek geliştirmek
+cultivate|nurture|near|nurture özenle besleyip büyütmek
+current|ongoing|near|ongoing süregelen; current şimdiki
+curtail|deplete|context|deplete tüketmek; curtail kısıtlamak
+curtail|limit|near|curtail kısaltıp azaltmak; limit sınırlamak
+curtail|restrict|near|curtail kısaltmak; restrict kuralla sınırlamak
+damage|deteriorate|grammar|deteriorate geçişsiz; damage geçişli
+damage|undermine|near|undermine yavaşça, soyut zayıflatmak
+deal with|handle|grammar|deal with edatlı; handle doğrudan nesne
+deal with|tackle|grammar|deal with edatlı; tackle doğrudan nesne
+decline|decrease|near|decline genelde geçişsiz düşüş; decrease nötr
+decline|deteriorate|near|deteriorate kalite kötüleşmesi; decline düşüş
+decline|diminish|near|diminish resmi, önemi/miktarı azalmak
+decline|dwindle|near|dwindle yavaş yavaş azalıp tükenmek
+decline|refuse|context|yalnızca 'reddetmek' anlamında; decline daha kibar
+decrease|diminish|near|diminish resmi; decrease nötr
+decrease|dwindle|grammar|dwindle yalnız geçişsiz; decrease ikisi de
+decrease|reduce|grammar|reduce geçişli; decrease geçişli/geçişsiz
+decrease|shrink|near|shrink boyut küçülmesi; decrease nötr
+deem|regard|grammar|regard X as Y; deem X Y (as'sız)
+define|describe|near|define tanımlar; describe betimler
+define|specify|near|specify ayrıntılı belirtmek
+definite|specific|near|definite kesin; specific belirli/özel
+demand|entail|context|entail gerektirmek; demand talep etmek
+demand|necessitate|near|necessitate resmi; demand güçlü gereksinim
+demand|require|near|require nötr; demand daha güçlü
+demonstrate|exhibit|near|exhibit sergilemek; demonstrate kanıtlamak
+demonstrate|illustrate|near|illustrate örnekle açıklamak
+demonstrate|manifest|near|manifest belirti olarak ortaya koymak
+deny|deprive|grammar|deprive sb of sth; deny sb sth
+deny|reject|context|deny inkâr etmek de; reject reddetmek
+depend on|rely on|near|rely on güven vurgusu; depend on bağımlılık
+depict|describe|near|depict resim/sanatla tasvir etmek
+derive|obtain|near|derive from kaynaktan türetmek; obtain elde etmek
+derive|originate|grammar|derive X from Y; originate in/from geçişsiz
+derive|secure|context|secure garantiye almak; derive türetmek
+describe|outline|near|outline ana hatlarıyla anlatmak
+despite|in spite of|strong|anlam ve yapı aynı (+isim/-ing)
+detect|identify|near|detect fark etmek; identify tanımlamak
+deter|discourage|near|deter caydırmak; discourage cesaretini kırmak
+deter|prevent|near|deter caydırarak önler; prevent from doğrudan
+deter|suppress|context|suppress bastırmak; deter caydırmak
+deteriorate|erode|grammar|erode geçişli/geçişsiz; deteriorate geçişsiz
+determine|establish|near|establish kanıtlayarak saptamak
+determine|identify|near|determine belirlemek; identify tanımlamak
+detrimental|harmful|near|detrimental to + isim, resmi
+devastate|exacerbate|intensity|devastate yerle bir etmek; exacerbate kötüleştirmek
+develop|elaborate|grammar|elaborate on + isim; develop geçişli
+develop|evolve|near|evolve kademeli doğal gelişim, geçişsiz
+develop|expand|near|expand genişletmek; develop geliştirmek
+develop|formulate|context|formulate plan/politika formüle etmek
+devise|formulate|near|formulate sistematik ifade etmek; devise tasarlamak
+devise|invent|near|invent yeni şey icat etmek
+differ|vary|near|vary değişkenlik; differ from farklı olmak
+diminish|lessen|near|lessen daha gayriresmi; diminish resmi
+diminish|shrink|near|shrink boyut küçülmesi; diminish miktar/önem
+disclose|reveal|near|disclose gizli bilgiyi açıklamak, resmi
+discrepancy|disparity|near|discrepancy uyuşmazlık; disparity eşitsizlik
+discrimination|inequality|context|discrimination ayrımcılık; inequality eşitsizlik
+dismiss|refuse|grammar|refuse to do; dismiss fikri önemsememek
+dismiss|reject|near|dismiss önemsemeden geçmek; reject reddetmek
+disparity|inequality|near|disparity fark/uçurum; inequality eşitsizlik
+display|exhibit|near|exhibit resmi sergilemek; display göstermek
+display|indicate|context|indicate işaret etmek; display sergilemek
+display|manifest|near|manifest belirti olarak ortaya koymak
+distinct|separate|near|distinct belirgin farklı; separate ayrı
+due to|owing to|grammar|due to 'be' sonrası olur; owing to olmaz
+dwindle|plummet|intensity|plummet sert düşüş; dwindle yavaş azalma
+dwindle|shrink|near|shrink küçülmek; dwindle yavaşça tükenmek
+eager|enthusiastic|near|enthusiastic coşkulu; eager istekli, eager to do
+eager|keen|near|keen on + -ing; eager to do
+eager|willing|intensity|willing gönüllü/razı; eager çok istekli
+ecosystem|habitat|context|ecosystem bütün sistem; habitat yaşam alanı
+effect|impact|near|impact güçlü etki; effect genel etki
+effect|implication|near|implication olası dolaylı sonuç
+effect|influence|near|influence dolaylı etki; effect sonuç etkisi
+effect|outcome|near|outcome nötr sonuç; effect etki
+elaborate|interpret|context|interpret yorumlamak; elaborate ayrıntılandırmak
+embark on|undertake|grammar|embark on edatlı; undertake doğrudan nesne
+embrace|encompass|context|encompass kapsamak; embrace kapsama anlamında
+emphasise|highlight|near|highlight dikkat çekmek; emphasise vurgulamak
+emphasise|stress|strong|vurgulamak; stress isim olarak da kullanılır
+employ|utilize|near|utilize resmi, verimli kullanmak
+empower|enable|near|empower yetki/güç vermek; enable mümkün kılmak
+enable|facilitate|grammar|enable sb to do; facilitate + isim
+enable|provide|grammar|provide sb with sth; enable sb to do
+encompass|include|near|encompass geniş kapsamak; include içermek
+encourage|foster|near|foster uzun vadede geliştirmek
+encourage|motivate|near|motivate içten güdülemek
+encourage|promote|near|promote ilerletmek/tanıtmak
+encourage|stimulate|near|stimulate harekete geçirmek
+encourage|urge|intensity|urge ısrarla teşvik etmek
+endanger|exacerbate|context|exacerbate kötüleştirir; endanger tehlikeye atar
+endanger|jeopardize|near|jeopardize resmi, şansı/başarıyı tehlikeye atmak
+endanger|threaten|near|threaten tehdit etmek; endanger tehlikeye atmak
+endorse|promote|near|endorse açıkça onaylamak; promote tanıtmak
+endure|survive|near|endure katlanmak; survive hayatta kalmak
+enforce|implement|near|enforce zorla uygulatmak; implement uygulamak
+enforce|impose|near|impose dayatmak, impose on
+enhance|reinforce|near|reinforce pekiştirmek; enhance iyileştirmek
+ensure|secure|context|ensure sağlamak; secure garantiye almak
+entail|involve|near|entail kaçınılmaz içermek; involve kapsamak
+entail|require|near|entail resmi; require gerektirmek
+enthusiastic|keen|near|keen on + -ing; enthusiastic about
+equivalent|identical|intensity|identical tıpatıp aynı; equivalent eşdeğer
+erode|undermine|near|erode aşındırmak; undermine zayıflatmak
+escalate|intensify|near|escalate tırmanmak; intensify yoğunlaşmak
+escalate|proliferate|context|proliferate çoğalmak; escalate tırmanmak
+essential|fundamental|near|fundamental temel; essential gerekli
+essential|indispensable|intensity|indispensable kesinlikle vazgeçilmez
+essential|vital|near|vital yaşamsal; essential gerekli
+eventually|ultimately|near|ultimately nihayetinde (önem); eventually sonunda (zaman)
+evident|obvious|near|obvious daha açık; evident kanıtla belli
+evolve|foster|grammar|evolve geçişsiz; foster geçişli
+exacerbate|intensify|near|intensify yoğunlaştırmak; exacerbate kötüleştirmek
+examine|explore|near|explore keşfetmek; examine incelemek
+examine|investigate|near|investigate araştırmak; examine incelemek
+examine|scrutinize|intensity|scrutinize çok titiz, eleştirel inceleme
+exclude|omit|near|omit atlamak/dahil etmemek
+exclude|preclude|context|preclude olasılığı engellemek; exclude dışlamak
+exhibit|reveal|near|reveal açığa çıkarmak; exhibit sergilemek
+exist|survive|context|survive hayatta kalmak; exist var olmak
+expand|extend|near|extend uzatmak; expand genişletmek
+expand|increase|near|increase genel artış; expand genişleme
+expand|raise|context|raise artırmak (fiyat/seviye); expand genişletmek
+explicit|specific|near|explicit açık/net; specific belirli
+exploit|harness|near|harness kontrol ederek kullanmak; exploit sömürmek de
+exploit|utilize|near|exploit sömürme çağrışımı; utilize nötr
+explore|investigate|near|investigate sistematik araştırmak
+expose|reveal|near|expose gizliyi ifşa etmek
+extend|spread|near|spread yayılmak; extend uzatmak
+extensive|substantial|near|extensive geniş; substantial büyük miktar
+extensive|vast|intensity|vast çok geniş/devasa
+factor|variable|context|variable değişken; factor etken
+feasible|plausible|context|feasible uygulanabilir; plausible akla yatkın
+feasible|viable|near|viable sürdürülebilir; feasible uygulanabilir
+flourish|thrive|strong|gelişmek/serpilmek; neredeyse her bağlamda değişir
+fluctuate|vary|near|fluctuate inip çıkmak; vary değişmek
+foresee|predict|near|foresee önceden görmek; predict tahmin etmek
+former|previous|near|former önceki (iki şeyden); previous bir önceki
+foster|nurture|near|nurture özenle besleyip büyütmek
+foster|promote|near|promote ilerletmek; foster geliştirmek
+framework|infrastructure|context|infrastructure altyapı; framework çerçeve
+fundamental|substantial|context|fundamental temel; substantial büyük/esaslı
+furthermore|in addition|near|in addition to + isim de olur
+furthermore|moreover|strong|ikisi de resmi ekleme bağlacı
+gain|obtain|near|gain kazanmak; obtain elde etmek
+gain|secure|near|secure çabayla garantiye almak
+gauge|measure|near|gauge kabaca ölçmek; measure ölçmek
+gauge|quantify|near|quantify sayıyla ifade etmek
+generate|give rise to|near|generate üretmek; give rise to yol açmak
+generate|produce|near|generate gelir/enerji; produce genel üretmek
+give rise to|lead to|near|give rise to resmi; lead to genel
+give rise to|trigger|near|trigger ani başlatmak
+govern|regulate|near|govern yönetmek; regulate düzenlemek
+hamper|hinder|strong|engellemek; neredeyse her bağlamda değişir
+hamper|impede|near|impede resmi, ilerlemeyi yavaşlatmak
+hamper|obstruct|near|obstruct fiziksel tıkamak
+hardship|poverty|context|poverty yoksulluk; hardship genel zorluk
+harmful|toxic|intensity|toxic zehirli; harmful zararlı
+harness|utilize|near|harness kontrol ederek yararlanmak
+hazard|risk|near|hazard tehlike kaynağı; risk olasılık
+hence|therefore|grammar|hence + isim öbeği (fiilsiz) alabilir
+hence|thus|near|hence + isim öbeği alabilir; thus + -ing
+hesitant|reluctant|near|reluctant isteksiz; hesitant tereddütlü
+hesitant|uncertain|context|uncertain emin olmayan; hesitant tereddütlü
+highlight|stress|near|stress vurgulamak; highlight dikkat çekmek
+hinder|impede|strong|engellemek; çoğu bağlamda değişir
+hinder|inhibit|near|inhibit baskılamak (biyolojik/psikolojik)
+hinder|obstruct|near|obstruct fiziksel tıkamak
+hinder|prevent|intensity|prevent tamamen önlemek; hinder zorlaştırmak
+however|nevertheless|near|nevertheless 'yine de' vurgusu; however genel
+however|nonetheless|near|nonetheless 'yine de' vurgusu; however genel
+however|on the other hand|near|on the other hand karşılaştırma; however zıtlık
+identical|uniform|context|uniform tekdüze; identical tıpatıp aynı
+if|provided that|near|provided that resmi, katı şart
+illustrate|reveal|context|reveal açığa çıkarmak; illustrate örneklemek
+impact|influence|near|impact güçlü etki; influence dolaylı etki
+impede|obstruct|near|obstruct fiziksel tıkamak; impede yavaşlatmak
+imply|indicate|near|imply ima etmek; indicate göstermek
+imply|suggest|near|imply ima; suggest ima/önermek
+in addition|moreover|near|moreover daha resmi
+in contrast|on the other hand|near|on the other hand diğer yön; in contrast zıtlık
+in contrast|whereas|grammar|whereas bağlaç + cümle; in contrast cümle başı
+in order to|so that|grammar|in order to + fiil; so that + cümle
+in other words|namely|near|namely somut öğeleri sıralar
+inclined|prone|near|prone olumsuz eğilim; inclined eğilimli
+inclined|willing|near|willing razı; inclined to istekli
+include|incorporate|near|incorporate bütüne katmak; include içermek
+include|involve|near|involve kapsamak/gerektirmek; include içermek
+income|revenue|near|revenue kurum geliri; income kişisel gelir
+incorporate|integrate|near|integrate tümüyle bütünleştirmek
+increase|raise|grammar|raise geçişli; increase geçişli/geçişsiz
+increase|rise|grammar|rise geçişsiz; increase geçişli/geçişsiz
+indicate|reflect|near|reflect yansıtmak; indicate göstermek
+indicate|suggest|near|suggest daha temkinli gösterme
+indispensable|paramount|near|paramount en önemli; indispensable vazgeçilmez
+indispensable|vital|near|vital yaşamsal; indispensable vazgeçilmez
+induce|persuade|near|persuade ikna; induce sb to (etkileyerek)
+induce|prompt|near|prompt harekete geçirmek, hemen tetiklemek
+induce|provoke|near|provoke tepki kışkırtmak
+inevitable|liable|intensity|inevitable kaçınılmaz; liable olası
+inhibit|obstruct|near|obstruct fiziksel engel; inhibit baskılamak
+inhibit|suppress|intensity|suppress tamamen bastırmak; inhibit baskılamak
+initiate|launch|near|launch kampanya/ürün başlatmak
+insure|protect|context|insure sigortalamak; protect korumak
+integrate|merge|near|merge tamamen kaynaşmak
+involve|require|near|require gerektirmek; involve içermek
+isolate|separate|near|isolate yalıtmak; separate ayırmak
+jeopardize|risk|grammar|risk + -ing; risk isim de olur
+jeopardize|threaten|near|threaten tehdit; jeopardize tehlikeye atmak
+jeopardize|undermine|near|undermine zayıflatmak; jeopardize tehlikeye atmak
+lack|shortage|grammar|lack fiil edatsız/isim lack of; shortage of
+largely|predominantly|near|predominantly ağırlıklı olarak, resmi
+lead to|result in|strong|ikisi de + isim/-ing; aynı yapı
+lessen|minimize|intensity|minimize en aza indirmek; lessen azaltmak
+lessen|mitigate|near|mitigate etkiyi hafifletmek
+lessen|reduce|near|reduce nötr, yaygın; lessen azaltmak
+liable|likely|grammar|liable to do (olumsuz); likely that/to
+liable|prone|near|liable to do; prone to + isim/do
+liable|responsible|context|liable for hukuki sorumlu anlamında
+liable|susceptible|near|susceptible to etkilenmeye açık
+likely|probable|grammar|likely to do/that; probable yalnızca that
+limit|minimize|intensity|minimize en aza indirmek; limit sınırlamak
+limit|restrict|near|restrict kuralla sınırlamak
+maintain|preserve|near|preserve olduğu gibi korumak
+maintain|retain|near|retain elde tutmak
+maintain|sustain|near|sustain sürdürmek, ayakta tutmak
+maintain|uphold|near|uphold ilke/kararı savunup korumak
+manifest|reveal|near|manifest belirti olarak; reveal açığa çıkarmak
+marginal|minimal|near|marginal sınırda; minimal en az
+marginal|negligible|intensity|negligible yok sayılabilir; marginal küçük
+measure|quantify|near|quantify sayıyla ifade etmek
+merit|warrant|near|warrant haklı kılmak; merit hak etmek
+minimal|negligible|near|negligible ihmal edilebilir; minimal en az
+minimize|mitigate|near|mitigate etkiyi hafifletmek
+minimize|reduce|intensity|minimize en aza indirmek; reduce azaltmak
+modify|revise|near|revise gözden geçirip düzeltmek
+monitor|observe|near|monitor sürekli izlemek; observe gözlemlemek
+monitor|regulate|context|regulate düzenlemek; monitor izlemek
+monitor|supervise|near|supervise denetleyip yönetmek
+necessitate|require|near|necessitate resmi; require gerektirmek
+necessitate|warrant|near|warrant haklı kılmak; necessitate zorunlu kılmak
+nevertheless|nonetheless|strong|'yine de'; her bağlamda değişir
+notable|prominent|near|prominent önde gelen; notable dikkate değer
+notable|significant|near|significant önemli; notable dikkate değer
+nurture|thrive|grammar|thrive geçişsiz; nurture geçişli
+obscure|scarce|context|obscure belirsiz/az bilinen; scarce kıt
+obscure|unprecedented|context|unprecedented eşi görülmemiş; obscure belirsiz
+observe|point out|context|yalnızca 'belirtmek' anlamında; point out edatlı
+obtain|secure|near|secure çabayla garantiye almak
+oppose|reject|near|oppose karşı çıkmak; reject reddetmek
+outline|summarise|near|summarise özetlemek; outline ana hatlar
+paramount|primary|near|paramount en önemli; primary birincil
+perceive|regard|grammar|regard X as Y; perceive X as/algılamak
+pervasive|prevalent|near|pervasive her yere sinmiş (olumsuz)
+pervasive|universal|intensity|universal evrensel, istisnasız
+pervasive|widespread|near|pervasive her yere sinmiş (olumsuz)
+plausible|potential|context|potential olası; plausible akla yatkın
+precise|specific|near|precise kesin; specific belirli
+preclude|prevent|near|preclude olasılığı baştan kaldırmak
+preserve|protect|near|preserve olduğu gibi korumak
+preserve|retain|near|retain elde tutmak
+preserve|sustain|near|sustain sürdürmek
+prevalent|widespread|near|prevalent yaygın (belirli grupta)
+previous|prior|grammar|prior to + isim; previous sıfat
+primary|principal|near|principal resmi, baş/ana
+probable|prone|context|prone eğilimli; probable muhtemel
+produce|result in|grammar|result in edatlı; produce doğrudan nesne
+proliferate|soar|context|soar fırlamak; proliferate çoğalmak
+proliferate|spread|intensity|proliferate hızla çoğalmak; spread yayılmak
+prompt|provoke|near|provoke kışkırtmak; prompt harekete geçirmek
+prompt|trigger|near|trigger ani tetiklemek; prompt sb to
+prone|susceptible|near|prone eğilimli; susceptible etkilenmeye açık
+propose|suggest|near|propose resmi öneri; suggest öneri/ima
+prosperity|wealth|near|prosperity refah; wealth servet
+protect|safeguard|near|safeguard güvenceye almak
+provoke|trigger|near|provoke tepki kışkırtmak; trigger ani başlatmak
+pursue|seek|near|seek aramak/çalışmak; pursue peşinden gitmek
+raise|rise|grammar|raise geçişli; rise geçişsiz
+reform|reinforce|context|reform reform; reinforce güçlendirmek
+reform|remedy|context|remedy çare; reform yapısal düzeltme
+refuse|reject|grammar|refuse to do; reject + isim
+remedy|therapy|context|therapy tedavi; remedy çare
+retain|sustain|near|retain elde tutmak; sustain sürdürmek
+rigorous|thorough|near|rigorous katı/titiz; thorough eksiksiz
+rise|surge|intensity|surge ani, güçlü yükseliş
+safeguard|secure|near|secure garantiye almak; safeguard korumak
+safeguard|uphold|context|uphold ilkeyi savunmak; safeguard korumak
+significant|substantial|near|substantial büyük miktar; significant önemli
+soar|surge|near|soar yükselip tavan; surge ani dalga
+susceptible|vulnerable|near|vulnerable savunmasız; susceptible to etkilenmeye açık
+thereby|thus|grammar|thereby + -ing; thus cümle başında da
+therefore|thus|near|thus daha resmi, + -ing alabilir
+valuable|worthwhile|near|worthwhile emeğe değer; valuable değerli
+whereas|while|near|while 'iken' anlamı da; whereas sadece zıtlık

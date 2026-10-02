@@ -1,0 +1,124 @@
+# word|kullanım farkı (synonym cluster içinde)
+cause|En genel fiil: herhangi bir sonucu doğurmak; genellikle olumsuz sonuçlarla (cause damage).
+lead to|Bir süreç sonunda bir sonuca götürmek; arada zaman veya adımlar olabilir.
+result in|Sonucun doğrudan ortaya çıkışını vurgular; resmi metinlerde çok sık.
+bring about|Özellikle değişim, reform gibi bilinçli ya da büyük dönüşümleri meydana getirmek.
+give rise to|Yeni bir durum, soru veya endişenin ortaya çıkmasına yol açmak; daha akademik.
+trigger|Bir olayı aniden başlatan kıvılcım: kriz, tepki, alerji.
+prompt|Bir kişiyi ya da kurumu bir davranışa veya tepkiye yöneltmek (prompt sb to do).
+provoke|Özellikle öfke, protesto, tartışma gibi duygusal tepkilere yol açmak.
+induce|Fizyolojik bir durum (uyku, doğum) ya da birini bir şey yapmaya yönlendirmek; resmi.
+contribute|Tek neden değil, etkenlerden biri olmak (contribute to).
+stem from|Yön terstir: sonuçtan nedene gider (problems stem from …).
+increase|En genel: hem nesneli hem nesnesiz kullanılır.
+rise|Nesnesiz: kendiliğinden yükselmek (prices rise).
+raise|Nesneli: bir şeyi yükseltmek / gündeme getirmek (raise taxes, raise concerns).
+expand|Boyut, kapsam veya alanın genişlemesi (expand a business, expand access).
+enhance|Miktardan çok niteliğin artması: kaliteyi, performansı iyileştirmek.
+boost|Hızlı ve olumlu bir artış ya da destek; ekonomi ve motivasyonla sık.
+escalate|Olumsuz bir durumun (çatışma, maliyet) tırmanması.
+intensify|Çaba, rekabet, baskının yoğunlaşması.
+soar|Fiyat ve oranların çok hızlı ve yüksek artışı; günlük haber dilinde sık.
+surge|Ani ve kısa sürede gelen artış (a surge in demand).
+accelerate|Bir sürecin hızlanması; artan şey miktar değil hızdır.
+exacerbate|Var olan kötü bir durumu daha da kötüleştirmek; iyi şeyler için kullanılmaz.
+decline|Sayı, oran ya da kalitenin zamanla düşmesi; nesnesiz kullanılır.
+decrease|Genel azalma; hem nesneli hem nesnesiz.
+reduce|Nesneli: bir şeyi bilinçli olarak azaltmak (reduce costs).
+diminish|Yavaş yavaş zayıflamak; etki, önem, ilgi için.
+lessen|Etki ya da yükü hafifletmek; reduce'a göre daha yumuşak.
+mitigate|Olumsuz bir etkinin şiddetini azaltmak; sorunu ortadan kaldırmaz.
+alleviate|Acı, yoksulluk, belirti gibi bir sıkıntıyı hafifletmek.
+relieve|Baskı, stres, ağrıyı gidermek; rahatlatma vurgusu.
+minimize|Mümkün olan en düşük düzeye indirmek.
+curtail|Bir hakkı, harcamayı ya da etkinliği kısıtlayıp kısaltmak; resmi.
+plummet|Ani ve çok sert düşüş.
+dwindle|Yavaş yavaş azalıp neredeyse bitmek.
+shrink|Boyutun küçülmesi; ekonomi ve nüfus için.
+deplete|Kaynak, stok ya da rezervi tüketmek.
+significant|Önemli ya da istatistiksel olarak anlamlı; akademik metinlerde en yaygın.
+substantial|Miktarca büyük ve kayda değer (a substantial amount).
+considerable|Hatırı sayılır büyüklükte; substantial ile çok yakın.
+crucial|Bir sonucun belirleyicisi olacak kadar önemli (crucial for/to).
+essential|Olmazsa olmaz, zorunlu (essential for).
+vital|Yaşamsal derecede önemli; crucial ve essential ile çok yakın.
+critical|Kritik anlamında crucial'a yakın; ayrıca “eleştirel” anlamı vardır.
+fundamental|Temel, köklü; değişimin derinliğini anlatır (fundamental change).
+paramount|Her şeyden önemli; çoğunlukla “of paramount importance” kalıbıyla.
+primary|Birincil, ana; sıralama vurgusu taşır (primary cause).
+principal|Ana, başlıca; primary ile yakın ama daha resmi.
+prevent|Bir şeyin olmasını tamamen önlemek (prevent sb from doing).
+hinder|İlerlemeyi yavaşlatmak; tamamen durdurmaz.
+hamper|Çabayı zorlaştırmak; hinder ile yakın.
+impede|Hareketi ya da gelişmeyi engellemek; resmi.
+inhibit|Bir süreci (büyüme, üretim) baskılamak; bilimsel metinlerde sık.
+obstruct|Fiziksel ya da hukuki olarak önünü tıkamak.
+restrict|Sınır koymak; tamamen engellemez.
+limit|Bir üst sınır belirlemek; restrict ile yakın, daha genel.
+prohibit|Yasal olarak yasaklamak (prohibit sb from doing).
+deter|Korkutarak ya da caydırarak vazgeçirmek.
+undermine|Güveni ya da çabayı yavaş yavaş zayıflatmak.
+facilitate|Bir süreci kolaylaştırmak; özne genellikle sistem, araç ya da kurumdur.
+enable|Mümkün kılmak (enable sb to do).
+promote|Bir şeyin yaygınlaşmasını teşvik etmek.
+foster|Uzun vadede gelişmesini desteklemek (foster cooperation).
+encourage|Kişileri bir davranışa teşvik etmek (encourage sb to do).
+maintain|Var olan bir düzeyi korumak (maintain stability).
+sustain|Bir şeyin uzun süre devam etmesini sağlamak (sustain growth).
+preserve|Zarar görmeden korumak, muhafaza etmek (preserve heritage).
+retain|Elde tutmak, kaybetmemek (retain staff, retain information).
+protect|Tehlikeye karşı korumak (protect from).
+conserve|Kaynağı tasarruflu kullanarak korumak (conserve energy).
+achieve|Çabayla bir hedefe ulaşmak; en genel.
+attain|Zorlukla bir düzeye erişmek; daha resmi.
+accomplish|Bir görevi başarıyla bitirmek.
+obtain|Elde etmek; izin, veri, belge için resmi.
+acquire|Zamanla edinmek; beceri, bilgi, dil için.
+gain|Kazanmak; deneyim, erişim, kilo için.
+secure|Çabayla ve kesin biçimde elde etmek; finansman, iş için.
+indicate|İşaret etmek; kesin kanıt değil, yönünü gösterir.
+suggest|Akla getirmek; indicate'ten daha temkinli.
+demonstrate|Açıkça kanıtlamak; deney ve çalışmalarla.
+reveal|Gizli ya da bilinmeyen bir şeyi ortaya çıkarmak.
+illustrate|Bir örnekle açıklamak.
+highlight|Dikkati bir noktaya çekmek, öne çıkarmak.
+imply|Doğrudan söylemeden ima etmek.
+reflect|Bir durumu yansıtmak, göstergesi olmak.
+investigate|Nedenini bulmak için sistemli araştırmak.
+examine|Bir şeyi ayrıntılı olarak incelemek.
+explore|Henüz bilinmeyen bir olasılığı keşfetmeye çalışmak.
+analyse|Parçalarına ayırarak çözümlemek; veri ile sık.
+assess|Durumu ya da riski değerlendirip karar vermek.
+evaluate|Değerini ya da etkililiğini ölçmek.
+estimate|Yaklaşık hesap; kesin değil.
+calculate|Matematiksel olarak kesin hesaplamak.
+determine|Kesin olarak saptamak ya da belirleyici olmak.
+vary|Farklılık göstermek; nesnesiz.
+alter|Bir şeyin bir kısmını değiştirmek.
+transform|Tamamen ve köklü biçimde dönüştürmek.
+modify|Küçük değişiklikler yapmak.
+adjust|Yeni duruma göre ayarlamak ya da alışmak.
+adapt|Yeni koşullara uyum sağlamak (adapt to).
+convert|Bir biçimden başka bir biçime çevirmek (convert A into B).
+argue|Gerekçelerle savunmak.
+claim|Kanıt olmadan ileri sürmek; haberlerde şüphe tonu taşır.
+assert|Kendinden emin biçimde ileri sürmek.
+contend|Bir tartışmada savunmak; resmi.
+allege|Suç ya da kötü bir şey iddia etmek; kanıtlanmamıştır.
+emphasise|Önemini vurgulamak.
+stress|emphasise ile aynı; daha az resmi.
+similar|Benzer; birebir aynı değil.
+identical|Tıpatıp aynı.
+comparable|Karşılaştırılabilecek kadar yakın düzeyde.
+equivalent|Değer ya da miktar bakımından eşit.
+analogous|İşleyiş bakımından benzer; benzetme yapılırken.
+obvious|Herkesin hemen görebileceği kadar açık.
+evident|Kanıtlarla açıkça görülen.
+apparent|Görünür; bazen “görünüşte” anlamı taşır.
+explicit|Açıkça söylenmiş.
+implicit|Söylenmemiş ama ima edilen.
+reliable|Sürekli doğru sonuç veren, güvenilir.
+accurate|Gerçeğe uygun, hatasız.
+precise|Çok kesin, ayrıntıda doğru.
+valid|Mantıksal ya da yasal olarak geçerli.
+credible|İnanılabilir, inandırıcı.

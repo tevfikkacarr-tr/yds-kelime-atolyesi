@@ -1,0 +1,29 @@
+# bağımlılıklar ve derleme
+node_modules/
+.next/
+out/
+build/
+*.tsbuildinfo
+next-env.d.ts
+
+# üretilen dosyalar (npm run build / npm test yeniden üretir)
+src/engine/app.generated.js
+public/sw.js
+src/lib/engine/build-info.json
+
+# ortam ve gizli bilgiler
+.env
+.env.*
+!.env.example
+
+# geçici / yedek
+*.bak
+*.orig
+*.tmp
+*.v3.*
+*.v4.*
+backups/
+tests/.tmp/
+.vercel
+.DS_Store
+npm-debug.log*

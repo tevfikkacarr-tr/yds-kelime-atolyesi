@@ -1,0 +1,322 @@
+# word|field|value  — content QA corrections applied at build time (fields: see build_words.py F list)
+# --- distractor rewrites (plausible but wrong; no second correct answer) ---
+increase|czd|reduce;eliminate;measure;predict
+rise|czd|raise;fall;lower;arise
+raise|czd|rise;arise;grow;soar
+expand|czd|abolish;deprive;arise;consume
+enhance|czd|diminish;undermine;deteriorate;arise
+escalate|czd|diminish;resolve;settle;cease
+exacerbate|czd|alleviate;diagnose;cure;prescribe
+boost|czd|reduce;undermine;measure;calculate
+accelerate|cz|Thanks to new technologies, scientists were able to ___ the development of vaccines, which now takes months instead of years.
+accelerate|czd|delay;postpone;hinder;suspend
+intensify|czd|abandon;suspend;postpone;cancel
+surge|czd|decline;shortage;setback;deficit
+soar|czd|plummet;diminish;stabilise;vanish
+proliferate|czd|dwindle;vanish;resemble;comprise
+augment|czd|dismiss;deplete;diminish;exhaust
+extend|czd|shorten;threaten;endanger;diagnose
+decline|czd|soar;rise;flourish;accelerate
+reduce|czd|increase;exacerbate;measure;predict
+diminish|cz|As newer stories took over the headlines, public interest in the scandal began to ___.
+diminish|czd|intensify;soar;escalate;accelerate
+mitigate|czd|exacerbate;intensify;measure;predict
+alleviate|czd|exacerbate;diagnose;cause;intensify
+decrease|czd|increase;boost;exacerbate;intensify
+shrink|czd|expand;thrive;accumulate;flourish
+lessen|czd|increase;intensify;exacerbate;impose
+minimize|czd|increase;boost;measure;double
+curtail|cz|Critics fear that the new law may ___ the freedom of the press.
+curtail|czd|expand;protect;guarantee;enhance
+deplete|czd|supply;provide;enrich;protect
+plummet|czd|soar;rise;surge;climb
+dwindle|czd|grow;flourish;expand;soar
+relieve|czd|increase;intensify;exacerbate;impose
+significant|czd|viable;feasible;reluctant;considerate
+substantial|czd|reluctant;hostile;feasible;liable
+crucial|czd|considerate;reluctant;prone;vulnerable
+essential|czd|hostile;reluctant;prone;liable
+vital|czd|detrimental;hostile;indifferent;vulnerable
+fundamental|czd|negligible;reluctant;considerate;hostile
+critical|czd|detrimental;hostile;reluctant;indifferent
+paramount|czd|marginal;negligible;reluctant;hostile
+indispensable|czd|detrimental;hostile;vulnerable;prone
+prominent|czd|scarce;negligible;deficient;toxic
+notable|czd|liable;eager;keen;prone
+primary|czd|reluctant;hostile;prone;vulnerable
+principal|czd|principle;reluctant;prone;liable
+considerable|czd|considerate;reluctant;hesitant;prone
+lead to|czd|result from;stem from;rely on;consist of
+result in|czd|result from;stem from;consist of;rely on
+bring about|czd|result from;stem from;consist of;comply with
+give rise to|czd|stem from;consist of;comply with;rely on
+trigger|czd|prevent;avert;resolve;alleviate
+contribute|czd|object;belong;refer;resort
+induce|czd|deter;prevent;discourage;prohibit
+provoke|czd|avert;alleviate;mitigate;resolve
+attribute|czd|contribute;refer;object;resort
+derive|czd|deprive;prevent;protect;prohibit
+originate|czd|consist;comply;depend;refer
+obstruct|czd|enhance;provide;restore;clarify
+cultivate|czd|import;consume;export;donate
+retain|czd|dismiss;neglect;abandon;replace
+endure|czd|cause;design;prevent;predict
+pursue|cz|After completing her degree, she moved to London to ___ a career in finance.
+pursue|czd|abandon;neglect;postpone;refuse
+exhibit|czd|cure;forbid;postpone;invent
+highlight|czd|postpone;forbid;cure;invent
+reflect|czd|deny;postpone;forbid;invent
+disclose|czd|cure;postpone;invent;forbid
+expose|czd|conceal;protect;postpone;deny
+explore|czd|ignore;postpone;forbid;delete
+analyse|cz|Computers can ___ large amounts of data in seconds and identify patterns that humans might miss.
+analyse|czd|delete;ignore;hide;postpone
+observe|czd|prevent;postpone;forbid;delete
+detect|czd|spread;ignite;extinguish;ignore
+verify|czd|invent;forbid;delete;postpone
+appraise|czd|steal;paint;donate;frame
+alter|czd|preserve;inherit;resemble;retain
+transform|czd|preserve;retain;resemble;inherit
+modify|czd|preserve;retain;inherit;resemble
+revise|czd|deny;forbid;inherit;resemble
+undergo|czd|perform;prescribe;cure;diagnose
+substitute|czd|hazard;criterion;setback;dilemma
+scarce|czd|abundant;hostile;reluctant;vulnerable
+abundant|czd|scarce;deficient;hostile;reluctant
+adequate|czd|hostile;reluctant;tolerant;vulnerable
+sufficient|czd|hostile;reluctant;tolerant;prone
+ample|czd|scarce;reluctant;hostile;prone
+excessive|czd|minimal;reluctant;tolerant;scarce
+numerous|czd|scarce;reluctant;tolerant;deficient
+vast|czd|reluctant;hostile;tolerant;deficient
+minimal|czd|reluctant;hostile;eager;keen
+marginal|czd|considerable;substantial;reluctant;hostile
+negligible|czd|considerable;substantial;reluctant;hostile
+deficient|czd|abundant;reluctant;hostile;keen
+inevitable|czd|reluctant;tolerant;hostile;considerate
+likely|czd|reluctant;willing;eager;keen
+potential|czd|reluctant;tolerant;hostile;willing
+probable|czd|reluctant;hostile;tolerant;considerate
+plausible|czd|reluctant;hostile;tolerant;considerate
+feasible|czd|reluctant;hostile;tolerant;considerate
+uncertain|czd|reluctant;hostile;tolerant;considerate
+definite|czd|reluctant;hostile;tolerant;considerate
+viable|czd|reluctant;hostile;tolerant;considerate
+prone|czd|immune;indifferent;tolerant;reluctant
+liable|czd|prone;vulnerable;susceptible;tolerant
+tend|czd|refuse;hesitate;pretend;fail
+reluctant|cz|Because of the economic crisis, banks have become ___ to lend money to small businesses.
+reluctant|czd|eager;willing;keen;inclined
+willing|czd|reluctant;hesitant;sceptical;hostile
+eager|czd|reluctant;hesitant;sceptical;indifferent
+hesitant|czd|enthusiastic;keen;eager;willing
+keen|czd|eager;willing;enthusiastic;inclined
+inclined|czd|reluctant;hesitant;sceptical;indifferent
+determined|czd|indifferent;hostile;sceptical;tolerant
+sceptical|czd|eager;keen;willing;enthusiastic
+indifferent|czd|eager;keen;willing;reluctant
+cautious|czd|enthusiastic;keen;eager;hostile
+considerate|czd|considerable;eager;keen;reluctant
+hostile|czd|favourable;beneficial;tolerant;considerate
+enthusiastic|cz|Most teachers were ___ about the new curriculum and praised its focus on creativity.
+enthusiastic|czd|sceptical;hesitant;indifferent;hostile
+tolerant|czd|vulnerable;susceptible;prone;sceptical
+develop|czd|prevent;cure;overcome;diagnose
+produce|czd|export;import;waste;destroy
+devise|czd|destroy;postpone;inherit;forbid
+compose|czd|comprise;consist;constitute;comply
+innovate|czd|hesitate;refuse;object;comply
+assemble|czd|dismiss;dissolve;consist;belong
+assume|czd|deny;refuse;forbid;object
+presume|czd|refuse;deny;prove;object
+contemplate|czd|refuse;prohibit;object;resemble
+argue|czd|refuse;object;hesitate;pretend
+emphasise|czd|refuse;forbid;hide;resemble
+stress|czd|forbid;hide;refuse;ignore
+propose|czd|reject;forbid;refuse;veto
+point out|czd|refuse;forbid;object;hesitate
+allege|czd|refuse;forbid;hesitate;object
+necessitate|czd|resemble;inherit;deserve;imitate
+warrant|czd|resemble;inherit;imitate;forbid
+consist of|czd|refer to;comply with;object to;resort to
+include|czd|object;comply;rely;belong
+susceptible|cz|Some varieties of wheat are highly ___ to disease, so farmers must spray them regularly.
+deal with|czd|consist of;rely on;comply with;object to
+similar|czd|distinct;diverse;reluctant;hostile
+identical|czd|distinct;diverse;reluctant;hostile
+comparable|czd|distinct;diverse;reluctant;tolerant
+equivalent|czd|distinct;prone;liable;vulnerable
+analogous|czd|distinct;prone;hostile;vulnerable
+distinct|czd|identical;uniform;reluctant;hostile
+diverse|czd|uniform;identical;reluctant;hostile
+uniform|czd|diverse;distinct;reluctant;hostile
+accurate|czd|biased;vague;flawed;ambiguous
+precise|czd|vague;biased;flawed;ambiguous
+valid|czd|vague;biased;flawed;ambiguous
+reliable|czd|vague;biased;flawed;ambiguous
+consistent|czd|vague;biased;flawed;ambiguous
+rigorous|czd|vague;flawed;biased;ambiguous
+objective|czd|obstacle;burden;drawback;setback
+credible|cz|The witness gave a ___ account of the accident, so the police believed her.
+credible|czd|vague;biased;flawed;ambiguous
+biased|czd|rigorous;objective;reliable;credible
+flawed|czd|rigorous;objective;credible;reliable
+authentic|czd|biased;flawed;vague;hostile
+obvious|czd|vague;obscure;ambiguous;implicit
+evident|czd|obscure;implicit;vague;ambiguous
+apparent|czd|implicit;vague;ambiguous;transparent
+explicit|cz|The teacher was very ___ about what students needed to do, so nobody was confused.
+explicit|czd|vague;ambiguous;obscure;implicit
+implicit|czd|explicit;transparent;authentic;rigorous
+vague|czd|explicit;precise;transparent;rigorous
+ambiguous|czd|explicit;definite;precise;rigorous
+obscure|czd|explicit;ambiguous;evident;abundant
+transparent|czd|biased;vague;flawed;rigorous
+initiate|czd|resign;elapse;expire;deserve
+commence|czd|resign;elapse;deserve;arise
+undertake|czd|elapse;deserve;arise;resign
+resume|czd|deserve;belong;consist;comply
+terminate|czd|elapse;arise;resign;belong
+cease|czd|launch;initiate;terminate;delay
+halt|czd|crisis;burden;dilemma;setback
+previous|czd|reluctant;hostile;eager;keen
+prior|czd|subsequent;former;latter;initial
+subsequent|cz|After the new product was launched in 2015, sales grew rapidly in the ___ years.
+subsequent|czd|previous;prior;former;temporary
+initial|czd|subsequent;former;temporary;permanent
+contemporary|czd|former;prior;temporary;reluctant
+current|czd|latter;reluctant;hostile;eager
+temporary|czd|reluctant;hostile;hesitant;simultaneous
+permanent|czd|temporary;gradual;simultaneous;reluctant
+gradual|czd|simultaneous;reluctant;hostile;excessive
+simultaneous|czd|gradual;reluctant;hostile;eager
+ongoing|czd|eager;abundant;adequate;immune
+former|czd|previous;prior;initial;subsequent
+latter|cz|Of the two options, cheap flights and fast trains, most travellers now prefer the ___ because trains are better for the environment.
+latter|czd|former;previous;prior;initial
+prolonged|czd|temporary;simultaneous;gradual;reluctant
+extensive|czd|reluctant;hostile;vulnerable;partial
+thorough|czd|partial;vague;reluctant;hostile
+widespread|czd|reluctant;hostile;tolerant;immune
+prevalent|czd|immune;reluctant;tolerant;hostile
+pervasive|czd|reluctant;tolerant;immune;eager
+universal|czd|partial;reluctant;hostile;tolerant
+partial|czd|comprehensive;thorough;universal;reluctant
+specific|czd|immune;tolerant;prone;vulnerable
+persist|czd|vanish;diminish;dwindle;decline
+prevail|czd|collapse;vanish;dwindle;comply
+spread|cz|Without strict measures, the disease could ___ to neighbouring countries within weeks.
+spread|czd|vanish;collapse;survive;persist
+vanish|czd|thrive;flourish;survive;persist
+survive|czd|vanish;collapse;dwindle;occur
+thrive|czd|vanish;collapse;dwindle;deteriorate
+flourish|czd|collapse;vanish;dwindle;deteriorate
+collapse|czd|flourish;thrive;prevail;expand
+define|czd|hide;forbid;postpone;delete
+describe|czd|hide;forbid;postpone;delete
+interpret|czd|hide;forbid;postpone;delete
+clarify|czd|hide;forbid;postpone;delete
+outline|czd|hide;forbid;delete;postpone
+summarise|czd|hide;forbid;delete;postpone
+specify|czd|hide;forbid;delete;postpone
+convey|czd|hide;forbid;delete;postpone
+comprehend|czd|forbid;postpone;deny;resemble
+refer to|czd|consist of;comply with;object to;resort to
+reject|cz|Many voters, angry about rising prices, are expected to ___ the government's new tax plan.
+reject|czd|approve;endorse;embrace;accept
+deny|czd|admit;acknowledge;concede;confirm
+approve|cz|After months of debate, Parliament is finally expected to ___ the new budget so that it can come into force next month.
+approve|czd|reject;oppose;dismiss;deny
+acknowledge|cz|Experts openly ___ that the method has some limitations, so they recommend using it carefully.
+acknowledge|czd|deny;dismiss;refuse;reject
+oppose|cz|Many animal rights groups strongly ___ the use of animals in medical research.
+oppose|czd|support;endorse;approve;embrace
+embrace|czd|reject;oppose;dismiss;deny
+dismiss|czd|promote;reward;hire;train
+concede|czd|celebrate;deny;postpone;inherit
+utilize|czd|waste;deny;forbid;resemble
+implement|czd|abolish;forbid;resemble;postpone
+harness|czd|waste;forbid;deny;resemble
+relatively|czd|solely;merely;predominantly;virtually
+approximately|czd|increasingly;predominantly;relatively;largely
+merely|czd|approximately;increasingly;virtually;barely
+largely|cz|Although the problem affects millions of people, it has been ___ ignored by the media.
+largely|czd|approximately;relatively;barely;roughly
+predominantly|czd|approximately;barely;hardly;merely
+debt|cz|Many students leave university with a large ___ that takes years to repay.
+wealth|czd|welfare;burden;deficit;shortage
+# --- meaning disambiguation (same main meaning in two entries) ---
+impact|main|güçlü etki / tesir
+adequate|main|yeterli (ihtiyaca uygun)
+sufficient|main|yeterli (miktar olarak)
+likely|main|muhtemel (be likely to do)
+probable|main|muhtemel / en olası
+keen|main|hevesli / meraklı (keen on)
+stress|main|vurgulamak / üzerinde durmak
+refuse|main|reddetmek (yapmayı reddetmek)
+reject|main|reddetmek / kabul etmemek
+nonetheless|main|yine de / gene de
+in spite of|main|-e rağmen (despite ile aynı, “of” alır)
+# --- confusedWith: only pool references; external confusions moved to notes ---
+lessen|conf|
+lessen|cwx|lesson (ders) ile karıştırma: lessen fiildir, “azaltmak”.
+contribute|conf|
+provide|conf|
+reform|conf|
+prevent|conf|
+prevent|cwx|avoid (kaçınmak) ile karıştırma: avoid doing sth / prevent sb from doing sth.
+negligible|conf|
+negligible|cwx|negligent (ihmalkâr) ile karıştırma: negligible = önemsiz derecede küçük.
+devise|conf|
+devise|cwx|device (cihaz, isim) ile karıştırma: devise fiildir, “tasarlamak”.
+adverse|conf|
+adverse|cwx|averse (karşı, isteksiz: averse to sth) ile karıştırma.
+valuable|conf|
+valuable|cwx|invaluable zıt değildir: “paha biçilmez, çok değerli” demektir.
+thorough|conf|
+thorough|cwx|through (içinden) ve though (gerçi) ile karıştırma.
+rise|conf|raise;arise
+raise|conf|rise;arise
+arise|conf|rise;raise
+although|conf|despite
+despite|conf|although
+beside|conf|besides
+besides|conf|beside
+examine|czd|forbid;destroy;deny;postpone
+explore|czd|forbid;postpone;delete;cure
+produce|czd|import;waste;destroy;donate
+consider|czd|resemble;deserve;object;inherit
+propose|czd|forbid;refuse;resemble;deserve
+consist of|czd|comply with;object to;resort to;cope with
+minimize|czd|increase;boost;double;intensify
+
+intensify|cz|Police decided to ___ their search for the missing child, bringing in extra officers, dogs and helicopters after new evidence was found.
+consequence|cz|Many people are not aware that one serious long-term ___ of poor sleep is an increased risk of heart disease.
+outcome|cz|Researchers found that the ___ of the surgery depended largely on how quickly patients began physical therapy afterwards.
+facilitate|cz|New trade agreements are expected to ___ the flow of goods between neighbouring countries by removing customs delays.
+ensure|cz|New safety rules aim to ___ that every passenger wears a seatbelt throughout the whole journey.
+reinforce|cz|Critics say that some advertisements ___ negative stereotypes about older people by always showing them as frail and confused.
+uphold|cz|The appeals court decided to ___ the original ruling, agreeing with the lower court that the evidence against the company was convincing.
+scarce|cz|Because water is so ___ in this desert region, every drop must be shared carefully between farmers, factories and households.
+prone|cz|Because it lies below sea level and has poor drainage, this area is ___ to flooding during heavy rain.
+foresee|cz|Experts do not ___ any major changes in the housing market over the next two years, despite rising interest rates.
+setback|cz|Losing its main sponsor halfway through the season was a major ___ for the team, but it still completed the project on time.
+controversy|cz|The safety of genetically modified food remains a subject of fierce ___, with scientists and environmental activists still sharply divided.
+conclude|cz|After examining all the evidence, the committee was able to ___ that the claims were true and recommended the minister's dismissal.
+former|cz|Of the two most popular pets, cats and dogs, the ___ are generally more independent, while the latter are known for their loyalty.
+compel|cz|Economic hardship may ___ many families to move abroad in search of better-paid work and a more secure future for their children.
+impose|cz|Angered by the brutal crackdown on peaceful protesters, several countries decided to ___ tough new economic sanctions on the regime.
+largely|cz|The city's economy depends ___ on tourism, which accounts for more than two thirds of all local jobs and most tax revenue.
+feature|cz|The most important new safety ___ of the car is an automatic braking system that stops it before a collision can happen.
+component|cz|The battery is the most expensive ___ of an electric car, often accounting for around a third of its total price.
+assumption|cz|It is a mistake to make the ___ that people who dress well are always wealthy or successful in their careers.
+implication|cz|The most worrying ___ of the study is that millions of people may be exposed to harmful chemicals without knowing it.
+variable|cz|In this experiment, the amount of sunlight each plant receives is the only ___ that the researchers deliberately change.
+dimension|cz|Poverty is not only about money; it also has an important psychological ___ that affects people's confidence and hope for the future.
+wealth|cz|The museum's archive contains a ___ of information about the city's history, including thousands of old maps, letters and photographs.
+regulation|cz|Under a strict new safety ___, all cars sold in the country must be fitted with automatic braking systems from next year.
+symptom|cz|Fever is often the first ___ of the infection, appearing a day or two before the cough and muscle pain begin.
+organism|cz|The tardigrade is a tiny ___ that can survive extreme heat, freezing cold and even the vacuum of outer space.
+gene|cz|People who inherit a faulty copy of this ___ from both parents are much more likely to develop the disease.
+emission|cz|Scientists measured the ___ of methane from cattle farms and found that it was far higher than official estimates had suggested.
+ensure|czd|endure;remind;inform;resemble

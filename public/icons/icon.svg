@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2f55ad"/><stop offset="1" stop-color="#1f3a7a"/></linearGradient></defs>
+  <rect width="512" height="512" rx="112.64" fill="url(#g)"/>
+  <g transform="translate(0,0)">
+   <text x="256" y="307.2" text-anchor="middle" font-family="Georgia,serif" font-weight="700" font-size="184.32" fill="#ffffff" letter-spacing="2.56">YDS</text>
+   <rect x="138.24" y="343.04" width="235.52" height="11.264" rx="5.632" fill="#8fb0ff"/>
+   <text x="256" y="409.6" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="600" font-size="43.52" fill="#dfe6f6" letter-spacing="9.216">KELİME</text>
+  </g></svg>

@@ -1,0 +1,42 @@
+# word|struct(clause/noun/adv/verb)|position|punctuation|difference from similar connectors
+however|adv|Cümle başında, ortasında ya da sonunda|Noktalı virgül veya noktadan sonra, ardından virgül: “…; however, …”|although tek cümlede iki yan cümleyi bağlar; however iki ayrı cümleyi bağlar.
+nevertheless|adv|Genellikle ikinci cümlenin başında|“…; nevertheless, …” ya da “. Nevertheless, …”|however'dan farkı: beklenmeyen bir sonucu vurgular (“buna rağmen”).
+nonetheless|adv|Genellikle ikinci cümlenin başında ya da sonunda|“…; nonetheless, …”|nevertheless ile aynı anlam; biraz daha resmi.
+although|clause|Cümle başında ya da ortasında|Cümle başındaysa yan cümleden sonra virgül: “Although X, Y.”|despite + isim alır; although + özne + yüklem alır.
+even though|clause|Cümle başında ya da ortasında|Cümle başındaysa virgül kullanılır|although'dan daha güçlü bir zıtlık vurgusu taşır.
+whereas|clause|Genellikle iki cümlenin ortasında|Çoğu zaman öncesinde virgül: “…, whereas …”|İki durumu karşılaştırır; while ile aynı anlamda kullanılabilir, although gibi “-e rağmen” anlamı vermez.
+while|clause|Cümle başında ya da ortasında|Zıtlık anlamında öncesinde virgül: “…, while …”|Hem “-iken (aynı anda)” hem “oysa” anlamı vardır; bağlamdan anlaşılır.
+despite|noun|Cümle başında ya da ortasında|Cümle başındaysa isim öbeğinden sonra virgül|despite of yanlıştır; although + cümle, despite + isim / V-ing.
+in spite of|noun|Cümle başında ya da ortasında|Cümle başındaysa isim öbeğinden sonra virgül|despite ile aynı; “of” zorunludur.
+on the other hand|adv|İkinci cümlenin başında|“. On the other hand, …”|Bir durumun diğer yönünü verir; tam zıtlık için in contrast daha uygundur.
+in contrast|adv|İkinci cümlenin başında; in contrast to + isim|“. In contrast, …” ya da “In contrast to X, …”|İki farklı şeyi karşılaştırır; however gibi beklenmeyen sonuç vurgulamaz.
+conversely|adv|İkinci cümlenin başında|“. Conversely, …”|Durumun tam tersini anlatır (A ise B; tersine, B değilse A değil).
+therefore|adv|İkinci cümlenin başında ya da özneden sonra|“…; therefore, …” ya da “. Therefore, …”|Mantıksal sonuç; so ile aynı ama daha resmi.
+thus|adv|Cümle başında ya da “, thus + V-ing” biçiminde|“…, thus reducing …”|thus + V-ing yapısı “böylece …” anlamında YDS'de çok sık.
+consequently|adv|İkinci cümlenin başında|“. Consequently, …”|as a result ile aynı; olay zincirinin sonucu.
+hence|adv|“; hence + isim” ya da cümle başında|“…; hence the need for …”|hence + isim kalıbı (hence its popularity) therefore ile kurulamaz.
+as a result|adv|İkinci cümlenin başında; as a result of + isim|“. As a result, …”|as a result (of) = sonucunda; therefore ile aynı işlev.
+thereby|adv|“, thereby + V-ing” biçiminde|Öncesinde virgül: “…, thereby helping …”|Bir eylemin dolaylı sonucunu gösterir; thus + V-ing ile yakın.
+due to|noun|Cümle ortasında ya da başında|Cümle başındaysa virgül|due to + isim; because + cümle. “due to the fact that” + cümle.
+owing to|noun|Cümle ortasında ya da başında|Cümle başındaysa virgül|due to ile aynı, daha resmi.
+because of|noun|Cümle ortasında ya da başında|Cümle başındaysa virgül|because of + isim; because + özne + yüklem.
+since|clause|Çoğu zaman cümle başında|“Since X, Y.”|Sebep anlamında because ile aynı; “-den beri” anlamı da vardır.
+because|clause|Genellikle cümle ortasında|Ortada genellikle virgülsüz: “… because …”|because + cümle; because of + isim.
+as|clause|Sebep anlamında genellikle cümle başında|“As X, Y.”|since ile aynı; “-iken” ve “gibi” anlamları da olduğu için bağlama dikkat.
+moreover|adv|İkinci cümlenin başında|“; moreover, …” ya da “. Moreover, …”|Aynı yönde ve genellikle daha güçlü bir ek bilgi verir.
+furthermore|adv|İkinci cümlenin başında|“. Furthermore, …”|moreover ile aynı.
+in addition|adv|Cümle başında; in addition to + isim / V-ing|“. In addition, …” ya da “In addition to X, …”|in addition to + V-ing (in addition to teaching): to burada edattır.
+besides|noun|Cümle başında (+ isim / V-ing) ya da bağlaç olarak|“Besides X, …”|besides = ayrıca / -in yanı sıra; beside = yanında.
+beside|noun|İsimden önce|Virgül gerekmez|Yer bildirir (yanında); bağlaç değildir.
+likewise|adv|İkinci cümlenin başında|“. Likewise, …”|Benzerlik bildirir; similarly ile aynı.
+except|noun|İsimden önce; except for + isim|Virgül gerekmez|“hariç”; accept (kabul etmek) fiil ile karıştırılmamalı.
+unless|clause|Cümle başında ya da ortasında|Cümle başındaysa virgül|unless = if … not; ardından olumlu cümle gelir.
+provided that|clause|Genellikle cümle ortasında|Ortada virgül gerekmez|as long as ile aynı; yalnızca koşul gerçekleşirse.
+as long as|clause|Cümle ortasında ya da başında|Cümle başındaysa virgül|provided that ile aynı; daha az resmi.
+otherwise|adv|İkinci cümlenin başında|“…; otherwise, …”|“aksi takdirde”: ilk cümledeki koşul yapılmazsa olacak olumsuz sonucu verir.
+if|clause|Cümle başında ya da ortasında|Cümle başındaysa virgül|Genel koşul; unless = if not.
+for instance|adv|Cümle başında ya da ortasında|“. For instance, …”|for example ile aynı; such as ise isim listesinden önce gelir.
+namely|adv|Genel bir ifadeden sonra|Öncesinde virgül: “…, namely X and Y”|“yani, şöyle ki”: genel ifadeyi somutlaştırır.
+in other words|adv|İkinci cümlenin başında|“. In other words, …”|Aynı fikri daha basit söyler; yeni bilgi eklemez.
+so that|clause|Cümle ortasında|Virgül gerekmez|so that + cümle (amaç); in order to + fiil.
+in order to|verb|Cümle ortasında ya da başında|Cümle başındaysa virgül|in order to + fiil yalın hali; so that + özne + yüklem.

@@ -1,0 +1,1881 @@
+# Reading bridge pasajları + soruları. @P blok: id / title / text / words. Soru blokları @t rd ve @p id ile pasaja bağlanır.
+@P r1
+@title Arılar ve gıda güvenliği
+@topic Environment
+@difficulty easy
+@text Bees play a crucial role in food production because they pollinate many of the crops we eat. In recent decades, however, bee populations have declined sharply in many parts of the world. Scientists attribute this decline to several factors, including pesticides, habitat loss and disease. The consequences could be substantial: without bees, the price of fruit and vegetables would rise, and some foods might become scarce. To prevent further losses, several countries have restricted the use of certain pesticides and encouraged farmers to plant wild flowers along the edges of their fields.
+@words crucial,decline,attribute,factor,consequence,substantial,scarce,prevent,restrict,include,encourage,however,rise,habitat
+@target crucial,decline,attribute,consequence,substantial,scarce
+
+@t rd
+@p r1
+@q According to the passage, which of the following is NOT mentioned as a reason for the decline in bee populations?
+@o pesticides || Metinde açıkça sayılıyor.
+@o habitat loss || Metinde açıkça sayılıyor.
+@o disease || Metinde açıkça sayılıyor.
+@o* climate change
+@o the loss of natural habitats || “habitat loss” ifadesinin açıklaması; metinde geçiyor.
+@why Metin pesticides, habitat loss ve disease'i sayıyor; climate change geçmiyor.
+@key attribute A to B = A'yı B'ye bağlamak; factor = etken
+@gram NOT sorularında metinde geçen her seçeneği tek tek ele.
+@w attribute,factor
+
+@t rd
+@p r1
+@q What have some countries done to protect bees?
+@o They have banned all farming near forests. || Metinde böyle bir yasak yok.
+@o They have increased the price of fruit and vegetables. || Fiyat artışı bir önlem değil, olası bir sonuç.
+@o* They have limited certain pesticides and promoted wild flowers near fields.
+@o They have imported bees from other countries. || Metinde geçmiyor.
+@o They have paid farmers to stop growing crops. || Metinde geçmiyor.
+@why restricted the use of certain pesticides = bazı ilaçları sınırladılar; encouraged farmers to plant wild flowers = yaban çiçeği ekmeyi teşvik ettiler.
+@key restrict = kısıtlamak; encourage = teşvik etmek
+@gram Cevap metindeki fiillerin eş anlamlılarıyla verilir: restricted → limited.
+@w restrict,prevent
+
+@t rd
+@p r1
+@q The word “substantial” in the passage is closest in meaning to ----.
+@o* considerable
+@o temporary || Geçici; anlam uymuyor.
+@o hidden || Gizli; anlam uymuyor.
+@o unexpected || Beklenmedik; substantial büyüklük bildirir.
+@o minor || Önemsiz; anlamın tersi.
+@why substantial = büyük, kayda değer = considerable.
+@key substantial = kayda değer
+@gram Okuma sorularında kelimeyi cümledeki işlevine göre değerlendir.
+@w substantial,considerable
+
+@P r2
+@title Uyku ve hafıza
+@topic Psychology
+@difficulty easy
+@text Sleep is not simply a period of rest. During sleep, the brain processes information collected during the day and transfers important memories into long-term storage. Several studies indicate that students who sleep well after learning retain information better than those who stay awake. Lack of sleep, in contrast, can impair concentration and reduce the ability to solve problems. Although many students believe that studying late into the night will enhance their results, researchers emphasise that a regular sleep pattern is essential for effective learning.
+@words indicate,retain,lack,reduce,enhance,emphasise,essential,in contrast,although
+@target retain,enhance,emphasise,essential,indicate
+
+@t rd
+@p r2
+@q What is the main idea of the passage?
+@o Students should study late at night before exams. || Metin bunu yanlış bir inanç olarak sunuyor.
+@o* Sleep plays an important role in learning and memory.
+@o Sleep is only a period of rest for the body. || Metin bunu ilk cümlede reddediyor.
+@o Concentration problems are caused by stress. || Stresten söz edilmiyor.
+@o Most students sleep well after studying. || Metin böyle bir genelleme yapmıyor.
+@why Metin uykunun bilgiyi işleme, hafızaya aktarma ve öğrenmedeki rolünü anlatıyor.
+@key retain = akılda tutmak; essential = gerekli
+@gram Ana fikir soruları: ilk ve son cümle en güçlü ipuçlarını verir.
+@w essential,retain
+
+@t rd
+@p r2
+@q According to the passage, students who sleep well after learning ----.
+@o study more slowly than other students || Metinde böyle bir bilgi yok.
+@o* remember information better than those who stay awake
+@o do not need to review what they have learned || Metin bunu söylemiyor.
+@o have more problems with concentration || Ters bilgi: uyku eksikliği konsantrasyonu bozar.
+@o prefer to study late into the night || Metinle çelişiyor.
+@why students who sleep well after learning retain information better = daha iyi hatırlıyorlar.
+@key retain information = bilgiyi akılda tutmak
+@gram Detay sorularında metindeki ifadenin eş anlamlısını ara.
+@w retain,indicate
+
+@t rd
+@p r2
+@q The word “impair” in the passage is closest in meaning to ----.
+@o improve || Anlamın tersi.
+@o measure || Ölçmek; anlam uymuyor.
+@o* weaken
+@o require || Gerektirmek; anlam uymuyor.
+@o predict || Tahmin etmek; anlam uymuyor.
+@why Lack of sleep olumsuz bir durum; konsantrasyonu zayıflatır. in contrast iyi uykunun faydalarıyla zıtlık kuruyor.
+@key impair = zayıflatmak, bozmak
+@gram in contrast, önceki olumlu bilgiyle zıt bir bilgi geleceğini gösterir.
+@w in contrast
+
+@P r3
+@title Şehirlerde ısı adaları
+@topic Urbanization
+@difficulty intermediate
+@text Cities are often several degrees warmer than the surrounding countryside, a phenomenon known as the urban heat island effect. Concrete and asphalt absorb heat during the day and release it slowly at night, while the lack of vegetation reduces natural cooling. As global temperatures rise, this effect is likely to become more dangerous, especially for elderly residents. Some cities are trying to mitigate the problem by planting trees, creating green roofs and using light-coloured materials that reflect sunlight. These measures are relatively cheap and can also improve air quality.
+@words phenomenon,lack,reduce,likely,mitigate,reflect,relatively,rise,measure,effect,urban
+@target phenomenon,mitigate,reflect,relatively,likely
+
+@t rd
+@p r3
+@q According to the passage, why are cities warmer than the countryside?
+@o Because more people live in cities than in the countryside. || Metinde nüfus bir neden olarak verilmiyor.
+@o* Because building materials store heat and there are fewer plants.
+@o Because cities produce more pollution. || Kirlilik neden olarak verilmiyor.
+@o Because the countryside receives more rain. || Metinde yağmurdan söz edilmiyor.
+@o Because global temperatures are falling. || Metin sıcaklıkların arttığını söylüyor.
+@why Concrete and asphalt absorb heat + the lack of vegetation reduces natural cooling.
+@key absorb = emmek; vegetation = bitki örtüsü
+@gram Neden sorularında metindeki because / while / as yapılarına bak.
+@w lack,reduce
+
+@t rd
+@p r3
+@q Which of the following is NOT presented as a way to reduce urban heat?
+@o planting trees || Metinde sayılıyor.
+@o creating green roofs || Metinde sayılıyor.
+@o using light-coloured materials || Metinde sayılıyor.
+@o* building more air-conditioned shelters
+@o reflecting sunlight with certain materials || Metinde sayılıyor.
+@why Metin ağaç dikme, yeşil çatı ve açık renkli malzemeyi sayıyor; klima sığınağından söz etmiyor.
+@key mitigate = hafifletmek; measure = önlem
+@gram NOT sorularında her seçeneği metinde tek tek doğrula.
+@w mitigate
+
+@t rd
+@p r3
+@q The word “mitigate” in the passage is closest in meaning to ----.
+@o worsen || Anlamın tersi.
+@o* reduce
+@o ignore || Görmezden gelmek; şehirler sorunla mücadele ediyor.
+@o explain || Açıklamak; anlam uymuyor.
+@o measure || Ölçmek; anlam uymuyor.
+@why Ağaç dikmek gibi önlemler sorunun etkisini azaltır.
+@key mitigate = hafifletmek, azaltmak
+@gram Kelimenin ardından gelen örnekler (by planting trees) anlamı ele verir.
+@w mitigate,reduce
+
+@P r4
+@title Çevrimiçi öğrenme
+@topic Education
+@difficulty intermediate
+@text Online learning has expanded rapidly in recent years, and the pandemic accelerated this trend. Supporters argue that online courses provide flexible access to education for people who cannot attend traditional classes. Critics, on the other hand, point out that many students struggle to stay motivated without regular face-to-face contact. Research suggests that the most effective approach combines online materials with some classroom teaching. Such “blended” courses appear to retain the flexibility of online learning while maintaining the social benefits of the classroom.
+@words expand,accelerate,trend,argue,provide,point out,suggest,approach,combine,retain,maintain,benefit,motivate,on the other hand
+@target accelerate,trend,point out,combine,retain,maintain
+
+@t rd
+@p r4
+@q What do critics say about online learning?
+@o It is more expensive than traditional classes. || Maliyetten söz edilmiyor.
+@o* Students may find it hard to stay motivated without face-to-face contact.
+@o It provides flexible access to education. || Bu destekçilerin görüşü.
+@o It is the most effective approach to teaching. || Metin karma modeli en etkili buluyor.
+@o It has not grown in recent years. || Metin hızla büyüdüğünü söylüyor.
+@why point out that many students struggle to stay motivated without regular face-to-face contact.
+@key point out = dikkat çekmek; motivated = istekli
+@gram on the other hand bir karşı görüşe geçişi gösterir.
+@w point out,on the other hand
+
+@t rd
+@p r4
+@q According to the passage, “blended” courses ----.
+@o are entirely online || Metne göre çevrimiçi ve sınıf eğitimini birleştirir.
+@o are less flexible than traditional classes || Esnekliği koruduğu söyleniyor.
+@o* combine online materials with classroom teaching
+@o were created during the pandemic || Metinde böyle bir bilgi yok.
+@o remove the social benefits of the classroom || Ters bilgi: sosyal faydaları korur.
+@why the most effective approach combines online materials with some classroom teaching. Such blended courses …
+@key combine = birleştirmek; retain = korumak
+@gram “Such + isim” bir önceki cümledeki yapıya gönderme yapar.
+@w combine,retain
+
+@t rd
+@p r4
+@q The word “accelerated” in the passage is closest in meaning to ----.
+@o* sped up
+@o slowed down || Anlamın tersi.
+@o reversed || Tersine çevirmek; anlam uymuyor.
+@o ended || Sona erdirmek; eğilim devam ediyor.
+@o measured || Ölçmek; anlam uymuyor.
+@why accelerate = hızlandırmak; pandemi büyüme eğilimini hızlandırdı.
+@key accelerate = hızlandırmak; trend = eğilim
+@gram this trend = önceki cümledeki hızlı büyüme.
+@w accelerate,trend
+
+@P r5
+@title Antibiyotik direnci
+@topic Medicine
+@difficulty intermediate
+@text Antibiotics are among the most important discoveries in modern medicine. However, their excessive use has contributed to the emergence of bacteria that no longer respond to treatment. When antibiotics are used unnecessarily or incorrectly, the most resistant bacteria can survive and multiply. Health experts warn that antibiotic resistance could make common infections deadly again. To tackle this threat, doctors are urged to prescribe antibiotics only when necessary, and researchers are trying to develop new drugs that bacteria cannot easily resist.
+@words excessive,contribute,survive,infection,tackle,develop,urge,however
+@target excessive,contribute,tackle,infection,survive
+
+@t rd
+@p r5
+@q What is the main problem described in the passage?
+@o Antibiotics are too expensive for most patients. || Fiyattan söz edilmiyor.
+@o* Bacteria are becoming resistant to antibiotics.
+@o Doctors are not allowed to prescribe antibiotics. || Metin dikkatli reçete edilmesini öneriyor, yasak yok.
+@o New antibiotics have serious side effects. || Yan etkiden söz edilmiyor.
+@o Infections have disappeared in most countries. || Ters bilgi.
+@why Metin, aşırı kullanım nedeniyle tedaviye yanıt vermeyen bakterilerin ortaya çıkmasını anlatıyor.
+@key resistant = dirençli; emergence = ortaya çıkış
+@gram Ana sorun genellikle However ile başlayan cümlede verilir.
+@w excessive,contribute
+
+@t rd
+@p r5
+@q According to the passage, what can happen when antibiotics are used unnecessarily or incorrectly?
+@o All the bacteria in the body are destroyed. || Ters bilgi.
+@o Every infection becomes deadly. || Metin olasılıktan söz ediyor, kesinlikten değil.
+@o* The most resistant bacteria may survive and increase in number.
+@o Doctors must prescribe a stronger drug. || Metinde böyle bir bilgi yok.
+@o The patient becomes immune to the infection. || Metinde geçmiyor.
+@why the most resistant bacteria can survive and multiply = hayatta kalıp çoğalabilir.
+@key survive = hayatta kalmak; multiply = çoğalmak
+@gram can = olasılık; “always” gibi kesin ifadeler genellikle yanlış seçenektir.
+@w survive
+
+@t rd
+@p r5
+@q The word “tackle” in the passage is closest in meaning to ----.
+@o ignore || Görmezden gelmek; anlamın tersi.
+@o increase || Tehdidi artırmak anlamsız.
+@o* deal with
+@o explain || Açıklamak; eylem bildirmiyor.
+@o predict || Tahmin etmek; anlam uymuyor.
+@why tackle a threat = bir tehditle mücadele etmek = deal with.
+@key tackle = ele almak, mücadele etmek
+@gram To + fiil ile başlayan cümle amaç bildirir; ardından gelen önlemler anlamı destekler.
+@w tackle,deal with
+
+@P r6
+@title Dil öğrenmede yaş
+@topic Education
+@difficulty intermediate
+@text It is widely assumed that children learn foreign languages more easily than adults. Research partly supports this view: young children are better at acquiring a native-like accent. However, adults often make faster progress at the beginning because they can use their knowledge of grammar and learning strategies. The age at which learning begins is therefore only one factor among many. Motivation, the amount of exposure to the language and the quality of teaching appear to be equally important in determining success.
+@words assume,acquire,factor,determine,however,therefore
+@target assume,acquire,factor,determine
+
+@t rd
+@p r6
+@q According to the passage, what advantage do adults have when learning a language?
+@o They usually develop a better accent than children. || Ters bilgi: çocuklar aksan konusunda daha iyi.
+@o* They often progress more quickly at first.
+@o They do not need to be motivated. || Metin motivasyonun önemli olduğunu söylüyor.
+@o They are exposed to the language more often. || Metinde böyle bir karşılaştırma yok.
+@o They always reach a higher level than children. || “always” metinde desteklenmiyor.
+@why adults often make faster progress at the beginning.
+@key progress = ilerleme; at first = başlangıçta
+@gram However sonrası, önceki görüşe karşı bilgi verir.
+@w however
+
+@t rd
+@p r6
+@q What does the author conclude about the age at which learning begins?
+@o It is the only thing that matters. || Metin bunun tersini söylüyor.
+@o It has no effect on learning. || Metin kısmen etkili olduğunu kabul ediyor.
+@o* It is just one of several important factors.
+@o Adults should not try to learn new languages. || Metinde böyle bir öneri yok.
+@o It is more important than motivation. || Metin eşit derecede önemli diyor.
+@why The age … is therefore only one factor among many.
+@key factor = etken; determine = belirlemek
+@gram therefore yazarın sonucunu gösterir.
+@w factor,therefore
+
+@t rd
+@p r6
+@q The word “acquiring” in the passage is closest in meaning to ----.
+@o losing || Anlamın tersi.
+@o* gaining
+@o hiding || Gizlemek; anlam uymuyor.
+@o testing || Test etmek; anlam uymuyor.
+@o describing || Tanımlamak; anlam uymuyor.
+@why acquire an accent = bir aksan edinmek = gain.
+@key acquire = edinmek
+@gram Fiilin nesnesi (a native-like accent) anlamı belirlemeye yardım eder.
+@w acquire,gain
+
+@P r7
+@title Plastik kirliliği
+@topic Environment
+@difficulty intermediate
+@text Every year, large amounts of plastic waste enter the oceans. Much of it breaks down into tiny pieces called microplastics, which are consumed by fish and other marine animals. Scientists are still investigating the long-term effects of microplastics on human health, but early studies indicate that they may be harmful. Several countries have banned single-use plastic bags, and some companies have adopted packaging made from renewable materials. Experts argue, however, that such measures will be insufficient unless the overall production of plastic is reduced.
+@words investigate,effect,indicate,harmful,adopt,renewable,argue,overall,reduce,measure,however,unless
+@target investigate,adopt,harmful,overall,unless
+
+@t rd
+@p r7
+@q What do experts believe about current measures against plastic pollution?
+@o They have already solved the problem. || Metin yetersiz olduğunu söylüyor.
+@o* They will not be enough without less plastic production.
+@o They are too expensive for most countries. || Maliyetten söz edilmiyor.
+@o They have increased the amount of plastic waste. || Metinde böyle bir bilgi yok.
+@o They should be cancelled. || Metinde böyle bir öneri yok.
+@why such measures will be insufficient unless the overall production of plastic is reduced.
+@key insufficient = yetersiz; unless = -medikçe
+@gram unless + koşul: koşul gerçekleşmezse sonuç olumsuz.
+@w unless,reduce
+
+@t rd
+@p r7
+@q According to the passage, the effects of microplastics on human health ----.
+@o have been fully explained || Hâlâ araştırılıyor.
+@o are known to be harmless || Ters bilgi: zararlı olabilecekleri belirtiliyor.
+@o* are still being studied
+@o were discovered many years ago || Metinde böyle bir bilgi yok.
+@o are less serious than those on fish || Karşılaştırma yapılmıyor.
+@why Scientists are still investigating the long-term effects.
+@key investigate = araştırmak
+@gram still + şimdiki zaman = süren bir durum.
+@w investigate,effect
+
+@t rd
+@p r7
+@q The word “adopted” in the passage is closest in meaning to ----.
+@o rejected || Anlamın tersi.
+@o* started to use
+@o designed || Tasarlamak; şirketler ambalajı kullanmaya başladı.
+@o criticised || Eleştirmek; anlam uymuyor.
+@o sold || Satmak; anlam uymuyor.
+@why adopt packaging = ambalajı benimseyip kullanmaya başlamak.
+@key adopt = benimsemek
+@gram adopt (benimsemek) ile adapt (uyum sağlamak) karıştırılmamalı.
+@w adopt
+
+@P r8
+@title Kentleşme ve göç
+@topic Urbanization
+@difficulty intermediate
+@text In recent decades, large numbers of people have migrated from rural areas to cities in search of employment. This movement has brought about rapid economic growth in many developing countries. At the same time, it has given rise to serious problems, such as overcrowded housing, traffic congestion and pressure on public services. Governments have responded in different ways. Some have invested in infrastructure in smaller towns to reduce the flow of people to the capital, whereas others have focused on building affordable housing in existing cities.
+@words rural,employment,bring about,give rise to,infrastructure,reduce,whereas,develop,exist,economic
+@target rural,employment,give rise to,infrastructure,whereas
+
+@t rd
+@p r8
+@q Why did people move from rural areas to cities, according to the passage?
+@o To find cheaper housing || Metne göre şehirlerde konut sorunu var.
+@o* To look for work
+@o Because of natural disasters in the countryside || Metinde geçmiyor.
+@o Because the government forced them to move || Metinde geçmiyor.
+@o To escape traffic problems || Trafik şehirlerde bir sorun olarak geçiyor.
+@why in search of employment = iş aramak için.
+@key employment = istihdam, iş; migrate = göç etmek
+@gram in search of + isim = -i aramak için.
+@w employment,migration
+
+@t rd
+@p r8
+@q How do the approaches of different governments differ?
+@o All governments have stopped people from moving to cities. || Metinde böyle bir bilgi yok.
+@o* Some develop smaller towns, while others build affordable homes in cities.
+@o Some build roads, while others build airports. || Metinde geçmiyor.
+@o All governments have invested only in the capital. || Ters bilgi.
+@o Some reduce taxes, while others increase them. || Metinde geçmiyor.
+@why Some have invested in infrastructure in smaller towns … whereas others have focused on building affordable housing.
+@key infrastructure = altyapı; affordable = uygun fiyatlı
+@gram whereas iki yaklaşımı karşılaştırır.
+@w whereas,infrastructure
+
+@t rd
+@p r8
+@q The phrase “given rise to” in the passage is closest in meaning to ----.
+@o solved || Çözmek; anlamın tersi.
+@o* caused
+@o prevented || Önlemek; anlamın tersi.
+@o reported || Bildirmek; anlam uymuyor.
+@o measured || Ölçmek; anlam uymuyor.
+@why Göç bir neden; sorunlar onun sonucu: give rise to = cause.
+@key give rise to = yol açmak
+@gram At the same time, olumlu sonuçtan olumsuz sonuca geçişi gösterir.
+@w give rise to,cause
+
+@P r9
+@title Yenilenebilir enerji
+@topic Energy
+@difficulty intermediate
+@text The cost of solar and wind power has fallen dramatically in recent years. In many regions, renewable energy can now compete on price with electricity from coal or gas. Nevertheless, several obstacles remain. Because the sun does not always shine and the wind does not always blow, energy must be stored for later use, and current battery technology is still expensive. Furthermore, existing power grids were designed for large central power stations rather than many small producers. Experts estimate that a substantial amount of investment will be required to modernise them.
+@words renewable,nevertheless,obstacle,current,furthermore,estimate,investment,require,substantial,exist
+@target obstacle,nevertheless,furthermore,estimate,require
+
+@t rd
+@p r9
+@q According to the passage, what is one obstacle to the wider use of renewable energy?
+@o Solar and wind power have become more expensive. || Ters bilgi: maliyetler düştü.
+@o* Energy needs to be stored, and batteries are still costly.
+@o People do not trust renewable energy. || Metinde geçmiyor.
+@o There is not enough sunlight in most countries. || Metinde böyle bir genelleme yok.
+@o Coal is no longer available. || Metinde geçmiyor.
+@why energy must be stored for later use, and current battery technology is still expensive.
+@key obstacle = engel; store = depolamak
+@gram Nevertheless, önceki olumlu bilgiye rağmen sorunlar olduğunu gösterir.
+@w obstacle,nevertheless
+
+@t rd
+@p r9
+@q What does the passage say about existing power grids?
+@o They were built for many small producers. || Ters bilgi.
+@o They are cheaper than batteries. || Karşılaştırma yapılmıyor.
+@o* They were designed for a few large power stations and need updating.
+@o They have already been modernised. || Modernleştirilmeleri gerektiği söyleniyor.
+@o They work best with solar energy. || Metinde geçmiyor.
+@why designed for large central power stations rather than many small producers + investment will be required to modernise them.
+@key modernise = modernleştirmek; require = gerektirmek
+@gram rather than = -den çok, yerine.
+@w require,investment
+
+@t rd
+@p r9
+@q The word “estimate” in the passage is closest in meaning to ----.
+@o deny || İnkâr etmek; anlam uymuyor.
+@o* roughly calculate
+@o hope || Ummak; uzmanlar hesap yapıyor.
+@o prove || Kanıtlamak; tahmin kesin değildir.
+@o regret || Pişman olmak; anlam uymuyor.
+@why estimate = yaklaşık hesaplamak; gereken yatırım miktarı kesin değil, uzmanların öngörüsüdür.
+@key estimate = tahmin etmek
+@gram Experts estimate that … = uzmanların tahminine göre …
+@w estimate
+
+@P r10
+@title Sosyal medya ve gençler
+@topic Sociology
+@difficulty intermediate
+@text Social media is an essential part of daily life for most teenagers. It allows them to maintain friendships and explore their interests. However, a growing body of evidence suggests that excessive use may be linked to anxiety and poor sleep. The relationship is complex: it is not clear whether social media causes these problems or whether anxious teenagers simply spend more time online. Researchers therefore warn against simple conclusions and recommend that parents focus on how their children use social media rather than only on how long they use it.
+@words essential,maintain,explore,evidence,suggest,excessive,link,cause,therefore,however
+@target excessive,evidence,maintain,link,essential
+
+@t rd
+@p r10
+@q What does the passage say about the link between social media and anxiety?
+@o Social media has been proven to cause anxiety. || Metin nedenselliğin belirsiz olduğunu söylüyor.
+@o* The direction of cause and effect is not clear.
+@o There is no link at all. || Metin bir bağlantı olabileceğini söylüyor.
+@o Anxiety is caused by poor sleep only. || Metinde böyle bir bilgi yok.
+@o Teenagers who use social media are always anxious. || “always” desteklenmiyor.
+@why it is not clear whether social media causes these problems or whether anxious teenagers simply spend more time online.
+@key link = bağlantı; cause = neden olmak
+@gram whether … or whether … = -ip -mediği, belirsizlik bildirir.
+@w link,cause
+
+@t rd
+@p r10
+@q What do researchers recommend to parents?
+@o To ban social media completely || Metinde böyle bir öneri yok.
+@o To limit screen time to one hour || Belirli bir süre önerilmiyor.
+@o* To pay attention to the way their children use social media
+@o To ignore the evidence || Metinle çelişiyor.
+@o To use social media together with their children every day || Metinde geçmiyor.
+@why focus on how their children use social media rather than only on how long.
+@key recommend = tavsiye etmek
+@gram rather than only = yalnızca … değil.
+@w evidence
+
+@t rd
+@p r10
+@q The word “excessive” in the passage is closest in meaning to ----.
+@o limited || Anlamın tersi.
+@o* too much
+@o occasional || Ara sıra; anlam uymuyor.
+@o necessary || Gerekli; anlam uymuyor.
+@o educational || Eğitici; anlam uymuyor.
+@why excessive use = aşırı kullanım.
+@key excessive = aşırı
+@gram However sonrası olumsuz bir bilgi geleceğini gösterir.
+@w excessive
+
+@P r11
+@title Kahve ve sağlık
+@topic Health
+@difficulty intermediate
+@text For many years, coffee was regarded as an unhealthy habit. Recent research, however, has challenged this widely held view. Large studies indicate that moderate coffee drinkers may have a lower risk of certain long-term diseases. Some scientists attribute these benefits to natural compounds found in coffee beans. Nevertheless, they emphasise that the findings do not prove that coffee itself prevents disease, since coffee drinkers may differ from non-drinkers in other ways, such as diet and income.
+@words regard,challenge,indicate,attribute,benefit,emphasise,prevent,differ,risk,however,nevertheless,since,income
+@target regard,challenge,attribute,emphasise,differ
+
+@t rd
+@p r11
+@q Why do scientists warn against concluding that coffee prevents disease?
+@o Because coffee contains too much sugar || Metinde geçmiyor.
+@o Because the studies were too small || Metin “large studies” diyor.
+@o* Because coffee drinkers may be different from non-drinkers in other ways
+@o Because coffee increases the risk of disease || Ters bilgi: metin daha düşük risk olabileceğini söylüyor.
+@o Because the compounds in coffee are harmful || Metin faydayı bu doğal bileşenlere bağlıyor.
+@why coffee drinkers may differ from non-drinkers in other ways, such as diet and income.
+@key differ = farklılık göstermek; prevent = önlemek
+@gram since burada “-dığı için” anlamında sebep bildirir.
+@w differ,prevent,since
+
+@t rd
+@p r11
+@q How has the view of coffee changed, according to the passage?
+@o It was once considered healthy, but now it is seen as harmful. || Değişimin yönü ters.
+@o* It was once seen as unhealthy, but research now suggests some benefits.
+@o It has always been considered a healthy drink. || İlk cümleyle çelişiyor.
+@o Scientists now advise everyone to drink more coffee. || Metinde böyle bir öneri yok.
+@o It has been proven to cure several diseases. || Kanıtlanmadığı vurgulanıyor.
+@why For many years … unhealthy habit. Recent research, however, has challenged this view.
+@key regard as = olarak görmek; challenge = sorgulamak
+@gram challenge a view = bir görüşe karşı çıkmak.
+@w regard,challenge
+
+@t rd
+@p r11
+@q The word “attribute” in the passage is closest in meaning to ----.
+@o* link
+@o deny || Reddetmek; anlam uymuyor.
+@o compare || Karşılaştırmak; faydanın nedenini açıklamıyor.
+@o measure || Ölçmek; anlam uymuyor.
+@o reduce || Azaltmak; anlam uymuyor.
+@why attribute A to B = A'nın nedenini B'ye bağlamak = link A to B.
+@key attribute = -e bağlamak
+@gram attribute A to B kalıbında yön önemlidir.
+@w attribute
+
+@P r12
+@title Yaşlanan nüfus
+@topic Economics
+@difficulty intermediate
+@text In many developed countries, the proportion of older people is rising steadily, while birth rates remain low. This demographic shift poses a significant challenge for governments. As the number of retired people increases, fewer workers are available to pay the taxes that fund pensions and health care. Some countries have responded by raising the retirement age; others encourage immigration to address labour shortages. Economists argue that a combination of policies, including investment in technology, will be required to sustain economic growth.
+@words shift,significant,challenge,increase,raise,encourage,address,shortage,argue,require,sustain,rise,develop,include,labour,investment,economic
+@target shift,challenge,shortage,sustain,address
+
+@t rd
+@p r12
+@q What problem does the passage describe?
+@o Too many young people are entering the workforce. || Ters bilgi.
+@o* An ageing population means fewer workers to support more retired people.
+@o Retired people are paying too much tax. || Metinde geçmiyor.
+@o Birth rates are rising too quickly. || Doğum oranlarının düşük kaldığı söyleniyor.
+@o Immigration has caused labour shortages. || Göç bir çözüm olarak sunuluyor.
+@why As the number of retired people increases, fewer workers are available to pay the taxes …
+@key shift = değişim; retired = emekli
+@gram As + cümle burada “-dıkça” anlamında.
+@w shift,challenge
+
+@t rd
+@p r12
+@q Which of the following is mentioned as a response to the problem?
+@o Lowering the retirement age || Ters bilgi: yükseltiliyor.
+@o* Raising the retirement age
+@o Reducing pensions for all citizens || Metinde geçmiyor.
+@o Banning immigration || Göç teşvik ediliyor.
+@o Closing hospitals || Metinde geçmiyor.
+@why Some countries have responded by raising the retirement age.
+@key raise = yükseltmek; respond = karşılık vermek
+@gram respond by + V-ing = -erek karşılık vermek.
+@w raise
+
+@t rd
+@p r12
+@q The word “sustain” in the passage is closest in meaning to ----.
+@o* keep going
+@o measure || Ölçmek; anlam uymuyor.
+@o slow down || Anlamın tersi.
+@o predict || Tahmin etmek; anlam uymuyor.
+@o reject || Reddetmek; anlam uymuyor.
+@why sustain economic growth = ekonomik büyümeyi sürdürmek.
+@key sustain = sürdürmek
+@gram sustain + growth / life / effort kalıpları sık görülür.
+@w sustain
+
+@P r13
+@title Çanak çömlekteki besin izleri
+@topic Archaeology
+@difficulty easy
+@text For many years, archaeologists studied ancient pots mainly for their shapes and decorations. Today, however, scientists can also examine the tiny traces of food left inside them. Using chemical tests, they can identify fats, oils and even milk in pieces of pottery that are thousands of years old. This method has revealed that some early farming communities in Europe were already producing cheese in prehistoric times. Such findings provide valuable evidence about what people ate and how they prepared their meals. They also show that a simple broken pot can contain a surprising amount of information about the past.
+@words however,examine,identify,reveal,produce,provide,valuable,evidence,contain
+@target examine,identify,reveal,evidence,valuable
+
+@t rd
+@p r13
+@q What is the main idea of the passage?
+@o Ancient pots were valued mainly for their shapes and decorations. || Bu, metnin aştığını söylediği eski yaklaşımdır; ana fikir değildir.
+@o Cheese production first began among early European farmers. || Metin peynirin “zaten” üretildiğini söyler, ilk kez orada başladığını iddia etmez; ayrıca bu yalnızca bir ayrıntıdır.
+@o* Chemical tests on old pottery can show what ancient people ate.
+@o Broken pots are more useful to archaeologists than complete ones. || Metinde kırık ve sağlam kaplar arasında bir karşılaştırma yapılmaz.
+@o Early farmers in Europe preferred dairy products to meat. || Metinde et ile süt ürünleri arasında bir tercihten söz edilmez.
+@why Metin baştan sona kimyasal testlerle çanak çömlekteki besin kalıntılarının incelenmesini ve bunun eski beslenme alışkanlıklarını ortaya koymasını anlatır.
+@key trace = iz; pottery = çanak çömlek; evidence = kanıt
+@gram “Today, however, ...” yapısında however, geçmişteki yaklaşımla bugünkü yaklaşım arasındaki karşıtlığı gösterir.
+@w however, examine, reveal, evidence
+
+@t rd
+@p r13
+@q According to the passage, chemical tests on pottery can detect ----.
+@o the exact age of the farming community || Metinde testlerin topluluğun yaşını belirlediği söylenmez.
+@o the names of the people who used the pots || Böyle bir bilgiden hiç söz edilmez.
+@o the colours used in the decorations || Süslemelerden yalnızca eski yaklaşım bağlamında söz edilir, renkler test edilmez.
+@o the temperature at which the food was cooked || Pişirme sıcaklığı metinde geçmez.
+@o* fats, oils and even milk
+@why Metin açıkça “they can identify fats, oils and even milk in pieces of pottery” der.
+@key detect = tespit etmek; identify = belirlemek, tanımlamak
+@gram “Using chemical tests, they can identify ...” cümlesinde -ing ile başlayan yan cümle, eylemin hangi yolla yapıldığını belirtir.
+@w identify
+
+@t rd
+@p r13
+@q The word “examine” in the passage is closest in meaning to ----.
+@o decorate || “Süslemek” anlamına gelir; besin izlerini süslemek anlamsızdır.
+@o* inspect
+@o ignore || “Görmezden gelmek” anlamındadır; metindeki anlamın tersidir.
+@o repair || “Onarmak” demektir; bilim insanları izleri onarmaz, inceler.
+@o purchase || “Satın almak” anlamındadır; bağlama uymaz.
+@why “Examine”, bir şeyi dikkatle incelemek anlamına gelir; en yakın karşılığı “inspect”tir.
+@key examine = incelemek; inspect = dikkatle incelemek, denetlemek
+@gram “can also examine” yapısında modal fiilden sonra yalın fiil kullanılır; tüm seçenekler bu yapıya uyar, anlam belirleyicidir.
+@w examine
+
+@P r14
+@title Ötegezegenlerin izinde
+@topic Astronomy
+@difficulty easy
+@text Planets outside our solar system are called exoplanets. Because they are very far away and much smaller than their stars, they are difficult to observe directly. Astronomers therefore use a clever method. When a planet passes in front of its star, the star's light becomes slightly weaker for a short time. Telescopes can detect this small change in brightness. By measuring how much the light drops, scientists can estimate the size of the planet. Using this approach, space missions have identified a large number of exoplanets. A few of them may even have conditions similar to those on Earth.
+@words observe,therefore,detect,measure,estimate,approach,identify,similar
+@target observe,detect,estimate,measure,approach
+
+@t rd
+@p r14
+@q According to the passage, why are exoplanets difficult to observe directly?
+@o Their light is much stronger than the light of their stars. || Metin ışık karşılaştırması yapmaz; yalnızca gezegenlerin çok uzak ve yıldızlarından çok daha küçük olduğunu söyler.
+@o They move too quickly for telescopes to follow. || Gezegenlerin hızından söz edilmez.
+@o* They are very distant and much smaller than their stars.
+@o They are hidden by thick clouds of dust. || Toz bulutlarından söz edilmez.
+@o They exist only in other galaxies. || Metinde başka galaksilerden bahsedilmez; yalnızca Güneş Sistemi dışı denir.
+@why Metin “Because they are very far away and much smaller than their stars, they are difficult to observe directly” diyerek nedeni açıkça verir.
+@key observe = gözlemlemek; distant = uzak
+@gram “Because ...” ile başlayan yan cümle, ana cümledeki durumun nedenini bildirir.
+@w observe
+
+@t rd
+@p r14
+@q According to the passage, scientists can estimate the size of a planet by ----.
+@o counting how often it passes in front of its star || Geçişlerin sıklığından söz edilmez; boyut ışıktaki düşüşle hesaplanır.
+@o comparing it directly with the size of Earth || Dünya ile yalnızca koşulların benzerliği bağlamında karşılaştırma yapılır.
+@o sending space missions to land on it || Görevler gezegenleri belirler, üzerlerine iniş yapılmaz.
+@o* measuring how much the star's light drops
+@o measuring the temperature of its surface || Yüzey sıcaklığından hiç söz edilmez.
+@why Metin “By measuring how much the light drops, scientists can estimate the size of the planet” der.
+@key estimate = tahmin etmek; measure = ölçmek; brightness = parlaklık
+@gram “By + -ing” yapısı bir sonuca hangi yöntemle ulaşıldığını anlatır.
+@w estimate, measure
+
+@t rd
+@p r14
+@q The word “detect” in the passage is closest in meaning to ----.
+@o prevent || “Önlemek” demektir; teleskoplar değişimi önlemez.
+@o ignore || “Görmezden gelmek” anlamıyla metindeki anlamın tersidir.
+@o cause || “Neden olmak” demektir; değişime gezegen neden olur, teleskop değil.
+@o* notice
+@o reduce || “Azaltmak” anlamındadır; teleskopun parlaklığı azaltması söz konusu değildir.
+@why “Detect”, bir şeyi fark etmek/tespit etmek anlamına gelir; bağlamda teleskopların ışıktaki küçük değişimi fark etmesi anlatılır.
+@key detect = tespit etmek, fark etmek; notice = fark etmek
+@gram “can detect” yapısında modal fiilden sonra yalın fiil gelir; seçeneklerin hepsi yalın fiildir, ayırt edici olan anlamdır.
+@w detect
+
+@P r15
+@title Dikey tarım
+@topic Agriculture
+@difficulty easy
+@text Vertical farming is a method of growing crops inside tall buildings instead of open fields. Plants are placed on shelves stacked one above another, and they receive light from special lamps rather than the sun. Because water is recycled within the system, vertical farms require far less water than traditional farms. They can also be built in urban areas, so fresh vegetables travel only short distances to shops. However, these farms use a significant amount of electricity, which makes them expensive to run. For this reason, experts consider them a useful addition to traditional agriculture rather than a complete substitute for it.
+@words require,urban,however,significant,consider,substitute
+@target require,significant,substitute,consider
+
+@t rd
+@p r15
+@q According to the passage, what is the main disadvantage of vertical farms?
+@o* Their high electricity use makes them costly to run.
+@o They need more water than traditional farms. || Metne göre tersine, su geri dönüştürüldüğü için çok daha az su kullanırlar.
+@o Their vegetables must travel long distances to shops. || Metin sebzelerin yalnızca kısa mesafeler kat ettiğini söyler.
+@o They can only be built in rural areas. || Metin bu çiftliklerin kentsel alanlarda kurulabildiğini belirtir.
+@o Their crops grow more slowly than field crops. || Büyüme hızından hiç söz edilmez.
+@why “However, these farms use a significant amount of electricity, which makes them expensive to run” cümlesi temel dezavantajı verir.
+@key disadvantage = dezavantaj; run = işletmek; significant = kayda değer
+@gram “However” önceki avantajlarla karşıtlık kurarak dezavantajı başlatır.
+@w however, significant
+
+@t rd
+@p r15
+@q What do experts think about vertical farming?
+@o It will soon replace traditional farming entirely. || Uzmanlar tam tersine onu tam bir ikame olarak görmez.
+@o It is too expensive to be useful at all. || Metin onu “yararlı bir ek” olarak niteler; bu abartılı bir yorumdur.
+@o It should be allowed only in rural regions. || Böyle bir öneri yoktur; metin kentsel alanlardan söz eder.
+@o* It will add to traditional farming, not replace it.
+@o It wastes more water than it saves. || Metin su tasarrufu sağladığını söyler.
+@why Uzmanlar dikey tarımı “a useful addition ... rather than a complete substitute” olarak görür, yani geleneksel tarımı tamamlar ama onun yerini almaz.
+@key consider = saymak, görmek; addition = ek, katkı
+@gram “rather than” iki seçenekten birinin tercih edildiğini, diğerinin dışlandığını gösterir.
+@w consider, substitute
+
+@t rd
+@p r15
+@q The word “substitute” in the passage is closest in meaning to ----.
+@o supplement || “Ek, takviye” demektir; metin bu anlamı “addition” ile verir ve “substitute” ile karşıtlık kurar.
+@o requirement || “Gereklilik” anlamındadır; bağlamla ilgisizdir.
+@o* replacement
+@o measurement || “Ölçüm” demektir; anlamca uymaz.
+@o improvement || “İyileştirme” demektir; bir şeyin yerini alma anlamı taşımaz.
+@why “Substitute” isim olarak bir şeyin yerine geçen şey anlamına gelir; en yakın karşılığı “replacement”tır.
+@key substitute = ikame, yerine geçen şey; replacement = yerine koyulan şey
+@gram “a substitute for something” kalıbında “for” edatı kullanılır.
+@w substitute
+
+@P r16
+@title Sınav öncesi yazmanın gücü
+@topic Psychology
+@difficulty easy
+@text Many students feel nervous before an important exam, and this anxiety can affect their performance. In one study conducted by psychologists, a group of students was asked to write freely about their worries for a few minutes just before a test. Another group simply sat quietly. The students who wrote about their feelings achieved higher scores than those who did not. The researchers suggest that writing helps people to clear their minds. When worries are put on paper, they take up less mental space, which enables students to focus on the questions. This relatively simple technique costs nothing and can be used by almost anyone.
+@words affect,conduct,achieve,suggest,enable,relatively
+@target affect,conduct,achieve,enable
+
+@t rd
+@p r16
+@q What did the second group of students do before the test?
+@o They wrote about the exam questions. || Sınav soruları hakkında yazan bir grup yoktur.
+@o They studied their notes once more. || Not tekrarından söz edilmez.
+@o They talked about their worries with a friend. || Konuşmaktan söz edilmez.
+@o They wrote about their happy memories. || Mutlu anılar hakkında yazmak metinde geçmez.
+@o* They simply sat quietly.
+@why Metin “Another group simply sat quietly” der.
+@key anxiety = kaygı; worry = endişe
+@gram “Another group” ifadesi daha önce sözü edilen gruptan farklı ikinci bir grubu belirtir.
+@w conduct
+
+@t rd
+@p r16
+@q According to the researchers, why does writing about worries help students?
+@o It gives them extra time to answer the questions. || Ek süre verildiğinden söz edilmez.
+@o* It reduces the mental space that worries occupy.
+@o It helps them remember facts more easily. || Bilgileri hatırlamaktan söz edilmez.
+@o It makes the test questions less difficult. || Soruların zorluğu değişmez.
+@o It teaches them new ways of studying. || Yeni çalışma yöntemlerinden söz edilmez.
+@why Metne göre endişeler kâğıda döküldüğünde daha az zihinsel yer kaplar ve öğrenciler sorulara odaklanabilir.
+@key take up = (yer) kaplamak; enable = olanak sağlamak; focus on = odaklanmak
+@gram “which enables students to focus” yapısında “enable + nesne + to + fiil” kalıbı kullanılmıştır.
+@w suggest, enable
+
+@t rd
+@p r16
+@q The word “achieved” in the passage is closest in meaning to ----.
+@o lost || “Kaybetmek” anlamıyla metindeki anlamın tersidir.
+@o expected || “Beklemek” demektir; yüksek puanlar beklenmemiş, elde edilmiştir.
+@o* obtained
+@o compared || “Karşılaştırmak” anlamındadır; bağlama uymaz.
+@o avoided || “Kaçınmak” demektir; anlamca uyuşmaz.
+@why “Achieve higher scores”, daha yüksek puanlar elde etmek demektir; en yakın karşılık “obtained”dır.
+@key achieve = başarmak, elde etmek; obtain = elde etmek
+@gram “achieved higher scores than those who did not” cümlesinde “than those who” ile karşılaştırma yapılır.
+@w achieve
+
+@P r17
+@title Mikrokredi
+@topic Economics
+@difficulty easy
+@text Microcredit is a system that provides very small loans to people who cannot borrow money from ordinary banks. Most of these borrowers live in poverty and have no property to offer as security. With a small loan, a person can buy a sewing machine, a few animals or goods to sell at a market. In this way, they can start a small business and earn a regular income. Supporters argue that microcredit has helped many families, especially women, to become more independent. However, critics point out that some borrowers fall into debt when interest rates are too high.
+@words provide,poverty,income,argue,however,point out,debt
+@target poverty,income,debt,point out,provide
+
+@t rd
+@p r17
+@q Why can microcredit borrowers usually not get loans from ordinary banks?
+@o They do not want to start a business. || Metin tam tersine kredilerin iş kurmak için kullanıldığını söyler.
+@o Ordinary banks do not charge any interest. || Bankaların faiz almadığından söz edilmez.
+@o They live too far away from the banks. || Mesafeden söz edilmez.
+@o* They are poor and have no property as security.
+@o They already owe money to other banks. || Önceki borçlardan söz edilmez.
+@why Metin borçluların çoğunun yoksulluk içinde yaşadığını ve teminat olarak sunacak mülkleri olmadığını belirtir.
+@key poverty = yoksulluk; security = teminat; borrow = borç almak
+@gram “people who cannot borrow” yapısında “who” insanları niteleyen ilgi zamiridir.
+@w poverty
+
+@t rd
+@p r17
+@q Which of the following is mentioned as a criticism of microcredit?
+@o It helps only men to become independent. || Metin özellikle kadınlara yardım ettiğini söyler.
+@o The loans are too large for poor people to repay. || Metin kredilerin çok küçük olduğunu belirtir.
+@o It discourages people from starting their own businesses. || Tersine, küçük iş kurmayı sağladığı anlatılır.
+@o Banks lose a great deal of money on it. || Bankaların zararından söz edilmez.
+@o* Some borrowers fall into debt when interest rates are high.
+@why Metin “critics point out that some borrowers fall into debt when interest rates are too high” der.
+@key critic = eleştirmen; debt = borç; interest rate = faiz oranı
+@gram “However, critics point out that ...” cümlesinde however, destekçilerin görüşüyle eleştirmenlerin görüşü arasında karşıtlık kurar.
+@w point out, debt, however
+
+@t rd
+@p r17
+@q The word “income” in the passage is closest in meaning to ----.
+@o expenses || “Giderler” anlamıyla gelirin tersidir.
+@o prices || “Fiyatlar” demektir; düzenli kazanç anlamı taşımaz.
+@o taxes || “Vergiler” anlamındadır; bağlama uymaz.
+@o loans || “Krediler” demektir; kişi kredi alır ama gelir kazanır.
+@o* earnings
+@why “Earn a regular income” düzenli bir gelir elde etmek demektir; en yakın karşılık “earnings”tir.
+@key income = gelir; earnings = kazanç
+@gram “earn a regular income” bir eşdizimdir (collocation): earn + income.
+@w income
+
+@P r18
+@title İpek Yolu'nda fikir alışverişi
+@topic History
+@difficulty intermediate
+@text The Silk Road is often remembered as a route along which luxury goods such as silk and spices were carried between China and the Mediterranean. Yet historians today note that the network, which was used for many centuries, also enabled the exchange of ideas and technologies. Papermaking, which was developed in China, gradually spread westward and eventually reached the Islamic world. Religions, medical knowledge and artistic styles travelled in a similar way, carried by merchants, pilgrims and scholars. Diseases were transmitted as well, and the plague that devastated medieval Europe is believed to have moved partly along these trade routes. Thus, the Silk Road connected distant societies in ways that were both beneficial and destructive.
+@words enable,develop,spread,similar,devastate,thus,beneficial,eventually
+@target enable,spread,devastate,beneficial,thus
+
+@t rd
+@p r18
+@q What is the main point of the passage?
+@o The Silk Road was used mainly to carry silk and spices. || Bu, metnin düzelttiği yaygın görüştür; ana fikir değildir.
+@o Papermaking was the most important invention of ancient China. || Metinde böyle bir değerlendirme yoktur.
+@o* The Silk Road carried ideas and diseases as well as goods.
+@o The plague reached Europe only through the Silk Road. || Metin vebanın “kısmen” bu yollarla taşındığını söyler.
+@o Merchants were more influential on the Silk Road than scholars. || Tüccarlarla akademisyenler arasında bir karşılaştırma yapılmaz.
+@why Metin, İpek Yolu'nun yalnızca ticari mallar değil, fikirler, teknolojiler ve hastalıklar da taşıdığını vurgular.
+@key exchange = alışveriş; network = ağ; transmit = aktarmak, bulaştırmak
+@gram “Yet historians today note that ...” cümlesinde “yet”, yaygın görüşle tarihçilerin bugünkü görüşü arasında karşıtlık kurar.
+@w enable, spread
+
+@t rd
+@p r18
+@q It can be inferred from the passage that the Silk Road ----.
+@o was abandoned soon after the plague reached Europe || Yolun terk edildiğine dair bir bilgi yoktur.
+@o was used mostly by religious pilgrims || Hacılar yalnızca taşıyıcılardan biri olarak sayılır.
+@o brought papermaking from the Islamic world to China || Yön tersine çevrilmiştir; kâğıtçılık Çin'den batıya yayılmıştır.
+@o* had harmful as well as positive effects on the societies it linked
+@o never actually reached the continent of Europe || Veba Avrupa'ya bu yollarla ulaşmıştır; çıkarım metinle çelişir.
+@why Metnin son cümlesi İpek Yolu'nun toplumları “both beneficial and destructive” biçimde bağladığını söyler; vebanın yayılması zararlı etkiye örnektir.
+@key beneficial = yararlı; destructive = yıkıcı; infer = çıkarım yapmak
+@gram “Thus” önceki bilgilerden çıkan sonucu bildiren bir bağlaçtır.
+@w thus, beneficial
+
+@t rd
+@p r18
+@q The word “devastated” in the passage is closest in meaning to ----.
+@o slowly abandoned || “Yavaşça terk etmek” demektir; veba Avrupa'yı terk etmemiş, yıkmıştır.
+@o carefully studied || “Dikkatle incelemek” anlamındadır; bağlama uymaz.
+@o* severely damaged
+@o briefly visited || “Kısaca uğramak” demektir; yıkım anlamı taşımaz.
+@o rarely affected || “Nadiren etkilemek” anlamıyla metindeki yoğun etkinin tersidir.
+@why “Devastate”, büyük yıkıma uğratmak demektir; en yakın karşılık “severely damaged”dır.
+@key devastate = harap etmek, yıkıma uğratmak; plague = veba
+@gram “the plague that devastated Europe” yapısında “that” ilgi zamiri, vebayı tanımlar.
+@w devastate
+
+@P r19
+@title Ahtapotların zekâsı
+@topic Biology
+@difficulty intermediate
+@text Octopuses are widely regarded as the most intelligent invertebrates. Unlike humans, whose neurons are concentrated largely in the brain, an octopus has the majority of its neurons located in its eight arms. As a result, each arm can respond to touch and taste on its own, without waiting for instructions from the brain. Laboratory studies have demonstrated that octopuses can open jars, find their way through mazes and even tell individual people apart. What makes this ability remarkable is that octopuses have short lives and receive no care from their parents after hatching. Consequently, scientists believe that much of their behaviour must be acquired rapidly through direct experience rather than passed on from older generations.
+@words regard,largely,as a result,demonstrate,consequently,acquire
+@target regard,largely,demonstrate,consequently,acquire
+
+@t rd
+@p r19
+@q According to the passage, what is unusual about the nervous system of the octopus?
+@o* Most of its neurons are in its arms, not its brain.
+@o Its brain is larger than the human brain. || Beyin büyüklüğü karşılaştırması yapılmaz.
+@o It has no neurons at all in its brain. || Abartıdır; nöronların çoğu kollardadır, bir kısmı ise beyindedir.
+@o Its arms cannot react without signals from the brain. || Metin kolların beyinden talimat beklemeden tepki verebildiğini söyler.
+@o All of its neurons are concentrated in a single arm. || Nöronlar sekiz kola dağılmıştır.
+@why Metin ahtapotun nöronlarının çoğunun (the majority) sekiz kolunda bulunduğunu belirtir.
+@key neuron = sinir hücresi; concentrated = yoğunlaşmış; located = bulunan
+@gram “whose neurons are concentrated” yapısında “whose” iyelik bildiren ilgi zamiridir.
+@w largely
+
+@t rd
+@p r19
+@q It can be inferred from the passage that young octopuses ----.
+@o learn most of their skills by copying older octopuses || Metin tersine davranışların eski kuşaklardan aktarılmadığını ima eder.
+@o live considerably longer than most other invertebrates || Metin tersine ahtapotların kısa ömürlü olduğunu söyler.
+@o* cannot rely on their parents to teach them skills
+@o are less intelligent than adult octopuses || Yavrularla yetişkinler arasında karşılaştırma yapılmaz.
+@o depend on their brains to control every movement of their arms || Metin kolların bağımsız tepki verebildiğini söyler.
+@why Ahtapotlar ebeveyn bakımı almadığına göre becerileri anne babalarından öğrenemez; bu yüzden deneyimle hızla öğrenmek zorundadırlar.
+@key rely on = güvenmek, bel bağlamak; acquire = edinmek
+@gram “Consequently” önceki cümledeki durumun mantıksal sonucunu sunar.
+@w consequently
+
+@t rd
+@p r19
+@q The word “acquired” in the passage is closest in meaning to ----.
+@o lost || “Kaybedilmek” anlamıyla öğrenme fikrinin tersidir.
+@o ignored || “Görmezden gelinmek” demektir; bağlama uymaz.
+@o inherited || “Kalıtımla geçmek” anlamındadır; metin tam da bunun yerine deneyimle öğrenmeyi vurgular.
+@o forgotten || “Unutulmak” demektir; metindeki anlamın tersidir.
+@o* gained
+@why “Acquire” edinmek, kazanmak anlamına gelir; davranışların deneyim yoluyla edinilmesi anlatılır, en yakın karşılık “gained”dir.
+@key acquire = edinmek; gain = kazanmak, elde etmek; inherit = miras olarak almak
+@gram “must be acquired” yapısı modal + edilgen (be + V3) yapısıdır ve güçlü bir çıkarımı ifade eder.
+@w acquire
+
+@P r20
+@title Emojiler ve yanlış anlaşılma
+@topic Communication
+@difficulty intermediate
+@text Emojis were originally designed to add emotional tone to short text messages, which often lack the facial expressions and voice cues present in face-to-face conversation. However, research suggests that these small images are not always interpreted in the same way. People who are shown the same emoji often rate its meaning very differently, and the disagreement is even greater when the image appears on different devices, with each company drawing its emojis in a slightly different style. A smiling face that looks friendly on one phone may appear sarcastic on another. Cultural background also plays a role; a gesture regarded as positive in one country may be considered rude elsewhere. In short, emojis may cause confusion as easily as they prevent it.
+@words lack,however,suggest,interpret,regard,consider,cause,prevent
+@target lack,interpret,regard,prevent,consider
+
+@t rd
+@p r20
+@q What is the main idea of the passage?
+@o Emojis have completely replaced facial expressions in communication. || Abartıdır; metin emojilerin yüz ifadelerinin eksikliğini telafi etmek için tasarlandığını söyler.
+@o All companies should use identical emoji designs. || Metinde böyle bir öneri yoktur.
+@o Emojis are more popular in some cultures than in others. || Popülerlikten söz edilmez; kültürün anlamı etkilediği söylenir.
+@o Text messages are always clearer without emojis. || Metin emojilerin karışıklığı önleyebildiğini de kabul eder; “always” abartıdır.
+@o* The same emoji can be read differently, which may cause confusion.
+@why Metin emojilerin kişiye, cihaza ve kültüre göre farklı yorumlandığını ve bunun karışıklığa yol açabildiğini anlatır.
+@key interpret = yorumlamak; confusion = karışıklık; sarcastic = alaycı
+@gram “as easily as” yapısı iki durumun eşit ölçüde mümkün olduğunu gösteren eşitlik karşılaştırmasıdır.
+@w interpret, cause, prevent
+
+@t rd
+@p r20
+@q According to the passage, the disagreement about an emoji's meaning is greater when ----.
+@o it is sent by strangers rather than friends || Gönderenin kim olduğundan söz edilmez.
+@o* people see it on different devices
+@o it is used in very long messages || Mesaj uzunluğu metinde geçmez.
+@o it is combined with a voice message || Sesli mesajdan söz edilmez.
+@o people see it for the first time || Metinde böyle bir koşul yoktur.
+@why Metin “the disagreement is even greater when the image appears on different devices” der.
+@key disagreement = görüş ayrılığı; device = cihaz
+@gram “even greater” yapısında “even” karşılaştırma sıfatını güçlendirir.
+@w suggest
+
+@t rd
+@p r20
+@q The word “interpreted” in the passage is closest in meaning to ----.
+@o redesigned || “Yeniden tasarlanmak” demektir; metin anlamın farklı algılanmasından söz eder.
+@o* understood
+@o deleted || “Silinmek” anlamındadır; bağlama uymaz.
+@o ignored || “Görmezden gelinmek” demektir; anlamca uyuşmaz.
+@o copied || “Kopyalanmak” demektir; yorum anlamı taşımaz.
+@why “Interpret” bir şeyin anlamını kavramak, yorumlamak demektir; en yakın karşılık “understood”dur.
+@key interpret = yorumlamak; understand = anlamak
+@gram “are not always interpreted” edilgen yapıdır (be + V3); “not always” her zaman değil anlamı verir.
+@w interpret
+
+
+@P r21
+@title Açık etiketli plasebo
+@topic Medicine
+@difficulty intermediate
+@text The placebo effect, in which patients feel better after receiving a treatment that contains no active ingredient, has long been thought to depend on deception. It was believed that the pill would only work if patients thought it was real medicine. Recent studies, however, have questioned this belief. In several trials with people suffering from chronic pain, some participants were openly told that they were taking sugar pills. Surprisingly, many of them still reported a significant reduction in pain compared with those who received no pills at all. Researchers suggest that the ritual of taking a pill regularly may trigger the body's own pain-relieving mechanisms. Although these findings are promising, scientists warn that placebos cannot cure serious diseases.
+@words contain, however, chronic, significant, suggest, trigger, mechanism, although
+@target chronic, significant, trigger, mechanism, contain
+
+@t rd
+@p r21
+@q Which belief do the recent studies call into question?
+@o That sugar pills can cure serious diseases. || Bilim insanları zaten bunun mümkün olmadığını söyler; sorgulanan inanç bu değildir.
+@o That chronic pain cannot be treated at all. || Böyle bir inançtan söz edilmez.
+@o* That a placebo works only if patients believe it is real medicine.
+@o That the body has its own pain-relieving mechanisms. || Bu, araştırmacıların öne sürdüğü açıklamadır, sorgulanan inanç değil.
+@o That chronic pain is caused mainly by psychological factors. || Ağrının nedenine ilişkin böyle bir inançtan söz edilmez.
+@why Metin plasebonun ancak hasta onu gerçek ilaç sanırsa işe yarayacağına inanıldığını ve son çalışmaların bu inancı sorguladığını söyler.
+@key deception = aldatma; question = sorgulamak; ingredient = bileşen
+@gram “has long been thought to depend on” yapısı present perfect edilgen + mastar yapısıdır ve uzun süredir süregelen bir kanıyı anlatır.
+@w however, contain
+
+@t rd
+@p r21
+@q It can be inferred from the passage that the participants who knew they were taking sugar pills ----.
+@o felt no change at all in their level of pain || Metin ağrıda kayda değer azalma bildirdiklerini söyler.
+@o were completely cured of their chronic pain || Abartıdır; yalnızca ağrıda azalma bildirilmiştir.
+@o experienced more pain than those who received no pills || Durum tersidir.
+@o were secretly given real medicine instead || Metinde böyle bir bilgi yoktur.
+@o* benefited even though they were not deceived
+@why Katılımcılara açıkça şeker hapı aldıkları söylenmesine rağmen ağrılarında azalma olmuştur; yani aldatılmadan da fayda görmüşlerdir.
+@key benefit = fayda görmek; deceive = aldatmak; reduction = azalma
+@gram “Surprisingly, many of them still reported ...” cümlesindeki “still”, beklenene rağmen gerçekleşen durumu vurgular.
+@w chronic, significant
+
+@t rd
+@p r21
+@q The word “trigger” in the passage is closest in meaning to ----.
+@o prevent || “Önlemek” anlamıyla metindeki anlamın tersidir.
+@o reveal || “Ortaya çıkarmak, açığa vurmak” demektir; mekanizmayı başlatmak anlamı taşımaz.
+@o replace || “Yerini almak” anlamındadır; bağlama uymaz.
+@o* activate
+@o measure || “Ölçmek” demektir; hap alma ritüeli bir şey ölçmez.
+@why “Trigger” bir süreci başlatmak, harekete geçirmek demektir; en yakın karşılık “activate”tir.
+@key trigger = tetiklemek; activate = harekete geçirmek
+@gram “may trigger” yapısında “may” bir olasılığı, kesin olmayan bir açıklamayı ifade eder.
+@w trigger, mechanism
+
+@P r22
+@title Jeotermal enerji
+@topic Energy
+@difficulty intermediate
+@text Geothermal energy is heat that comes from deep inside the Earth. In regions where hot rocks lie relatively close to the surface, such as Iceland, underground water is heated by the rocks and brought to the surface as steam, which is then used to drive turbines and generate electricity. Unlike solar and wind power, geothermal plants can operate day and night regardless of the weather, so they provide a steady supply of energy. Nevertheless, their use remains limited. Suitable sites are found mainly near the boundaries of tectonic plates, and drilling deep wells is expensive and risky, since a well may fail to reach sufficient heat. In some cases, drilling has even been linked to earthquakes.
+@words relatively, generate, provide, nevertheless, limit, since, sufficient, link
+@target generate, sufficient, nevertheless, relatively, provide
+
+@t rd
+@p r22
+@q According to the passage, what advantage does geothermal energy have over solar and wind power?
+@o It is cheaper to develop in every country. || Metin sondajın pahalı olduğunu söyler; maliyet avantajından söz edilmez.
+@o It can be used anywhere in the world. || Uygun alanlar yalnızca levha sınırları yakınındadır.
+@o It carries no environmental risks at all. || Bazı durumlarda sondajın depremlerle ilişkilendirildiği belirtilir.
+@o It does not require any water. || Metne göre yeraltı suyu ısınıp buhar olarak yüzeye çıkarılır; yani su gereklidir.
+@o* It works day and night, whatever the weather.
+@why Metin jeotermal santrallerin hava koşullarından bağımsız olarak gece gündüz çalışabildiğini ve istikrarlı enerji sağladığını söyler.
+@key regardless of = -den bağımsız olarak; steady = istikrarlı, sürekli
+@gram “Unlike solar and wind power, ...” yapısında “unlike” bir karşıtlık/farklılık kurar.
+@w provide, generate
+
+@t rd
+@p r22
+@q Which of the following is NOT mentioned as a reason why geothermal energy is not more widely used?
+@o Suitable sites are found mainly near plate boundaries. || Metinde açıkça geçer: “found mainly near the boundaries of tectonic plates”.
+@o Drilling deep wells is expensive. || Metinde açıkça geçer: “drilling deep wells is expensive”.
+@o* Geothermal plants release large amounts of air pollution.
+@o A well may not reach enough heat. || Metinde geçer: “a well may fail to reach sufficient heat”.
+@o Drilling has been associated with earthquakes. || Metinde geçer: “drilling has even been linked to earthquakes”.
+@why Hava kirliliğinden metinde hiç söz edilmez; diğer seçeneklerin hepsi kullanımın sınırlı kalma nedenleri olarak sayılır.
+@key boundary = sınır; drill = sondaj yapmak; link = ilişkilendirmek
+@gram “Nevertheless” önceki avantajlara rağmen ortaya çıkan karşıt durumu (sınırlı kullanım) başlatır.
+@w nevertheless, limit, link
+
+@t rd
+@p r22
+@q The word “sufficient” in the passage is closest in meaning to ----.
+@o excessive || “Aşırı” demektir; sorun ısının fazlalığı değil yetersizliğidir.
+@o* enough
+@o natural || “Doğal” anlamındadır; miktar bildirmez.
+@o constant || “Sabit, sürekli” demektir; yeterlilik anlamı taşımaz.
+@o dangerous || “Tehlikeli” demektir; bağlamdaki anlamla uyuşmaz.
+@why “Sufficient” yeterli demektir; kuyunun yeterli ısıya ulaşamaması anlatılır, en yakın karşılık “enough”tur.
+@key sufficient = yeterli; excessive = aşırı
+@gram “since a well may fail to reach ...” cümlesinde “since” “çünkü” anlamında neden bildirir.
+@w sufficient, since
+
+@P r23
+@title Yaşayan mirası korumak
+@topic Culture
+@difficulty yds
+@text When UNESCO adopted an international agreement to safeguard what it calls intangible cultural heritage, practices ranging from traditional crafts to oral storytelling were formally recognised as worthy of international support. Unlike monuments, such heritage survives only as long as people continue to practise it, which poses a distinctive dilemma for those trying to preserve it. Recording a dance or a festival on film may document its present form, yet it also threatens to freeze a tradition that has always evolved in response to changing social conditions. Inscription on international lists, bringing prestige and tourist money, can also tempt communities to perform their customs for visitors rather than for themselves, gradually altering their original meaning. Critics contend that effective safeguarding should focus less on fixing traditions in place and more on keeping alive the social contexts through which they are passed on.
+@words safeguard, survive, dilemma, preserve, threaten, evolve, gradual, alter, contend
+@target safeguard, preserve, dilemma, evolve, alter, contend
+
+@t rd
+@p r23
+@q The passage mainly discusses ----.
+@o* the difficulty of protecting living traditions without changing their nature
+@o the history of UNESCO's efforts to protect ancient monuments || Anıtlar yalnızca karşılaştırma için anılır; konu somut olmayan mirastır.
+@o the reasons why oral storytelling is more valuable than traditional crafts || Bu ikisi arasında değer karşılaştırması yapılmaz.
+@o the economic benefits that tourism brings to traditional communities || Turist geliri yalnızca bir yan ayrıntıdır ve olumsuz sonucu vurgulanır.
+@o the way films can replace live performances of traditional dances || Metin filme almanın geleneği dondurma riskinden söz eder, canlı performansın yerini almasından değil.
+@why Metnin tamamı, yaşayan geleneklerin onları dondurmadan ya da anlamlarını değiştirmeden nasıl korunabileceği ikilemini tartışır.
+@key intangible = somut olmayan; heritage = miras; dilemma = ikilem
+@gram “survives only as long as people continue to practise it” cümlesinde “as long as” koşul bildiren bir bağlaçtır.
+@w dilemma, preserve, survive
+
+@t rd
+@p r23
+@q It can be inferred from the passage that the critics mentioned in the last sentence would most likely support ----.
+@o making detailed film archives the main tool of heritage protection || Eleştirmenler gelenekleri sabitlemeye karşıdır; film kaydı bu riski taşır.
+@o adding as many practices as possible to international lists || Listeye girmenin geleneklerin anlamını değiştirebildiği vurgulanır.
+@o requiring traditions to be performed exactly as they were when first listed || Bu, eleştirmenlerin karşı çıktığı “dondurma” yaklaşımıdır.
+@o* keeping alive the settings in which traditions are handed down
+@o banning tourists from attending traditional festivals || Metinde böyle aşırı bir öneri yer almaz.
+@why Eleştirmenler korumanın gelenekleri sabitlemekten çok onların aktarıldığı toplumsal bağlamları canlı tutmaya odaklanması gerektiğini savunur.
+@key contend = ileri sürmek, savunmak; hand down = kuşaktan kuşağa aktarmak
+@gram “focus less on ... and more on ...” yapısı iki öncelik arasında karşılaştırmalı bir tercih bildirir.
+@w contend, safeguard
+
+@t rd
+@p r23
+@q The word “contend” in the passage is closest in meaning to ----.
+@o deny || “İnkâr etmek” demektir; eleştirmenler bir görüşü reddetmiyor, savunuyor.
+@o doubt || “Şüphe etmek” anlamındadır; metindeki kesin savunu anlamını taşımaz.
+@o* argue
+@o conceal || “Gizlemek” demektir; bağlama uymaz.
+@o regret || “Pişman olmak” anlamındadır; anlamca uyuşmaz.
+@why “Contend” bir görüşü ileri sürmek, savunmak demektir; en yakın karşılık “argue”dur.
+@key contend = ileri sürmek; argue = savunmak, öne sürmek
+@gram “contend that + cümle” kalıbı, “argue/claim that” gibi bir görüş bildiren fiil yapısıdır.
+@w contend
+
+@P r24
+@title Hatırlayarak öğrenmek
+@topic Education
+@difficulty yds
+@text A large body of research in cognitive psychology shows that actively recalling information, rather than simply rereading it, yields more durable learning. Known as the testing effect, this finding has been replicated across age groups and subjects, from language learning to medical training. In a typical experiment of this kind, students who read a text once and then tried to recall it without looking outperformed, a week later, those who had read the same text several times, even though the latter group reported feeling more confident. This discrepancy suggests that learners frequently misjudge which strategies work best, mistaking the ease of rereading for genuine understanding. Despite such evidence, low-stakes quizzes remain underused in many classrooms, partly because teachers associate tests with grading rather than with learning itself.
+@words cognitive, even though, latter, discrepancy, suggest, despite, evidence, associate
+@target cognitive, discrepancy, evidence, associate, latter
+
+@t rd
+@p r24
+@q According to the passage, the students who read the text several times ----.
+@o performed better and also felt more confident || Bu grup daha özgüvenli hissetmiş ama daha kötü performans göstermiştir.
+@o* felt more confident but remembered less a week later
+@o felt less confident and remembered less || Özgüven yönü tersine çevrilmiştir.
+@o were tested immediately rather than a week later || Metin her iki grubun bir hafta sonra karşılaştırıldığını ima eder.
+@o used short quizzes to check their understanding || Bu grup yalnızca tekrar okumuştur.
+@why Metne göre bir hafta sonra hatırlamaya çalışan grup, metni birkaç kez okuyan grubu geride bırakmıştır; oysa ikinci grup kendini daha özgüvenli hissettiğini bildirmiştir.
+@key outperform = -den daha iyi performans göstermek; the latter = ikincisi, sonuncusu
+@gram “even though the latter group reported ...” cümlesinde “even though” beklentiye ters bir durumu bildirir; “the latter” sözü edilen iki gruptan ikincisini gösterir.
+@w even though, latter
+
+@t rd
+@p r24
+@q Which of the following can be inferred from the passage?
+@o Rereading a text is completely useless for learning. || Abartıdır; metin yalnızca hatırlamanın daha kalıcı öğrenme sağladığını söyler.
+@o The testing effect applies only to medical students. || Etkinin farklı yaş grupları ve konularda tekrarlandığı belirtilir.
+@o Teachers already use quizzes mainly as learning tools. || Metin öğretmenlerin testleri notlandırmayla ilişkilendirdiğini söyler.
+@o Feeling confident is the best predictor of long-term memory. || Deney bunun tersini gösterir.
+@o* Students' own sense of how well they have learned can be misleading.
+@why Daha özgüvenli hisseden grubun daha az hatırlaması, öğrencilerin hangi stratejinin işe yaradığını yanlış değerlendirdiğini gösterir.
+@key misjudge = yanlış değerlendirmek; misleading = yanıltıcı; genuine = gerçek
+@gram “mistaking the ease of rereading for genuine understanding” yapısında “mistake A for B” kalıbı “A'yı B sanmak” anlamındadır.
+@w suggest, cognitive
+
+@t rd
+@p r24
+@q The word “discrepancy” in the passage is closest in meaning to ----.
+@o agreement || “Uyum, mutabakat” demektir; özgüven ile performans arasındaki uyumsuzluğun tersidir.
+@o improvement || “İyileşme” anlamındadır; bağlama uymaz.
+@o* mismatch
+@o coincidence || “Tesadüf” demektir; metin rastlantıdan değil, çelişkiden söz eder.
+@o similarity || “Benzerlik” anlamıyla metindeki anlamın tersidir.
+@why “Discrepancy” iki şey arasındaki tutarsızlık demektir; burada özgüven ile gerçek performans arasındaki uyumsuzluk kastedilir, en yakın karşılık “mismatch”tir.
+@key discrepancy = tutarsızlık; mismatch = uyumsuzluk
+@gram “This discrepancy” ifadesindeki “this”, bir önceki cümlede anlatılan durumu gösteren gönderimdir.
+@w discrepancy
+
+@P r25
+@title Eriyen donmuş toprak
+@topic Climate
+@difficulty yds
+@text Permafrost, ground that remains frozen for years at a time, covers a large proportion of the land in the far north and is believed to store more carbon than is now present in the atmosphere. As Arctic temperatures climb considerably faster than the global average, this frozen soil is beginning to thaw, allowing microbes to decompose organic matter that had been locked away for thousands of years. The carbon dioxide and methane released in the process further warm the planet, which in turn accelerates thawing, creating what scientists call a feedback loop. Estimating the scale of this danger is difficult, though, because thawing is uneven: in some areas it proceeds gradually over decades, whereas abrupt collapses of ice-rich ground can expose deep layers far more quickly. For this reason, climate models that simulate only slow thaw may underestimate future emissions.
+@words accelerate, estimate, gradual, whereas, collapse, emission, expose
+@target accelerate, estimate, gradual, whereas, emission
+
+@t rd
+@p r25
+@q According to the passage, the feedback loop occurs because ----.
+@o microbes in the atmosphere absorb carbon dioxide and methane || Mikroplar toprakta organik maddeyi ayrıştırır, gaz emmez.
+@o frozen ground reflects heat back into space || Isı yansıtmadan söz edilmez.
+@o* gases from thawing soil add to warming, causing more thawing
+@o climate models predict faster warming than actually occurs || Modellerin aksine emisyonları olduğundan az tahmin edebileceği söylenir.
+@o Arctic temperatures rise more slowly than the global average || Metne göre Kuzey Kutbu küresel ortalamadan çok daha hızlı ısınır.
+@why Metin açığa çıkan karbondioksit ve metanın gezegeni daha da ısıttığını, bunun da erimeyi hızlandırdığını ve bu döngüye “feedback loop” dendiğini açıklar.
+@key thaw = erimek, çözülmek; decompose = ayrışmak; feedback loop = geri besleme döngüsü
+@gram “which in turn accelerates thawing” yapısında “which” önceki cümlenin tamamına gönderme yapar; “in turn” zincirleme sonucu bildirir.
+@w accelerate
+
+@t rd
+@p r25
+@q It can be inferred from the passage that climate models which included abrupt collapses would probably ----.
+@o show that permafrost stores less carbon than is generally believed || Karbon miktarına ilişkin bir düzeltmeden söz edilmez.
+@o prove that permafrost thaws only gradually || Ani çöküşleri hesaba katmak tam tersi bir sonucu gösterir.
+@o indicate that the feedback loop does not really exist || Metinde böyle bir sonuç ima edilmez.
+@o estimate lower future emissions than current models do || Yön tersine çevrilmiştir; mevcut modeller emisyonları zaten düşük tahmin edebilir.
+@o* predict higher future emissions than current models do
+@why Metin yalnızca yavaş erimeyi simüle eden modellerin gelecekteki emisyonları olduğundan az tahmin edebileceğini söyler; ani çöküşleri içeren modeller bu nedenle daha yüksek emisyon öngörecektir.
+@key abrupt = ani; underestimate = olduğundan az tahmin etmek; emission = salım
+@gram “whereas” iki durum (yavaş erime ve ani çöküş) arasında karşıtlık kuran bir bağlaçtır.
+@w whereas, collapse, gradual, emission, estimate
+
+@t rd
+@p r25
+@q The word “accelerates” in the passage is closest in meaning to ----.
+@o slows down || “Yavaşlatmak” anlamıyla metindeki anlamın tersidir.
+@o prevents || “Önlemek” demektir; ısınma erimeyi önlemez, artırır.
+@o follows || “Takip etmek” demektir; hızlanma anlamı taşımaz.
+@o* speeds up
+@o measures || “Ölçmek” anlamındadır; bağlama uymaz.
+@why “Accelerate” hızlandırmak demektir; ısınmanın erimeyi hızlandırması anlatılır, en yakın karşılık “speeds up”tır.
+@key accelerate = hızlandırmak; speed up = hızlandırmak
+@gram Özne “which” (önceki cümle) tekil sayıldığı için fiil -s takısı alır: “accelerates”.
+@w accelerate
+
+@P r26
+@title Algoritmalardaki önyargı
+@topic Technology
+@difficulty yds
+@text Machine-learning systems are often presented as neutral tools, yet their outputs can be no more impartial than the data from which they learn. When a facial recognition program is trained mostly on images of lighter-skinned men, for example, it tends to perform considerably worse on darker-skinned women, a disparity reported in several independent audits. Such errors are not just technical inconveniences: used in policing, hiring or lending decisions, a biased model can systematically disadvantage groups that are already under-represented, and at the same time give its judgments an air of scientific authority that makes them harder to question. Fixing the problem thus takes more than collecting larger datasets. Developers must also scrutinize how the data were gathered, test accuracy for each population on its own, and make the criteria behind automated decisions transparent to the people they concern.
+@words disparity, biased, authority, thus, scrutinize, criterion, transparent
+@target disparity, biased, scrutinize, transparent, criterion, authority
+
+@t rd
+@p r26
+@q The author's main purpose in the passage is to ----.
+@o argue that machine learning should be banned from policing and hiring || Abartıdır; yazar yasak değil, daha dikkatli geliştirme önerir.
+@o describe the technical steps needed to build a facial recognition program || Metin yüz tanıma programı yapımını anlatmaz.
+@o prove that larger datasets always remove errors || Metin daha büyük veri setlerinin yeterli olmadığını söyler.
+@o* show how biased data can make automated systems unfair
+@o compare the accuracy of different facial recognition companies || Şirketler arasında karşılaştırma yapılmaz.
+@why Yazar önce önyargılı verilerin adaletsiz sonuçlara nasıl yol açtığını açıklar, ardından geliştiricilerin yapması gerekenleri sıralar.
+@key biased = önyargılı; impartial = tarafsız; audit = denetim
+@gram “can be no more impartial than the data” yapısı, sistemin verilerden daha tarafsız olamayacağını vurgulayan bir karşılaştırmadır.
+@w biased, thus
+
+@t rd
+@p r26
+@q According to the passage, why can the decisions of a biased model be difficult to challenge?
+@o They are kept secret by law. || Yasal gizlilikten söz edilmez.
+@o They are made too quickly to be checked. || Kararların hızından söz edilmez.
+@o* They appear to carry scientific authority.
+@o They affect only very small groups of people. || Metin “yalnızca çok küçük gruplar” demez; ayrıca grupların büyüklüğü itiraz zorluğunun nedeni olarak gösterilmez.
+@o They are based on extremely large datasets. || Veri setinin büyüklüğü itiraz zorluğunun nedeni olarak gösterilmez.
+@why Metin önyargılı modelin kararlarına “an air of scientific authority that makes them harder to question” kazandırdığını söyler.
+@key authority = otorite, yetke; question = sorgulamak, itiraz etmek
+@gram “that makes them harder to question” yapısında “make + nesne + sıfat + to + fiil” kalıbı kullanılır.
+@w authority
+
+@t rd
+@p r26
+@q The word “disparity” in the passage is closest in meaning to ----.
+@o similarity || “Benzerlik” anlamıyla metindeki anlamın tersidir.
+@o connection || “Bağlantı” demektir; performans farkını ifade etmez.
+@o preference || “Tercih” anlamındadır; bağlama uymaz.
+@o* difference
+@o procedure || “Prosedür, işlem” demektir; anlamca uyuşmaz.
+@why “Disparity” iki grup arasındaki eşitsizlik, fark demektir; burada iki grup arasındaki performans farkı kastedilir, en yakın karşılık “difference”tır.
+@key disparity = eşitsizlik, fark; difference = fark
+@gram “a disparity reported in several independent audits” yapısında “reported” kısaltılmış edilgen ilgi cümlesidir (which was reported).
+@w disparity
+
+@P r27
+@title Şehirlerde bisiklet yolları
+@topic Urbanization
+@difficulty easy
+@text Many cities around the world want to encourage people to cycle instead of driving. Cars cause traffic jams and air pollution, and they take up a lot of space. To deal with these problems, cities such as Copenhagen and Amsterdam have built wide bicycle lanes that are separated from the roads. As a result, cycling there is safe and fast. In Copenhagen, a large proportion of people travel to work or school by bike. Other cities have launched bike-sharing programmes. However, cycling requires good planning. If lanes are narrow or dangerous, few people will use them.
+@words encourage, cause, deal with, as a result, launch, however, require
+@target encourage, deal with, launch, require, as a result
+
+@t rd
+@p r27
+@q What is the passage mainly about?
+@o The history of the bicycle in Europe || Metinde bisikletin tarihinden hiç söz edilmiyor.
+@o* How cities try to make cycling a popular way to travel
+@o Why cars are cheaper than bicycles || Araç ve bisiklet fiyatları karşılaştırılmıyor.
+@o The dangers of riding a bike in heavy traffic || Tehlike yalnızca son cümlede kısaca geçiyor; ana fikir bu değil.
+@o How bike-sharing companies make money || Bisiklet paylaşımı sadece bir örnek; şirketlerin kazancından söz edilmiyor.
+@why Metin, şehirlerin insanları arabadan bisiklete yönlendirmek için yaptıklarını (ayrı şeritler, paylaşım programları) anlatıyor.
+@key encourage = teşvik etmek; deal with = ele almak, uğraşmak; separated = ayrılmış
+@gram “instead of + V-ing” (yerine) kalıbına dikkat: “to cycle instead of driving”.
+@w encourage, deal with
+
+@t rd
+@p r27
+@q According to the passage, what happens when bicycle lanes are narrow or dangerous?
+@o Cities have to close them. || Şeritlerin kapatılmasından söz edilmiyor.
+@o Drivers start to use them as roads. || Sürücülerin bu şeritleri kullandığı belirtilmiyor.
+@o Bike-sharing programmes become less expensive. || Paylaşım programlarının fiyatıyla ilgisi yok.
+@o* Not many people choose to use them.
+@o Cycling becomes faster than driving. || Dar ve tehlikeli şeritler bisikleti hızlandırmaz; metinde böyle bir bilgi yok.
+@why Son cümle açıkça “few people will use them” diyor; yani az kişi bu şeritleri kullanır.
+@key narrow = dar; few = pek az; require = gerektirmek
+@gram “If + present simple, will + V” birinci tip koşul cümlesi gerçek bir olasılığı anlatır.
+@w require
+
+@t rd
+@p r27
+@q The word “launched” in the passage is closest in meaning to ----.
+@o cancelled || “İptal etmek” anlamına gelir; başlatmanın tersidir.
+@o criticised || “Eleştirmek” demektir; metindeki anlamla ilgisi yok.
+@o* started
+@o compared || “Karşılaştırmak” anlamındadır; programı başlatmak değil.
+@o delayed || “Ertelemek” demektir; başlatma anlamı taşımaz.
+@why “launch a programme” bir programı başlatmak, hayata geçirmek demektir; en yakın karşılık “started”.
+@key launch = başlatmak; bike-sharing = bisiklet paylaşımı
+@gram “have launched” present perfect; geçmişte başlayan ve etkisi süren bir eylemi gösterir.
+@w launch
+
+@P r28
+@title Vatandaş bilimi
+@topic Science
+@difficulty easy
+@text Scientists cannot always collect all the data they need by themselves. For this reason, many research projects now rely on ordinary people. This approach is called citizen science. For instance, in some countries thousands of volunteers count the birds they see each year and send the numbers to researchers. These counts help scientists monitor changes in bird populations over many years. Other volunteers sort photos of distant galaxies on their home computers. Citizen science has clear benefits. It is cheap, and it gives scientists a vast amount of information. Moreover, the volunteers learn a lot about science while they help.
+@words rely on, approach, for instance, monitor, benefit, vast, moreover
+@target rely on, approach, monitor, benefit, vast
+
+@t rd
+@p r28
+@q Why do many research projects rely on ordinary people?
+@o Ordinary people understand science better than researchers. || Metin böyle bir üstünlükten söz etmiyor.
+@o Volunteers ask to be paid for their help. || Ücretten hiç bahsedilmiyor.
+@o* Scientists cannot gather all the necessary data alone.
+@o Universities no longer employ scientists. || Üniversitelerin bilim insanı çalıştırmadığına dair bilgi yok.
+@o Computers are unable to sort photos of galaxies. || Fotoğrafları gönüllüler bilgisayarlarında ayırıyor; bilgisayarların yetersizliği söylenmiyor.
+@why İlk iki cümle, bilim insanlarının ihtiyaç duydukları tüm verileri tek başlarına toplayamadıkları için sıradan insanlara güvendiklerini söylüyor.
+@key rely on = -e güvenmek, dayanmak; collect = toplamak; by themselves = kendi başlarına
+@gram “For this reason” önceki cümleye bağlanan bir sebep-sonuç geçişidir.
+@w rely on
+
+@t rd
+@p r28
+@q Which of the following is NOT mentioned as a benefit of citizen science?
+@o It costs little money. || Metinde “It is cheap” deniyor; bu bir fayda olarak geçiyor.
+@o It provides a large amount of data. || “a vast amount of information” ifadesiyle belirtiliyor.
+@o Volunteers learn about science. || Son cümlede açıkça söyleniyor.
+@o It helps scientists follow changes in bird numbers. || Kuş sayımlarının popülasyon değişimlerini izlemeye yardım ettiği belirtiliyor.
+@o* It produces more accurate results than professional research.
+@why Vatandaş biliminin profesyonel araştırmadan daha doğru sonuç verdiği metnin hiçbir yerinde söylenmiyor.
+@key benefit = fayda; accurate = doğru, kesin; monitor = izlemek
+@gram “NOT mentioned” sorularında her seçenek metinle tek tek karşılaştırılır; metinde olmayan seçenek doğrudur.
+@w benefit, monitor, vast
+
+@t rd
+@p r28
+@q The word “vast” in the passage is closest in meaning to ----.
+@o limited || “Sınırlı” demektir; “vast” kelimesinin tam tersidir.
+@o regular || “Düzenli” anlamındadır; miktar büyüklüğünü anlatmaz.
+@o accurate || “Doğru, kesin” demektir; miktarla ilgili değildir.
+@o* huge
+@o strange || “Garip” anlamına gelir; bağlama uymaz.
+@why “a vast amount of information” çok büyük miktarda bilgi demektir; en yakın anlam “huge”.
+@key vast = muazzam, çok geniş; amount = miktar
+@gram “an amount of + sayılamayan isim” (information) kalıbı kullanılır; sayılabilen isimlerle “a number of” gelir.
+@w vast
+
+@P r29
+@title Aile sofrası
+@topic Sociology
+@difficulty easy
+@text In many societies, families used to eat together every evening. Today, this habit is becoming less common. Long working hours, busy school timetables and television mean that family members often eat at different times or in different rooms. This matters because shared meals are not only about food. They give parents and children a chance to talk and to maintain close relationships. Some studies indicate that teenagers who often eat with their families tend to do better at school. They may also be less likely to have problems with alcohol. However, researchers point out that the quality of the conversation matters more than the meal itself.
+@words maintain, indicate, tend, likely, however, point out
+@target maintain, indicate, tend, likely, point out
+
+@t rd
+@p r29
+@q According to the passage, why do family members often eat separately today?
+@o* Their busy lives and television keep them apart at mealtimes.
+@o They no longer enjoy the same kinds of food. || Yemek zevklerinin farklılığından söz edilmiyor.
+@o Researchers encourage them to eat alone. || Araştırmacılar böyle bir şeyi teşvik etmiyor.
+@o Teenagers prefer to eat with their friends. || Gençlerin arkadaşlarıyla yemeği tercih ettiği söylenmiyor.
+@o Their homes do not have enough space. || Ev büyüklüğüyle ilgili bir bilgi yok.
+@why Metin uzun çalışma saatlerini, yoğun okul programlarını ve televizyonu ayrı yemek yemenin nedenleri olarak sayıyor.
+@key timetable = ders/çalışma programı; separately = ayrı ayrı; habit = alışkanlık
+@gram “used to + V” geçmişte olup artık olmayan alışkanlıkları anlatır.
+@w encourage
+
+@t rd
+@p r29
+@q According to the passage, researchers believe that what matters more than the meal itself is ----.
+@o The type of food that is served || Yemeğin türü değil, konuşmanın niteliği önemli deniyor.
+@o The time at which the meal begins || Saatle ilgili bir vurgu yok.
+@o The number of people at the table || Kişi sayısından söz edilmiyor.
+@o* The quality of the conversation
+@o The room where the family eats || Oda sadece ayrı yemenin bir örneği olarak geçiyor.
+@why Son cümle, konuşmanın niteliğinin yemeğin kendisinden daha önemli olduğunu söylüyor.
+@key point out = belirtmek, dikkat çekmek; quality = nitelik, kalite
+@gram “more than” ile yapılan karşılaştırma: “matters more than the meal itself” (yemeğin kendisinden daha önemli).
+@w point out
+
+@t rd
+@p r29
+@q The word “maintain” in the passage is closest in meaning to ----.
+@o* keep
+@o change || “Değiştirmek” demektir; ilişkiyi sürdürmek anlamı vermez.
+@o avoid || “Kaçınmak” anlamındadır; metindeki olumlu anlamın tersi.
+@o explain || “Açıklamak” demektir; bağlamla ilgisi yok.
+@o test || “Sınamak” anlamına gelir; sürdürmek değildir.
+@why “maintain close relationships” yakın ilişkileri korumak, sürdürmek demektir; en yakın anlam “keep”.
+@key maintain = sürdürmek, korumak; relationship = ilişki
+@gram “a chance to + V” kalıbı: “a chance to talk and to maintain”.
+@w maintain
+
+@P r30
+@title Işık kirliliği
+@topic Environment
+@difficulty easy
+@text At night, most cities are full of bright lights from streets, buildings and cars. This light is essential for safety, but it also creates a problem called light pollution. Because of it, many people who live in cities can no longer see the Milky Way. Light pollution is harmful to animals, too. Many species of birds fly at night and become confused by city lights, so they sometimes hit tall buildings. Baby sea turtles sometimes move towards bright lights on the shore instead of the sea. Fortunately, this problem is easy to reduce. Cities can use lights that point downwards and switch them off when nobody needs them.
+@words essential, because of, harmful, species, reduce
+@target essential, harmful, species, reduce, because of
+
+@t rd
+@p r30
+@q Which of the following is given as an effect of light pollution on animals?
+@o Turtles stop laying their eggs on beaches. || Yumurtlamadan söz edilmiyor; yavruların yönünü kaybetmesi anlatılıyor.
+@o Birds stop flying at night. || Kuşlar gece uçmaya devam ediyor ama ışıklar yüzünden şaşırıyor.
+@o* Some birds crash into tall buildings.
+@o Animals can no longer see the Milky Way. || Samanyolu'nu göremeyenler hayvanlar değil, insanlar.
+@o Turtles move away from bright lights. || Yavru kaplumbağalar ışıklara doğru gidiyor, uzaklaşmıyor.
+@why Metin, şaşıran kuşların bazen yüksek binalara çarptığını söylüyor.
+@key confused = şaşkın, kafası karışmış; species = tür; crash into = -e çarpmak
+@gram “so” sonuç bildiren bir bağlaçtır: “become confused …, so they sometimes hit tall buildings”.
+@w species
+
+@t rd
+@p r30
+@q What does the passage suggest about solving the problem?
+@o Cities must remove most of their street lights. || Işıkların kaldırılması değil, aşağı yönlendirilmesi ve gerektiğinde kapatılması öneriliyor.
+@o It will take many years and a lot of money. || Metin tam tersine sorunun kolayca azaltılabileceğini söylüyor.
+@o Only people living near the sea can do something about it. || Önlemler şehirler için öneriliyor; deniz kenarında yaşayanlarla sınırlı değil.
+@o* Simple changes in how lights are used can help.
+@o People should stay at home after dark. || Böyle bir öneri metinde yok.
+@why Metin, aşağıya bakan lambalar kullanmak ve ihtiyaç olmadığında kapatmak gibi basit önlemlerle sorunun kolayca azaltılabileceğini belirtiyor.
+@key fortunately = neyse ki; switch off = kapatmak; downwards = aşağıya doğru
+@gram “easy to + V” kalıbı: “this problem is easy to reduce” (azaltılması kolay).
+@w reduce
+
+@t rd
+@p r30
+@q The word “harmful” in the passage is closest in meaning to ----.
+@o useful || “Yararlı” demektir; “harmful” kelimesinin zıddı.
+@o* damaging
+@o common || “Yaygın” anlamındadır; zarar anlamı içermez.
+@o natural || “Doğal” demektir; bağlamla uyuşmaz.
+@o invisible || “Görünmez” anlamına gelir; zarar bildirmez.
+@why “harmful to animals” hayvanlara zarar veren demektir; en yakın anlam “damaging”.
+@key harmful = zararlı; damaging = zarar verici
+@gram “harmful to + isim” kalıbı kullanılır: “harmful to animals”.
+@w harmful
+
+@P r31
+@title Uzun süre oturmanın riskleri
+@topic Health
+@difficulty intermediate
+@text For most of human history, people spent much of the day on their feet, walking, farming or hunting. Today, many adults spend most of their waking hours sitting, whether at a desk, in a car or in front of a screen. Researchers have found that prolonged sitting is associated with a higher chance of heart disease, diabetes and obesity. Surprisingly, a short daily workout does not entirely remove this danger: a person who goes to the gym for an hour but then sits for the rest of the day may still be affected. Experts therefore suggest that office workers should stand up and move around regularly throughout the day. Some companies have also introduced standing desks, although evidence of their long-term benefits is still weak.
+@words prolonged, associate, obesity, affect, therefore, suggest, although, evidence, benefit
+@target prolonged, associate, obesity, evidence, affect
+
+@t rd
+@p r31
+@q It can be inferred from the passage that a person who exercises every day ----.
+@o is fully protected against heart disease || Metin egzersizin riski tamamen ortadan kaldırmadığını söylüyor.
+@o does not need to stand up during working hours || Uzmanlar ofis çalışanlarının gün boyunca düzenli olarak kalkıp hareket etmesini öneriyor; egzersiz bu ihtiyacı ortadan kaldırmıyor.
+@o* may still face health risks if he or she sits for most of the day
+@o is more likely to develop obesity than others || Egzersiz yapanların obeziteye daha yatkın olduğu söylenmiyor.
+@o should avoid using a standing desk || Ayakta çalışma masasına karşı bir uyarı yok.
+@why Metin, spor salonunda bir saat geçirip günün geri kalanını oturarak geçiren birinin yine de etkilenebileceğini belirtiyor.
+@key prolonged = uzun süreli; be associated with = ile ilişkili olmak; entirely = tamamen
+@gram “may still be affected” edilgen yapıda bir olasılık bildirir (modal + be + V3).
+@w prolonged, associate, affect
+
+@t rd
+@p r31
+@q What does the passage say about standing desks?
+@o They have been banned in some offices. || Yasaklandıklarına dair bilgi yok.
+@o They are more effective than going to the gym. || Ayakta çalışma masaları spor salonuyla karşılaştırılmıyor.
+@o They were invented by medical researchers. || Kimin icat ettiği belirtilmiyor.
+@o They completely solve the problems of sitting. || Uzun vadeli faydalarına dair kanıt zayıf deniyor.
+@o* Their long-term benefits have not yet been clearly shown.
+@why Son cümle, ayakta çalışma masalarının uzun vadeli faydalarına ilişkin kanıtların hâlâ zayıf olduğunu söylüyor.
+@key evidence = kanıt; long-term = uzun vadeli; introduce = uygulamaya koymak
+@gram “although” iki zıt fikri bağlar: masalar tanıtıldı, ancak kanıt zayıf.
+@w evidence, benefit, although
+
+@t rd
+@p r31
+@q The word “prolonged” in the passage is closest in meaning to ----.
+@o occasional || “Ara sıra olan” demektir; süre uzunluğunu anlatmaz.
+@o uncomfortable || “Rahatsız” anlamına gelir; süreyle ilgisi yok.
+@o* long-lasting
+@o careless || “Dikkatsiz” demektir; bağlama uymaz.
+@o sudden || “Ani” anlamındadır; uzun süreli olmanın tersine yakındır.
+@why “prolonged sitting” uzun süre aralıksız oturmak demektir; en yakın anlam “long-lasting”.
+@key prolonged = uzun süren; long-lasting = uzun süreli
+@gram “prolonged” sıfat olarak isimden önce gelir: “prolonged sitting” (isim-fiil “sitting” özne konumunda).
+@w prolonged
+
+@P r32
+@title Erteleme alışkanlığı
+@topic Psychology
+@difficulty intermediate
+@text Procrastination, the habit of delaying tasks that need to be done, is often regarded as a sign of laziness or poor time management. However, psychologists who have studied the behaviour suggest that it is largely an emotional problem rather than a practical one. People tend to postpone tasks that make them feel anxious, bored or unsure, and avoiding the task provides instant relief from these unpleasant feelings. Unfortunately, this relief is temporary, and the stress usually returns, often stronger than before, as the deadline approaches. For this reason, simply giving procrastinators a better schedule rarely solves the problem. Approaches that help people cope with negative emotions, such as breaking a task into smaller steps, tend to be more effective.
+@words regard, however, suggest, largely, tend, provide, temporary, approach, cope with
+@target regard, largely, temporary, cope with, approach
+
+@t rd
+@p r32
+@q According to psychologists, procrastination is mainly ----.
+@o a result of poor time management || Metin bu yaygın görüşü aktarıp psikologların farklı düşündüğünü söylüyor.
+@o* a way of escaping unpleasant feelings
+@o a sign that a person is lazy || Tembellik yaygın bir yorum olarak geçiyor, psikologların görüşü değil.
+@o caused by having too many deadlines || Çok sayıda son teslim tarihinden söz edilmiyor.
+@o a practical problem that schedules can solve || Psikologlar bunun pratik değil duygusal bir sorun olduğunu söylüyor.
+@why Psikologlara göre insanlar kaygı, sıkıntı gibi hoş olmayan duygulardan anlık kurtulmak için görevleri erteliyor.
+@key regard as = olarak görmek; largely = büyük ölçüde; relief = rahatlama
+@gram “rather than” (-den ziyade) iki seçeneği karşılaştırır: “an emotional problem rather than a practical one”.
+@w regard, largely
+
+@t rd
+@p r32
+@q It can be inferred from the passage that a better schedule rarely cures procrastination because ----.
+@o most people refuse to follow schedules || Programa uymayı reddetmekten söz edilmiyor.
+@o schedules make tasks look larger than they are || Metinde böyle bir iddia yok.
+@o* it leaves the underlying negative emotions unaddressed
+@o procrastinators already manage their time well || Zaman yönetimlerinin iyi olduğu söylenmiyor.
+@o deadlines are usually set unrealistically || Son tarihlerin gerçekçi olmadığına dair bilgi yok.
+@why Sorun pratik değil duygusal olduğu için yalnızca daha iyi bir program vermek, ertelemeye yol açan olumsuz duyguları ele almaz.
+@key underlying = altta yatan; unaddressed = ele alınmamış; procrastinator = erteleyen kişi
+@gram “For this reason” önceki cümlelerdeki açıklamaya dayanarak bir sonuç bildirir.
+@w cope with
+
+@t rd
+@p r32
+@q The word “temporary” in the passage is closest in meaning to ----.
+@o complete || “Tam, eksiksiz” demektir; süre kısalığı anlatmaz.
+@o useless || “İşe yaramaz” anlamındadır; metin rahatlamanın işe yaramadığını değil kısa sürdüğünü söylüyor.
+@o gradual || “Kademeli” demektir; anlamla örtüşmez.
+@o natural || “Doğal” anlamına gelir; bağlama uymaz.
+@o* short-lived
+@why Rahatlama geçicidir; stres kısa süre sonra geri döner. En yakın anlam “short-lived”.
+@key temporary = geçici; short-lived = kısa ömürlü
+@gram “as the deadline approaches” cümlesinde “as” zaman bildirir (-dıkça, -ken).
+@w temporary
+
+@P r33
+@title Mikrokredi
+@topic Economics
+@difficulty intermediate
+@text Microcredit refers to very small loans given to poor people who are unable to borrow from ordinary banks because they have no property or regular income. The idea became popular in the late twentieth century, when projects in South Asia began lending small sums to women so that they could start small businesses such as weaving or raising chickens. Supporters claimed that microcredit would help millions escape poverty, and the approach soon won international praise. However, later studies, which compared borrowers with similar people who had not received loans, produced more modest results. The loans enabled some families to manage emergencies and plan their spending, but they rarely led to a significant rise in income. Many economists now argue that credit alone cannot end poverty.
+@words refer to, income, so that, claim, poverty, enable, lead to, significant, argue, approach
+@target poverty, income, claim, enable, significant, argue
+
+@t rd
+@p r33
+@q According to the passage, why can the poor not borrow from ordinary banks?
+@o Banks do not lend money to women. || Bankaların kadınlara borç vermediği söylenmiyor.
+@o Their businesses are too small. || İşletme büyüklüğü bir neden olarak gösterilmiyor.
+@o They live too far away from banks. || Uzaklıktan söz edilmiyor.
+@o* They lack property and a regular income.
+@o They already have too much debt. || Mevcut borçlarından bahsedilmiyor.
+@why İlk cümle, bu kişilerin mülkü ve düzenli geliri olmadığı için bankalardan borç alamadığını belirtiyor.
+@key loan = kredi, borç; property = mülk; income = gelir
+@gram “be unable to + V” (-ememek) yeterlilik eksikliğini bildirir.
+@w income
+
+@t rd
+@p r33
+@q It can be inferred from the passage that the early supporters of microcredit ----.
+@o had compared borrowers with non-borrowers before making their claims || Bu karşılaştırmayı sonraki çalışmalar yaptı, destekçiler değil.
+@o believed that loans should be given mainly to men || Metne göre ilk projeler tam tersine kadınlara kredi veriyordu.
+@o* expected more from it than later evidence was able to confirm
+@o were mostly economists employed by ordinary banks || Destekçilerin kim olduğu ve nerede çalıştığı belirtilmiyor.
+@o argued that credit alone could not end poverty || Bu, destekçilerin değil bugünkü birçok iktisatçının görüşü.
+@why Destekçiler kredinin milyonları yoksulluktan kurtaracağını iddia etmiş, ancak sonraki çalışmalar çok daha mütevazı sonuçlar bulmuş; yani beklentileri kanıtlarla doğrulanamamış.
+@key claim = iddia etmek; modest = mütevazı, sınırlı; poverty = yoksulluk
+@gram “which compared …” virgüllü (non-defining) sıfat cümlesidir; çalışmalar hakkında ek bilgi verir.
+@w claim, poverty, argue
+
+@t rd
+@p r33
+@q The word “enabled” in the passage is closest in meaning to ----.
+@o forced || “Zorlamak” demektir; imkân tanımak değildir.
+@o prevented || “Engellemek” anlamındadır; “enable” kelimesinin zıddı.
+@o* allowed
+@o persuaded || “İkna etmek” demektir; imkân sağlama anlamı yok.
+@o warned || “Uyarmak” anlamına gelir; bağlama uymaz.
+@why “The loans enabled some families to manage emergencies” krediler ailelerin acil durumları yönetmesini mümkün kıldı demektir; en yakın anlam “allowed”.
+@key enable = mümkün kılmak, olanak sağlamak; allow = izin vermek, olanak tanımak
+@gram “enable + nesne + to V” kalıbı kullanılır: “enabled some families to manage”.
+@w enable
+
+@P r34
+@title Su ayıları
+@topic Biology
+@difficulty intermediate
+@text Tardigrades, also known as water bears, are tiny animals, barely visible to the naked eye, that live in moss, soil and water. Although they look fragile, they are among the toughest organisms on Earth. When their environment dries out, tardigrades lose almost all the water in their bodies and shrink into a dry, barrel-shaped form, a state in which their metabolism virtually stops. In this condition, they can survive extreme cold, intense heat and, according to some experiments, even the conditions of outer space. Scientists have also identified special proteins that appear to protect their cells and DNA from damage. This discovery has attracted the interest of medical researchers, who hope they might one day help to preserve vaccines or human cells without refrigeration.
+@words although, organism, virtually, survive, identify, protect, preserve, vaccine
+@target virtually, survive, preserve, identify, organism, vaccine
+
+@t rd
+@p r34
+@q According to the passage, what do tardigrades do when their environment dries out?
+@o They move to wetter places to find water. || Daha nemli yerlere göç ettikleri söylenmiyor.
+@o They produce a protein that stores extra water. || Su depolayan bir proteinden söz edilmiyor; proteinler hücreleri ve DNA'yı koruyor.
+@o They increase their metabolism to keep warm. || Tersine, metabolizmaları neredeyse duruyor.
+@o* They lose most of their body water and almost stop their metabolism.
+@o They hide deep in the soil until it rains. || Toprağın derinliklerine saklanmaktan söz edilmiyor.
+@why Metin, ortam kuruduğunda vücut sularının neredeyse tamamını kaybedip kuru, fıçı biçimli bir hale büzüldüklerini ve metabolizmalarının neredeyse durduğunu söylüyor.
+@key dry out = kurumak; shrink = büzülmek, küçülmek; tough = dayanıklı
+@gram “a state in which …” edatlı sıfat cümlesidir (in which = where).
+@w virtually
+
+@t rd
+@p r34
+@q It can be inferred from the passage that many vaccines ----.
+@o can already be stored safely at room temperature || Araştırmacıların soğutmasız saklama umması bunun henüz mümkün olmadığını gösteriyor.
+@o are produced from tardigrade DNA || Aşıların su ayısı DNA'sından üretildiği söylenmiyor.
+@o* currently need to be kept cold to remain usable
+@o can survive the conditions of outer space || Uzay koşullarına dayanabilenler aşılar değil, su ayılarıdır.
+@o can damage the DNA of human cells || Aşıların DNA'ya zarar verdiğine dair bilgi yok.
+@why Araştırmacılar bu proteinlerin aşıları soğutma olmadan saklamaya yardım edebileceğini umuyor; demek ki aşılar şu an genellikle soğukta saklanmak zorunda.
+@key preserve = korumak, saklamak; refrigeration = soğutma; vaccine = aşı
+@gram “who hope …” virgüllü sıfat cümlesi “medical researchers” hakkında ek bilgi verir.
+@w preserve, vaccine
+
+@t rd
+@p r34
+@q The word “virtually” in the passage is closest in meaning to ----.
+@o gradually || “Yavaş yavaş” demektir; durmanın derecesini değil hızını anlatır.
+@o suddenly || “Aniden” anlamındadır; “neredeyse” anlamı vermez.
+@o* almost
+@o permanently || “Kalıcı olarak” demektir; tardigradlar yeniden canlanabildiği için hem anlamca yanlış hem de derece bildirmez.
+@o regularly || “Düzenli olarak” anlamına gelir; bağlama uymaz.
+@why “their metabolism virtually stops” metabolizmaları neredeyse tamamen durur demektir; en yakın anlam “almost”.
+@key virtually = neredeyse, hemen hemen; metabolism = metabolizma
+@gram “virtually” derece zarfıdır ve fiilden önce gelerek onu niteler.
+@w virtually
+
+@P r35
+@title Matbaanın etkisi
+@topic History
+@difficulty intermediate
+@text Before the arrival of printing, books in Europe were copied by hand, a slow and expensive process that meant only churches, universities and rich families could own them. In the fifteenth century, Johannes Gutenberg developed a printing press that used movable metal letters, which could be arranged, inked and reused many times. Within a few decades, printing shops had spread to many European cities, and vast numbers of books had been produced. The consequences were enormous. Because books became cheaper, literacy slowly rose, and new ideas could circulate far more quickly than before. Historians point out, for instance, that the Protestant Reformation would hardly have spread so fast without printed pamphlets. Printing also helped to standardise languages, as printers tended to favour consistent spellings.
+@words develop, spread, produce, consequence, rise, point out, for instance, hardly, tend, vast
+@target consequence, spread, hardly, point out, tend
+
+@t rd
+@p r35
+@q Which of the following is NOT mentioned as a consequence of printing?
+@o More people learned to read. || “literacy slowly rose” ifadesiyle belirtiliyor.
+@o New ideas travelled faster. || Fikirlerin daha hızlı yayıldığı söyleniyor.
+@o Spelling became more uniform. || Matbaacıların tutarlı yazımları tercih ettiği belirtiliyor.
+@o* Handwritten books became more valuable.
+@o Religious reform spread quickly. || Reform hareketinin hızla yayıldığı belirtiliyor.
+@why El yazması kitapların değer kazandığına dair hiçbir bilgi metinde yer almıyor.
+@key consequence = sonuç; literacy = okuryazarlık; standardise = standart hale getirmek
+@gram “would hardly have spread” geçmişe yönelik varsayım bildirir (would + have + V3).
+@w consequence, spread
+
+@t rd
+@p r35
+@q It can be inferred from the passage that, before Gutenberg's press, most ordinary Europeans ----.
+@o could read but chose not to buy books || Okuryazarlığın matbaadan sonra arttığı söyleniyor; okuyabildikleri ima edilmiyor.
+@o bought their books from universities || Üniversiteler kitap satıcısı değil, kitap sahibi olarak geçiyor.
+@o* rarely had the opportunity to own books
+@o learned to read in printing shops || Matbaa öncesinden söz ediliyor; matbaa atölyeleri yoktu.
+@o used a single standard spelling || Yazımın standartlaşması matbaa sonrası bir gelişme.
+@why Elle kopyalama yavaş ve pahalı olduğu için kitaplara yalnızca kiliseler, üniversiteler ve zengin aileler sahip olabiliyordu; dolayısıyla sıradan insanlar nadiren kitap edinebiliyordu.
+@key copy by hand = elle kopyalamak; process = süreç; own = sahip olmak
+@gram “a slow and expensive process that …” önceki cümleyi açıklayan bir eklemedir (apozisyon).
+@w produce
+
+@t rd
+@p r35
+@q The word “hardly” in the passage is closest in meaning to ----.
+@o certainly || “Kesinlikle” demektir; anlamı tersine çevirir.
+@o easily || “Kolayca” anlamındadır; olumsuzluk bildirmez.
+@o* scarcely
+@o quickly || “Hızla” demektir; “hardly” ile ilgisi yoktur.
+@o gradually || “Yavaş yavaş” anlamına gelir; olumsuzluk taşımaz.
+@why “would hardly have spread so fast” neredeyse hiç bu kadar hızlı yayılamazdı demektir; en yakın anlam “scarcely”.
+@key hardly = neredeyse hiç, güçlükle; scarcely = ancak, neredeyse hiç
+@gram “hardly” olumsuz anlamlı bir zarftır; cümleye ayrıca “not” eklenmez.
+@w hardly
+
+@P r36
+@title Genler ve ilaç yanıtı
+@topic Medicine
+@difficulty yds
+@text Doctors have long observed that a drug which works well for one patient may prove ineffective, or even dangerous, for another receiving exactly the same dose. Much of this variation is now attributed to differences in the genes encoding the liver enzymes responsible for breaking down medicines. Individuals carrying certain variants metabolise some drugs so slowly that the compounds accumulate to toxic levels, whereas so-called ultra-rapid metabolisers may clear a medicine from the body before it has had time to work. Pharmacogenomics, the field examining these interactions, seeks to replace the traditional trial-and-error method of prescribing with treatment tailored to each patient's genetic profile. Although genetic testing has become far cheaper, its routine use remains rare, partly because many physicians lack training in interpreting the results and partly because proof of improved patient outcomes is still being gathered.
+@words observe, attribute, gene, responsible, accumulate, toxic, whereas, seek, lack
+@target attribute, accumulate, toxic, whereas, seek, lack
+
+@t rd
+@p r36
+@q The passage is mainly concerned with ----.
+@o the rising cost of prescription medicines || İlaç maliyetinden söz edilmiyor; yalnızca testlerin ucuzladığı belirtiliyor.
+@o* how genetic differences influence people's responses to drugs
+@o the training programmes offered to new physicians || Eğitim eksikliği yalnızca bir engel olarak geçiyor.
+@o the dangers of taking several medicines together || İlaç etkileşimleri değil, gen-ilaç ilişkisi anlatılıyor.
+@o the structure of liver enzymes || Enzimlerin yapısı değil, ilaç yıkımındaki rolü işleniyor.
+@why Metin, aynı dozun farklı hastalarda farklı etki göstermesini genetik farklılıklara bağlayan farmakogenomik alanını anlatıyor.
+@key attribute to = -e bağlamak, atfetmek; variation = farklılık; enzyme = enzim
+@gram “the genes encoding …” ve “Individuals carrying …” indirgenmiş sıfat cümleleridir (= which encode / who carry).
+@w attribute, gene, influence
+
+@t rd
+@p r36
+@q It can be inferred from the passage that an ultra-rapid metaboliser ----.
+@o is more likely to suffer from liver disease || Karaciğer hastalığı riskinden söz edilmiyor.
+@o needs no genetic testing before treatment || Böyle bir sonuç çıkarılamaz; tersine bu kişiler testten fayda görebilir.
+@o will experience toxic side effects from most drugs || Toksik birikim yavaş metabolize edenler için geçerli.
+@o* may get little benefit from a standard dose of some drugs
+@o breaks down medicines more slowly than other people || “Ultra-rapid” çok hızlı demektir; yavaş değil.
+@why Bu kişiler ilacı etki etmeden vücuttan atabildiğine göre, standart doz onlara az fayda sağlayabilir.
+@key clear = vücuttan atmak; dose = doz; metabolise = metabolize etmek
+@gram “whereas” iki grubu karşılaştıran zıtlık bağlacıdır: yavaş metabolize edenler ↔ çok hızlı metabolize edenler.
+@w whereas, benefit
+
+@t rd
+@p r36
+@q The word “accumulate” in the passage is closest in meaning to ----.
+@o break down || “Parçalanmak” demektir; birikmenin tersi bir süreçtir.
+@o disappear || “Yok olmak” anlamındadır; zıt anlam taşır.
+@o react || “Tepkimeye girmek” demektir; miktarın artışını anlatmaz.
+@o* build up
+@o spread out || “Yayılmak, dağılmak” demektir; birikme anlamı vermez.
+@why İlaç yavaş yıkıldığı için vücutta birikip toksik düzeye ulaşır; en yakın anlam “build up”.
+@key accumulate = birikmek; toxic = zehirli; compound = bileşik
+@gram “so slowly that …” (o kadar … ki) yapısı sonuç bildirir.
+@w accumulate
+
+@P r37
+@title Verimlilik paradoksu
+@topic Energy
+@difficulty yds
+@text It seems self-evident that making appliances, cars and factories more energy-efficient should cut overall energy consumption. Yet as early as the nineteenth century, economists observed that improvements in the efficiency of steam engines had been accompanied not by a fall but by a rise in coal use. Because efficiency lowers the cost of each unit of useful energy, consumers and firms tend to use more of it, driving further, heating larger homes or expanding production. Many contemporary estimates suggest that this so-called rebound effect erodes only part of the expected savings, although its size varies widely from one sector to another. Its existence nevertheless implies that efficiency standards, unless they are accompanied by measures such as carbon pricing, may deliver smaller environmental gains than engineers predict.
+@words consumption, observe, tend, contemporary, estimate, erode, sector, imply, predict
+@target consumption, erode, imply, sector, contemporary, estimate
+
+@t rd
+@p r37
+@q According to the passage, nineteenth-century economists noticed that ----.
+@o steam engines had become less efficient over time || Verimliliğin arttığı, azalmadığı söyleniyor.
+@o industry had started to replace coal with other fuels || Kömür kullanımı azalmadı, arttı.
+@o* more efficient steam engines coincided with greater coal use
+@o factories were wasting most of the coal they bought || Böyle bir gözlemden söz edilmiyor.
+@o carbon pricing had reduced energy demand || Karbon fiyatlandırması yazarın bugünkü önerisi; o dönemin gözlemi değil.
+@why 19. yüzyıl iktisatçıları, buhar makinelerinin verimliliğindeki artışa kömür kullanımında bir düşüş değil artış eşlik ettiğini gözlemlemiş.
+@key observe = gözlemlemek; be accompanied by = … ile birlikte görülmek, … eşlik etmek; consumption = tüketim
+@gram “not by … but by …” yapısı bir beklentiyi düzeltir (… değil, … ile).
+@w observe
+
+@t rd
+@p r37
+@q It can be inferred that the author believes ----.
+@o the rebound effect cancels out all energy savings || Yazar etkinin tasarrufun yalnızca bir kısmını yok ettiğini söylüyor.
+@o efficiency standards should be abolished || Standartların kaldırılması değil, ek önlemlerle desteklenmesi öneriliyor.
+@o* efficiency improvements alone may not cut energy use as much as expected
+@o engineers usually underestimate the cost of new technology || Mühendislerin maliyet tahmininden söz edilmiyor.
+@o the rebound effect is the same in every sector || Büyüklüğünün sektörden sektöre değiştiği belirtiliyor.
+@why Yazar, karbon fiyatlandırması gibi önlemler olmadan verimlilik standartlarının beklenenden küçük kazanımlar sağlayabileceğini ima ediyor.
+@key imply = ima etmek; gain = kazanım; nevertheless = yine de
+@gram “unless” (-medikçe) olumsuz koşul bildirir: “unless they are accompanied by …”.
+@w imply, predict, sector
+
+@t rd
+@p r37
+@q The word “erodes” in the passage is closest in meaning to ----.
+@o doubles || “İkiye katlamak” demektir; azaltma değil artırma bildirir.
+@o conceals || “Gizlemek” anlamındadır; tasarrufu azaltmak değildir.
+@o measures || “Ölçmek” demektir; anlamla örtüşmez.
+@o confirms || “Doğrulamak” anlamına gelir; bağlama uymaz.
+@o* wears away
+@why “erodes only part of the expected savings” beklenen tasarrufun bir kısmını aşındırır, eritir demektir; en yakın anlam “wears away”.
+@key erode = aşındırmak, yavaş yavaş azaltmak; savings = tasarruf
+@gram “so-called” (sözde, adı verilen) bir terimi tanıtmak için kullanılır.
+@w erode
+
+@P r38
+@title Bağlam ve iletişim
+@topic Communication
+@difficulty yds
+@text Several decades ago, an influential anthropologist proposed a distinction between what he termed high-context and low-context cultures, a framework that continues to shape research on intercultural communication. In low-context societies, of which Germany and the United States are frequently cited as examples, meaning is expected to be conveyed explicitly through words, so a speaker who leaves important points unstated may be perceived as vague or evasive. In high-context societies such as Japan, by comparison, much of the message resides in shared understandings, tone and the relationship between the speakers, and spelling everything out can seem condescending. Critics contend that the model oversimplifies national cultures, which are far from uniform. Even so, many trainers believe that awareness of these differences can reduce misunderstandings in international business negotiations.
+@words propose, framework, cite, convey, explicit, perceive, vague, contend, uniform
+@target propose, convey, explicit, perceive, contend, uniform
+
+@t rd
+@p r38
+@q It can be inferred from the passage that a German negotiator who states every point explicitly in Japan ----.
+@o will be regarded as vague and evasive || Belirsiz/kaçamak görünmek, düşük bağlamlı kültürde sözü açık söylememekle ilgili.
+@o* might unintentionally seem condescending to his or her partners
+@o will be praised for following Japanese customs || Her şeyi açıkça söylemek yüksek bağlamlı kültürün normlarına uymaz.
+@o is unlikely to face any misunderstandings || Metin bu farkların yanlış anlamalara yol açabildiğini ima ediyor.
+@o tends to rely mainly on tone and shared understandings || Bu, yüksek bağlamlı (Japon) iletişimin özelliği; açık konuşan kişinin değil.
+@why Japonya gibi yüksek bağlamlı toplumlarda her şeyi açıkça söylemek küçümseyici görünebildiği için, düşük bağlamlı bir kültürden gelen biri farkında olmadan böyle algılanabilir.
+@key explicitly = açıkça; condescending = küçümseyici; perceive = algılamak
+@gram “by comparison” (buna karşılık) iki kültür tipini karşılaştıran bir geçiş ifadesidir.
+@w explicit, perceive, tend, rely on
+
+@t rd
+@p r38
+@q What is the critics' main objection to the high-context/low-context model?
+@o It is based on too few business negotiations. || Eleştiri, verinin azlığıyla ilgili değil.
+@o It ignores the role of tone in communication. || Model tam tersine tonun önemini vurguluyor.
+@o It favours Japanese culture over German culture. || Bir kültürü üstün tuttuğu iddia edilmiyor.
+@o It is too old to be useful today. || Modelin hâlâ araştırmaları şekillendirdiği söyleniyor.
+@o* It treats national cultures as more homogeneous than they really are.
+@why Eleştirmenler modelin ulusal kültürleri aşırı basitleştirdiğini, oysa bu kültürlerin hiç de tek tip olmadığını ileri sürüyor.
+@key oversimplify = aşırı basitleştirmek; uniform = tek tip, türdeş; homogeneous = homojen
+@gram “far from + sıfat” (hiç de … değil) güçlü bir olumsuzluk bildirir: “far from uniform”.
+@w contend, uniform
+
+@t rd
+@p r38
+@q The word “contend” in the passage is closest in meaning to ----.
+@o deny || “İnkâr etmek” demektir; iddia etmenin tersidir.
+@o* maintain
+@o doubt || “Şüphe etmek” anlamındadır; eleştirmenler şüphe değil iddia ortaya koyuyor.
+@o forget || “Unutmak” demektir; bağlama uymaz.
+@o ignore || “Görmezden gelmek” anlamına gelir; anlamla örtüşmez.
+@why “Critics contend that …” eleştirmenler … olduğunu ileri sürüyor demektir; “maintain” da “savunmak, iddia etmek” anlamına gelir.
+@key contend = ileri sürmek, savunmak; maintain = iddia etmek, savunmak
+@gram “contend that + cümle” yapısında “that” bir isim cümlesi başlatır.
+@w contend, maintain
+
+@P r39
+@title Tohum bankaları
+@topic Agriculture
+@difficulty yds
+@text As industrial agriculture has come to rely on a narrow range of high-yielding crop varieties, thousands of traditional strains that farmers cultivated for centuries have vanished from the fields. This loss of genetic diversity is more than a cultural concern: older varieties often carry traits, such as tolerance to drought or resistance to particular pests, that breeders may need as climate change exposes crops to unfamiliar stresses. To safeguard this heritage, governments and research institutes have established gene banks around the world, the best known being a large seed vault in the Arctic. Its value was demonstrated when researchers displaced by war withdrew duplicate samples from such a facility to rebuild collections they had been forced to leave behind. Seed banks are no cure-all, however, since stored seeds cannot evolve alongside the pests and diseases they will eventually face.
+@words rely on, cultivate, vanish, drought, expose, safeguard, establish, demonstrate, evolve
+@target cultivate, vanish, drought, safeguard, demonstrate, evolve
+
+@t rd
+@p r39
+@q The author mentions the researchers displaced by war in order to ----.
+@o criticise the location of the Arctic seed vault || Yazar kasanın konumunu eleştirmiyor.
+@o explain how wars cause food shortages || Savaşın gıda kıtlığına etkisi ele alınmıyor.
+@o* show that the seed vault has proved useful in practice
+@o argue that gene banks should be moved closer to farmers || Bankaların yerinin değiştirilmesine dair bir öneri yok.
+@o prove that traditional strains are disappearing || Çeşitlerin kaybı bu örnekle değil, metnin başında anlatılıyor.
+@why Savaş nedeniyle yerinden edilen araştırmacıların geride bıraktıkları koleksiyonları yeniden kurmak için örnek çekmesi, kasanın gerçek değerini kanıtlayan bir örnek olarak verilmiş.
+@key demonstrate = kanıtlamak, göstermek; displaced = yerinden edilmiş; withdraw = çekmek, almak
+@gram “researchers displaced by war” indirgenmiş edilgen sıfat cümlesidir (= who were displaced by).
+@w demonstrate
+
+@t rd
+@p r39
+@q According to the passage, one limitation of seed banks is that ----.
+@o they contain only modern high-yielding varieties || Tersine, geleneksel çeşitleri korumak için kurulmuşlar.
+@o they are too expensive for most governments || Maliyetten söz edilmiyor.
+@o* the seeds they store cannot adapt to changing pests and diseases
+@o breeders are not allowed to use their samples || Araştırmacıların örnekleri çekip kullanabildiği metinde görülüyor.
+@o they are vulnerable to drought and climate change || Kuraklık, çeşitlerin taşıdığı bir özellik bağlamında geçiyor; bankaların zayıflığı olarak değil.
+@why Son cümle, saklanan tohumların karşılaşacakları zararlılar ve hastalıklarla birlikte evrimleşemeyeceğini belirtiyor.
+@key evolve = evrimleşmek; cure-all = her derde deva; eventually = sonunda
+@gram “since” burada sebep bildirir (çünkü), zaman değil.
+@w evolve, adapt
+
+@t rd
+@p r39
+@q The word “safeguard” in the passage is closest in meaning to ----.
+@o examine || “İncelemek” demektir; korumak anlamı taşımaz.
+@o exchange || “Takas etmek” anlamındadır; bağlama uymaz.
+@o replace || “Yerine koymak” demektir; mirası korumakla ilgisi yok.
+@o abandon || “Terk etmek” anlamına gelir; korumanın tersidir.
+@o* protect
+@why “To safeguard this heritage” bu mirası korumak için demektir; en yakın anlam “protect”.
+@key safeguard = korumak, güvence altına almak; heritage = miras
+@gram Cümle başındaki “To + V” amaç bildirir (… için).
+@w safeguard, protect
+
+@P r40
+@title Ötegezegen avı
+@topic Astronomy
+@difficulty yds
+@text Over the past few decades, astronomers have catalogued thousands of planets orbiting other stars, known as exoplanets, many of them detected by the transit method. This technique exploits the slight but measurable dimming that occurs when a planet passes in front of its host star as seen from Earth; by monitoring the brightness of thousands of stars simultaneously, space telescopes have been able to identify periodic dips that signal orbiting bodies. The depth of each dip reveals the planet's size relative to its star, while the interval between transits indicates the length of its year. The method has an inherent bias, however: because a transit is visible only when a planet's orbit is aligned almost edge-on to our line of sight, the vast majority of planetary systems remain hidden from it.
+@words detect, occur, monitor, simultaneous, identify, reveal, indicate, inherent, vast
+@target detect, monitor, simultaneous, reveal, inherent, vast
+
+@t rd
+@p r40
+@q According to the passage, the size of a planet is estimated from ----.
+@o the time it takes to orbit its star || Yörünge süresi gezegenin “yılını” gösterir, boyutunu değil.
+@o the colour of light reflected by the planet || Yansıyan ışığın renginden söz edilmiyor.
+@o* how much the star's light drops during a transit
+@o the number of planets in the same system || Sistemdeki gezegen sayısı boyutla ilişkilendirilmiyor.
+@o the distance between the star and Earth || Uzaklıktan söz edilmiyor.
+@why Metin, her düşüşün derinliğinin gezegenin yıldızına göre boyutunu ortaya koyduğunu söylüyor.
+@key reveal = ortaya koymak; dip = düşüş; interval = aralık
+@gram “while” burada zıtlık/karşılaştırma bildirir: derinlik boyutu, aralık ise yıl uzunluğunu gösterir.
+@w reveal, estimate
+
+@t rd
+@p r40
+@q It can be inferred from the passage that the transit method ----.
+@o can detect every planet orbiting a Sun-like star || Yöntemin sistemlerin çoğunu göremediği söyleniyor.
+@o can observe only one star at a time || Metne göre teleskoplar binlerce yıldızı aynı anda izleyebiliyor.
+@o measures planets more accurately than their stars || Böyle bir karşılaştırma yok.
+@o* misses many planets whose orbits are not aligned with our view
+@o is no longer used by modern astronomers || Hâlâ kullanılmadığına dair bilgi yok.
+@why Geçiş yalnızca yörünge görüş hattımıza neredeyse kenardan hizalı olduğunda görülebildiği için, çoğu gezegen sistemi bu yöntemle saptanamıyor.
+@key aligned = hizalı; line of sight = görüş hattı; bias = yanlılık, sistematik hata
+@gram “because a transit is visible only when …” cümlesinde “only when” koşulu sınırlar (yalnızca … olduğunda).
+@w detect, vast
+
+@t rd
+@p r40
+@q The word “inherent” in the passage is closest in meaning to ----.
+@o minor || “Önemsiz, küçük” demektir; yanlılığın kaynağını değil derecesini anlatır.
+@o deliberate || “Kasıtlı” anlamındadır; yöntemin doğasından gelen bir özelliği anlatmaz.
+@o temporary || “Geçici” demektir; yapısal bir özelliğe uymaz.
+@o avoidable || “Önlenebilir” anlamına gelir; doğal sınırlama ile çelişir.
+@o* built-in
+@why Yanlılık yöntemin doğasından kaynaklanıyor; “inherent” doğasında olan, yapısal demektir; en yakın anlam “built-in”.
+@key inherent = doğasında olan, özünde bulunan; built-in = yerleşik
+@gram “has an inherent bias, however:” — “however” cümle ortasında virgülle ayrılarak zıtlık bildirir.
+@w inherent

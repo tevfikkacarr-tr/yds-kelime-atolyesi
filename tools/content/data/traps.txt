@@ -1,0 +1,176 @@
+# Kelime tuzağı mikro testleri: @T çift (kelimeler / ile) / @s cümle (___) / @o seçenekler, doğru olan * ile / @e açıklama. Bloklar arası boş satır.
+
+@T rise/raise
+@s The company plans to ___ its prices next month.
+@o rise|raise*
+@e raise nesne alır (its prices): bir şeyi yükseltmek.
+
+@T rise/raise
+@s Prices ___ significantly last year because of the drought.
+@o rose*|raised
+@e rise nesnesizdir: fiyatlar kendiliğinden yükseldi. Geçmiş hali rose.
+
+@T rise/raise
+@s The report ___ serious concerns about the safety of the bridge.
+@o rose|raised*
+@e raise concerns = endişelere yol açmak, gündeme getirmek.
+
+@T rise/raise
+@s Sea levels are expected to ___ by at least 30 centimetres.
+@o rise*|raise
+@e Nesne yok: rise.
+
+@T affect/effect
+@s Air pollution can seriously ___ children's health.
+@o affect*|effect
+@e affect fiildir: etkilemek.
+
+@T affect/effect
+@s The new law had a positive ___ on employment.
+@o affect|effect*
+@e have an effect on: burada isim gerekiyor (a positive effect).
+
+@T affect/effect
+@s Scientists are studying the long-term ___ of microplastics.
+@o affects|effects*
+@e the effects of = -in etkileri (isim).
+
+@T adapt/adopt
+@s Many species have failed to ___ to the warmer climate.
+@o adapt*|adopt
+@e adapt to = -e uyum sağlamak.
+
+@T adapt/adopt
+@s Parliament voted to ___ the new policy on renewable energy without any amendments.
+@o adapt|adopt*
+@e adopt a policy = bir politikayı benimsemek; “without any amendments” değiştirmeyi (adapt) dışlar.
+
+@T adapt/adopt
+@s Students who move abroad often need time to ___ to a new culture.
+@o adapt*|adopt
+@e adapt to + isim.
+
+@T economic/economical
+@s The country experienced rapid ___ growth in the 1990s.
+@o economic*|economical
+@e economic = ekonomiyle ilgili.
+
+@T economic/economical
+@s Our grandmother was a very ___ cook who never wasted a single scrap of food.
+@o economic|economical*
+@e economical = tutumlu, savurgan olmayan; economic bir kişiyi nitelemez.
+
+@T economic/economical
+@s The country's ___ crisis deepened as unemployment and inflation continued to rise.
+@o economic*|economical
+@e economic crisis = ekonomik kriz (ekonomiyle ilgili); “economical” tutumlu demektir.
+
+@T ensure/assure/insure
+@s The doctor ___ the patient that the operation would not be painful.
+@o ensured|assured*|insured
+@e assure sb that = birine güvence vermek (kişi nesnesi alır).
+
+@T ensure/assure/insure
+@s Homeowners in the area should ___ their properties against flooding.
+@o ensure|insure*
+@e insure sth against sth = sigortalamak; ensure “against” ile bir mülkü nesne almaz.
+
+@T respectively/respectfully
+@s The two drugs reduced symptoms by 30 and 45 percent, ___.
+@o respectively*|respectfully
+@e respectively = sırasıyla.
+
+@T respectively/respectfully
+@s The students listened ___ while the guest speaker talked about her life.
+@o respectively|respectfully*
+@e respectfully = saygıyla.
+
+@T considerable/considerate
+@s The project required a ___ amount of time and money.
+@o considerable*|considerate
+@e considerable = hatırı sayılır, büyük.
+
+@T considerable/considerate
+@s It was very ___ of you to help your elderly neighbour.
+@o considerable|considerate*
+@e considerate = düşünceli, kibar.
+
+@T comprehensive/comprehensible
+@s The report is so ___ that it covers every level of the education system, from pre-school to university.
+@o comprehensive*|comprehensible
+@e comprehensive = kapsamlı; her düzeyi kapsamak anlaşılır olmanın (comprehensible) sonucu değildir.
+
+@T comprehensive/comprehensible
+@s Scientists should make their findings ___ to the general public.
+@o comprehensive|comprehensible*
+@e comprehensible to sb = biri için anlaşılır.
+
+@T principal/principle
+@s Rising sea levels are the ___ threat to coastal cities.
+@o principal*|principle
+@e principal = ana, başlıca (sıfat).
+
+@T principal/principle
+@s Equality is a basic ___ of democracy.
+@o principal|principle*
+@e principle = ilke (isim).
+
+@T accept/except
+@s She decided to ___ the job offer from the university.
+@o accept*|except
+@e accept = kabul etmek (fiil).
+
+@T accept/except
+@s The museum is open every day ___ Monday.
+@o accept|except*
+@e except = hariç (edat).
+
+@T beside/besides
+@s The new hospital was built ___ the river.
+@o beside*|besides
+@e beside = yanında (yer).
+
+@T beside/besides
+@s ___ being cheap, public transport is good for the environment.
+@o Beside|Besides*
+@e besides + V-ing = -in yanı sıra.
+
+@T imply/infer
+@s His silence seemed to ___ that he agreed with the decision.
+@o imply*|infer
+@e imply = ima etmek: mesajı veren taraf.
+
+@T imply/infer
+@s From the examples, readers can ___ the writer's opinion.
+@o imply|infer*
+@e infer = sonuç çıkarmak: mesajı alan taraf.
+
+@T although/despite
+@s ___ the heavy rain, the match went ahead as planned.
+@o Although|Despite*
+@e Ardından isim öbeği (the heavy rain) var: despite + isim.
+
+@T although/despite
+@s ___ it was raining heavily, the match went ahead as planned.
+@o Although*|Despite
+@e Ardından özne + yüklem (it was raining) var: although + cümle.
+
+@T because/because of
+@s The flight was cancelled ___ the storm.
+@o because|because of*
+@e Ardından isim: because of + isim.
+
+@T because/because of
+@s The flight was cancelled ___ the weather was too bad.
+@o because*|because of
+@e Ardından cümle: because + özne + yüklem.
+
+@T lead to/result from
+@s A diet high in sugar can ___ tooth decay, especially in young children.
+@o lead to*|result from
+@e Neden → sonuç: şekerli beslenme diş çürümesine yol açar (lead to); diş çürümesi şekerli beslenmenin nedeni olamaz.
+
+@T lead to/result from
+@s Most cases of tooth decay ___ a diet high in sugar.
+@o lead to|result from*
+@e Sonuç → neden: diş çürümesi şekerli beslenmeden kaynaklanır (result from); tersi anlamsızdır.

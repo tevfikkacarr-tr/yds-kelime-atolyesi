@@ -1,0 +1,194 @@
+# word|YDS-level context sentence (one ___ slot, base form; distractors = word's czd)
+increase|As the population ages, the demand for long-term care is expected to ___ steadily over the coming decades.
+rise|Although governments have promised action, global carbon emissions continued to ___ last year, reaching a new record.
+raise|The findings ___ serious questions about the safety of certain food additives that are widely used in Europe.
+expand|To meet growing demand, the university intends to ___ its engineering faculty and hire forty new lecturers.
+enhance|Researchers found that background music can ___ concentration in some learners while distracting others.
+boost|Many economists believe that lower interest rates will ___ consumer spending in the second half of the year.
+accelerate|Rising global temperatures could ___ the melting of glaciers, making sea-level rise much faster than predicted.
+extend|Advances in medicine have helped to ___ average life expectancy by more than a decade since 1950.
+decline|After decades of growth, the number of students choosing to study foreign languages has started to ___, and many departments are closing.
+reduce|Replacing old coal plants with wind farms could ___ the country's carbon emissions by almost a third.
+diminish|Without regular practice, the language skills that children acquire at school tend to ___ over the years.
+decrease|Studies show that the risk of heart disease begins to ___ within a year of giving up smoking.
+minimize|Engineers designed the new bridge to ___ the impact of strong winds, so it rarely needs to close.
+significant|Despite years of investment, the programme has had no ___ effect on unemployment in the region.
+substantial|Building the new metro line will require a ___ amount of public money over the next ten years.
+crucial|Many historians agree that the invention of printing played a ___ role in the spread of scientific ideas.
+essential|Access to clean water is considered ___ for reducing the spread of infectious diseases in poor regions.
+vital|Accurate weather forecasts are ___ for farmers, who must decide when to plant and harvest their crops.
+fundamental|The internet has caused a ___ change in the way scientists share their research with the public.
+considerable|Training a single doctor takes a ___ amount of time and money, which is why shortages are hard to solve.
+critical|The first hour after a serious injury is often ___ for the patient's chances of survival.
+primary|Although the museum also hosts concerts, its ___ purpose is to preserve the region's cultural heritage.
+lead to|Experts warn that cutting the education budget could ___ a shortage of qualified teachers in the future.
+result in|A single error in the computer code could ___ the loss of millions of dollars for the bank.
+bring about|Many believe that only international cooperation can ___ the changes needed to protect the oceans.
+trigger|Even a small rise in interest rates could ___ panic among investors who borrowed heavily.
+contribute|Small daily habits, such as taking the stairs, can ___ to better long-term health.
+attribute|Many economists ___ the country's rapid growth to its heavy investment in education.
+derive|Many coastal towns ___ most of their income from tourism, which makes them vulnerable to economic crises.
+account for|Exports of oil and gas ___ more than half of the country's national income.
+consequence|One unexpected ___ of the new tax was that many people started shopping across the border.
+outcome|Doctors often find it difficult to predict the ___ of a treatment for an individual patient.
+prevent|Regular maintenance can ___ small problems from becoming expensive repairs later on.
+hinder|Strict immigration rules may ___ the ability of universities to attract talented researchers.
+restrict|In an effort to cut pollution, the city will ___ the number of cars allowed in the centre on weekdays.
+limit|Doctors advise parents to ___ the time young children spend in front of screens because of its effects on sleep.
+facilitate|Simplified customs procedures are expected to ___ the movement of goods across the region.
+enable|Online learning platforms ___ students in remote areas to attend courses offered by top universities.
+promote|Several campaigns have been launched to ___ the use of public transport among young people.
+provide|The new law requires employers to ___ workers with clear information about their rights.
+ensure|Strict quality controls are needed to ___ that imported food meets national safety standards before it reaches shops.
+maintain|Despite rising costs, the company has managed to ___ its high standards of customer service.
+preserve|Freezing is one of the most effective ways to ___ food without the use of chemicals.
+protect|Wetlands help to ___ coastal towns from flooding by absorbing large amounts of water.
+achieve|Few students ___ fluency in a foreign language without spending some time abroad.
+obtain|It took the researchers nearly two years to ___ the necessary approval for their study.
+acquire|Bilingual children appear to ___ new vocabulary more quickly than children who speak only one language.
+gain|By working as volunteers, many students ___ skills that later help them find paid jobs.
+seek|An increasing number of patients ___ alternative treatments when conventional medicine fails to help them.
+secure|After months of negotiations, the small company was finally able to ___ a contract with one of the largest retailers in the country.
+indicate|Preliminary data ___ that the new vaccine is effective against several variants of the virus.
+reveal|A close analysis of ancient texts may ___ how ordinary people lived thousands of years ago.
+demonstrate|The experiment was designed to ___ that bacteria can survive in extremely cold conditions.
+illustrate|Historians often use the printing press to ___ how a single invention can transform an entire society.
+display|Some animals ___ remarkable intelligence when they are faced with unfamiliar problems.
+highlight|The latest figures ___ the growing gap between the richest and the poorest households.
+imply|The author's choice of words seems to ___ that she disapproves of the new policy.
+reflect|Changes in fashion often ___ wider changes in social values and attitudes.
+expose|The documentary helped to ___ the poor working conditions in some clothing factories.
+conduct|Before introducing the new system nationwide, the ministry decided to ___ a small pilot study.
+investigate|The committee was set up to ___ claims that the election results had been manipulated.
+examine|The second chapter will ___ the factors that led to the collapse of the empire.
+explore|The new research project will ___ how social media affects the political views of young adults.
+analyse|Sports teams now ___ enormous amounts of performance data to decide which players to sign.
+observe|Astronomers were able to ___ the collision of two distant galaxies using the new telescope.
+detect|Modern sensors can ___ even tiny amounts of harmful gases in the air.
+identify|Using DNA analysis, scientists were finally able to ___ the remains found in the cave.
+monitor|Wearable devices allow doctors to ___ patients' heart rates continuously from a distance.
+survey|According to a national ___ of 5,000 adults, most people now get their news from social media.
+assess|Teachers use a variety of methods to ___ how well students have understood a new topic.
+evaluate|An independent agency was hired to ___ whether the training programme was worth its cost.
+measure|It is not easy to ___ the success of a policy whose effects may take decades to appear.
+estimate|Scientists ___ that the universe is around 13.8 billion years old.
+calculate|Insurance companies ___ the cost of policies based on the likelihood of accidents.
+determine|Further tests are needed to ___ whether the water is safe to drink.
+vary|The cost of living can ___ considerably depending on which part of the country you live in.
+alter|Even small changes in temperature can ___ the behaviour of many marine species.
+transform|Over the last century, electricity has helped to ___ almost every aspect of daily life.
+adapt|Organisms that cannot ___ to new conditions are at greater risk of extinction.
+modify|Users can easily ___ the software to meet the needs of their own organisation.
+adjust|It usually takes several days for the body to ___ to a new time zone.
+shift|The election marked a significant ___ in voters' attitudes towards immigration.
+evolve|Over thousands of years, many languages ___ in ways that make them almost unrecognisable.
+reform|Many teachers believe that a radical ___ of the exam system is long overdue.
+adequate|Without ___ protection, workers in the chemical industry face serious health risks.
+sufficient|The report concluded that there was not ___ evidence to support the new drug's approval.
+numerous|___ attempts to reach an agreement have failed because neither side was willing to compromise.
+likely|Heavy rain is ___ to cause long delays on the motorway this evening.
+potential|Before investing, the company carried out a study of the ___ risks involved in the project.
+tend|Prices ___ to rise during the holiday season, when demand for flights and hotels is highest.
+establish|The two countries agreed to ___ a new joint research centre, which will open next year.
+generate|In many countries, online advertising now helps media companies ___ more revenue than television.
+develop|Scientists hope to ___ new materials that are both lighter and stronger than steel.
+produce|Farms in the region ___ nearly half of the country's fruit and vegetables.
+invent|It is often difficult to say who was the first to ___ a particular technology.
+assume|Many people wrongly ___ that older adults cannot learn to use new technology.
+consider|The council will ___ several proposals before deciding where to build the new hospital.
+regard|Many scientists ___ climate change as the most serious threat facing humanity.
+predict|Few economists were able to ___ the financial crisis of 2008.
+argue|Some philosophers ___ that animals should have the same basic rights as humans.
+claim|Several companies ___ that their products can slow down the ageing process, but there is little evidence.
+emphasise|In her speech, the minister wanted to ___ the need for closer cooperation between schools and parents.
+stress|The authors ___ that their findings are preliminary and should not be generalised.
+propose|The committee will ___ a series of measures to improve road safety in rural areas.
+suggest|Early results ___ that the new teaching method may be particularly helpful for weaker students.
+point out|Critics ___ that the new rules will mainly benefit large companies.
+require|Most universities ___ international students to provide proof of their language ability.
+depend on|The success of the project will largely ___ the support of local communities.
+rely on|Many small island nations ___ imported food to feed their populations.
+demand|Rising ___ for electric cars has led to a shortage of certain metals.
+lack|The main reason for the failure of the reform was a ___ of public support.
+consist of|The exhibition will ___ more than 200 works by artists from twelve countries.
+involve|Most cases of identity theft ___ the use of stolen bank details.
+include|Symptoms of the illness ___ fever, headaches and a loss of appetite.
+contain|Many breakfast cereals ___ far more sugar than people realise.
+damage|The flood caused extensive ___ to roads, bridges and farmland.
+threaten|Rising sea levels ___ the survival of several small island nations.
+harmful|Some cleaning products release chemicals that can be ___ to people with asthma.
+vulnerable|People with weakened immune systems are particularly ___ to infections during winter.
+risk|Eating too much processed meat may increase the ___ of certain types of cancer.
+address|The conference was organised to ___ the problem of plastic waste in the oceans.
+tackle|The new government has promised to ___ corruption in public institutions.
+cope with|Many cities are not prepared to ___ the extreme heat that climate change will bring.
+deal with|The new department will ___ complaints from customers about delayed deliveries.
+handle|Experienced pilots are trained to ___ emergencies calmly and quickly.
+challenge|Providing enough food for a growing global population is perhaps the greatest ___ of this century.
+barrier|For many migrants, the language ___ makes it difficult to access public services.
+crisis|The energy ___ forced many factories to reduce production during the winter.
+benefit|Older adults can ___ greatly from activities that keep both the body and the mind active.
+advantage|One major ___ of electric cars is that they are much cheaper to run than petrol cars.
+valuable|The old letters provide ___ information about daily life during the war.
+similar|Researchers in Japan and Brazil reached ___ conclusions even though they used different methods.
+differ|The two theories ___ mainly in the importance they give to genetic factors.
+accurate|Satellite images allow scientists to make more ___ predictions about the movement of storms.
+precise|Modern clocks are so ___ that they lose less than a second every million years.
+reliable|For research purposes, official statistics are generally more ___ than online surveys.
+obvious|The most ___ solution is not always the most effective one in the long term.
+previous|Unlike ___ generations, young people today can access information instantly.
+eventually|Many startups struggle for years before they ___ become profitable.
+current|The ___ system of funding schools has been criticised for increasing inequality.
+temporary|The government introduced a ___ ban on fishing in the bay to allow fish populations to recover.
+widespread|The use of antibiotics in farming has led to ___ concern about drug-resistant bacteria.
+overall|___, the study suggests that the benefits of the programme outweigh its costs.
+specific|The new drug targets a ___ protein that helps cancer cells to grow.
+emerge|A new generation of writers began to ___ in the region during the 1990s.
+arise|Ethical questions often ___ when new medical technologies are introduced.
+occur|Most traffic accidents ___ within a few kilometres of the driver's home.
+exist|Significant differences in life expectancy still ___ between rich and poor neighbourhoods.
+spread|Misinformation tends to ___ much faster on social media than accurate information.
+survive|Only a small number of the original manuscripts ___ today.
+define|Scientists still disagree about how to ___ intelligence in a way that can be measured.
+describe|In his diary, the explorer tried to ___ the harsh conditions he faced in the Arctic.
+refer to|The term “urban heat island” is used to ___ cities that are much warmer than the surrounding countryside.
+accept|Most historians now ___ that the two events were closely connected.
+reject|Worried about safety, voters decided to ___ the proposal to build a nuclear power plant near the town.
+deny|Despite the evidence, the company continues to ___ that its products have caused any health problems.
+approve|After successful trials, regulators are expected to ___ the new vaccine for use in children.
+adopt|An increasing number of companies have decided to ___ a four-day working week.
+refuse|Some patients ___ to take part in clinical trials because they fear unknown side effects.
+admit|The bank was forced to ___ that it had given customers misleading information.
+apply|The same principles ___ to both public and private schools.
+affect|The decision will directly ___ thousands of families who rely on the factory for work.
+effect|Scientists are still studying the long-term ___ of microplastics on human health.
+influence|Advertising can strongly ___ what young children want to eat.
+impact|Automation is expected to have a major ___ on the job market in the coming decade.
+encourage|Free museum entry is intended to ___ more young people to visit cultural sites.
+persuade|Health campaigns try to ___ people to eat more fruit and vegetables.
+convince|The lawyer failed to ___ the jury that her client had acted in self-defence.
+combine|The new course will ___ classroom teaching with practical experience in hospitals.
+link|Researchers have found a clear ___ between air pollution and the risk of dementia.
+relatively|Solar power is a ___ new technology compared with coal or oil.
+approximately|The museum receives ___ two million visitors every year.
+hardly|The new road has ___ reduced traffic, despite its enormous cost.
+increasingly|Employers are ___ looking for candidates who can work well in teams.
+phenomenon|Fake news is not a new ___, but social media has made it spread much faster.
+concept|The ___ of human rights developed gradually over several centuries.
+approach|Many schools now take a more practical ___ to teaching science.
+evidence|There is growing ___ that regular exercise can improve mental health.
+aspect|Cost is only one ___ to consider when choosing a university.
+factor|Genetics is an important ___ in determining a person's risk of heart disease.
+feature|One unusual ___ of the building is that it produces more energy than it uses.
+principle|The legal system is based on the ___ that everyone is equal before the law.
+implication|One important ___ of the discovery is that doctors may soon be able to detect the disease years before symptoms appear.
+trend|There is a growing ___ among young people to delay marriage until their thirties.
+poverty|Millions of children around the world still grow up in extreme ___, without enough food or clean water.
+income|Rising rents mean that many families now spend more than half of their ___ on housing.
+wealth|The country's enormous ___ comes largely from its oil and gas reserves.
+employment|The new factory will provide ___ for around 800 people in the area.
+investment|Long-term ___ in renewable energy is essential if the country is to meet its climate goals.
+economic|Rapid ___ growth has lifted millions of people out of poverty in the region.
+cause|Investigators believe that a small crack may ___ the whole structure to collapse over time.
+prompt|Sudden rises in food prices often ___ governments to cut import taxes.
+responsible|Scientists have identified the gene that is ___ for the disease.

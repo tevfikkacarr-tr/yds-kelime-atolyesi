@@ -1,0 +1,274 @@
+@L increase
+@title ARTMAK · Increase
+@pos v
+@s increase | genel artış; nesneli ve nesnesiz
+@s rise / raise | rise nesnesiz yükselmek; raise nesneli yükseltmek
+@s expand | boyut, hacim ya da kapsam olarak genişlemek
+@s boost / augment | boost canlandırarak artırmak; augment takviye ederek (resmi)
+@s surge / soar | ani ve hızlı artış; fiyat, talep fırlaması
+@s proliferate | sayıca hızla çoğalmak, yayılmak (hücre, silah, kurum)
+@s escalate | çatışma, kriz gibi olumsuzlukların tırmanması
+
+@L decrease
+@title AZALMAK · Decrease
+@pos v
+@s decrease | genel azalma; çoğunlukla nesnesiz, sayısal
+@s decline | oran, nüfus, sağlık gibi şeylerde düşüş
+@s diminish | güç, önem ya da etkinin giderek azalması
+@s shrink | boyut olarak küçülmek, daralmak (pazar, ekonomi)
+@s dwindle | yavaş yavaş azalıp tükenmeye yaklaşmak
+@s plummet | ani ve sert düşüş, çakılmak
+
+@L reduce
+@title AZALTMAK · Reduce
+@pos v
+@s reduce | genel; bir şeyi nesneli olarak azaltmak
+@s lessen | şiddetini ya da etkisini azaltmak
+@s minimize | mümkün olan en düşük düzeye indirmek
+@s mitigate / alleviate | mitigate zarar, riski hafifletmek; alleviate acı, sorunu dindirmek
+@s curtail | harcama, hak, faaliyeti kısıtlayarak kısmak
+@s deplete | kaynağı tüketerek ciddi biçimde azaltmak
+
+@L important
+@title ÖNEMLİ · Important
+@pos adj
+@s significant | dikkat çekici / önemli ölçüde; istatistiksel anlamlı
+@s notable / prominent | notable dikkate değer; prominent önde gelen, göze çarpan
+@s considerable / substantial | derece ya da miktar olarak hatırı sayılır
+@s fundamental / essential | fundamental temelde yer alan; essential olmazsa olmaz
+@s crucial / vital | sonucu belirleyen, hayati önemde
+@s indispensable | asla vazgeçilemez, yerine konamaz
+@s paramount | diğerlerinden daha önemli, en üstün
+
+@L cause
+@title NEDEN OLMAK · Cause
+@pos v
+@s cause | genel neden olmak; sıklıkla olumsuz sonuç
+@s contribute | sonuçta payı olmak; tek neden değil
+@s lead to / result in | lead to süreçle yol açmak; result in sonuçta doğurmak
+@s bring about | değişim ya da durumu meydana getirmek
+@s give rise to | yeni bir durumun ortaya çıkmasına yol açmak (resmi)
+@s trigger / prompt | trigger ani başlatmak; prompt harekete geçirmek
+@s induce / provoke | induce bilimsel olarak yol açmak; provoke tepki kışkırtmak
+
+@L result
+@title SONUÇ · Result
+@pos n
+@s outcome | tarafsız genel sonuç, netice
+@s effect | bir nedenin doğrudan doğurduğu etki
+@s consequence | eylemin genelde olumsuz sonucu, bedeli
+@s implication | dolaylı, ileriye dönük sonuç; çıkarım
+
+@L prevent
+@title ÖNLEMEK · Prevent
+@pos v
+@s prevent | genel; bir şeyin olmasını engellemek
+@s hinder / hamper | ilerlemeyi yavaşlatmak, sekteye uğratmak
+@s impede / obstruct | impede güçleştirmek (resmi); obstruct fiziksel ya da yasal engel
+@s inhibit / suppress | inhibit süreci baskılamak; suppress zorla bastırmak
+@s deter | korku ya da caydırıcılıkla önlemek
+@s avert | yaklaşan tehlikeyi son anda savuşturmak
+@s preclude | baştan olanaksız kılmak, önünü tamamen kesmek
+
+@L change
+@title DEĞİŞTİRMEK · Change
+@pos v
+@s alter / modify | alter kısmen değiştirmek; modify iyileştirmek için uyarlamak
+@s adjust / adapt | adjust küçük ayar; adapt yeni koşula uyarlamak
+@s revise | gözden geçirip düzeltmek (plan, metin, tahmin)
+@s convert | bir biçimden ya da işlevden diğerine çevirmek
+@s transform | köklü ve tamamen dönüştürmek
+
+@L improve
+@title İYİLEŞTİRMEK · Improve
+@pos v
+@s enhance | niteliği, değeri artırarak iyileştirmek
+@s reinforce | var olanı güçlendirip pekiştirmek
+@s reform | kurum ya da sistemi köklü biçimde iyileştirmek
+@s remedy | bir kusuru ya da sorunu gidermek, düzeltmek
+
+@L worsen
+@title KÖTÜLEŞMEK · Worsen
+@pos v
+@s damage | genel; zarar vermek, hasar oluşturmak
+@s deteriorate | nesnesiz; durum, sağlık giderek kötüleşmek
+@s erode / undermine | yavaş yavaş aşındırmak; undermine gizlice baltalamak
+@s jeopardize / endanger | tehlikeye atmak; endanger daha çok canlı ve güvenlik
+@s exacerbate | zaten var olan sorunu daha da kötüleştirmek
+@s devastate | tamamen harap etmek, yıkıma uğratmak
+
+@L show
+@title GÖSTERMEK · Show
+@pos v
+@s indicate | işaret etmek; dolaylı, veriye dayalı gösterme
+@s display / exhibit | sergilemek; exhibit belirti, davranış göstermek
+@s reveal | gizli ya da bilinmeyeni ortaya çıkarmak
+@s illustrate | örnekle ya da görselle göstermek
+@s demonstrate | açıkça kanıtlayarak göstermek
+@s manifest | kendini belirgin biçimde ortaya koymak
+
+@L suggest
+@title ÖNE SÜRMEK · Suggest
+@pos v
+@s suggest | çekingen; ihtimal belirtir ya da öneri sunar
+@s imply | açıkça söylemeden ima etmek
+@s indicate | bulguya dayanarak işaret etmek
+@s argue / claim | argue gerekçeyle savunmak; claim kanıtsız da olabilir
+@s assert / contend | kesin ve iddialı biçimde ileri sürmek
+
+@L require
+@title GEREKTİRMEK · Require
+@pos v
+@s require | genel ve resmi; gerektirmek, şart koşmak
+@s involve / entail | doğal parçası olarak içermek; entail daha resmi
+@s demand | emek, dikkat gibi şeyleri güçlü biçimde gerektirmek
+@s necessitate | kaçınılmaz olarak zorunlu kılmak
+@s warrant | haklı ve gerekli kılmak (inceleme, önlem)
+
+@L possible
+@title MÜMKÜN · Possible
+@pos adj
+@s potential | olası ama henüz gerçekleşmemiş
+@s plausible | akla yatkın, inandırıcı (açıklama, senaryo)
+@s feasible | pratikte yapılabilir, uygulanabilir (plan)
+@s viable | uzun vadede işleyebilir, sürdürülebilir
+
+@L likely
+@title MUHTEMEL · Likely
+@pos adj
+@s likely | genel muhtemel; be likely to do
+@s probable | daha resmi; kuvvetli ihtimal
+@s prone / liable | olumsuz şeye yatkın; liable to resmi
+@s inevitable | kaçınılmaz; ihtimal değil kesinlik
+
+@L difficult
+@title ZORLUK · Difficult
+@pos n
+@s challenge | genel zorluk; çoğunlukla aşılabilir
+@s obstacle / barrier | obstacle önündeki engel; barrier yapısal, sistemik engel
+@s setback | ilerlemeyi geri atan aksilik
+@s burden | taşınması zor yük, külfet (mali, bakım)
+@s hardship | yaşamı zorlaştıran ağır sıkıntı, yoksunluk
+@s crisis | en ağır; acil müdahale gerektiren bunalım
+
+@L common
+@title YAYGIN · Common
+@pos adj
+@s widespread | geniş alana yayılmış, yaygın
+@s prevalent | belirli grupta sık görülen (hastalık, görüş)
+@s pervasive | her yere sinmiş; genelde olumsuz
+@s universal | istisnasız herkes için geçerli, evrensel
+
+@L rare
+@title NADİR · Rare
+@pos adj
+@s scarce | ihtiyaca göre az bulunan, kıt
+@s obscure | az bilinen, pek tanınmayan
+@s unprecedented | daha önce hiç görülmemiş, eşsiz
+
+@L large
+@title BÜYÜK · Large
+@pos adj
+@s numerous | sayılabilir şeyler için çok sayıda
+@s considerable / substantial | hatırı sayılır; substantial somut, büyük miktar
+@s extensive | geniş alana ya da kapsama yayılan
+@s vast | uçsuz bucaksız, çok büyük
+@s abundant / ample | bol; ample fazlasıyla yeterli
+@s excessive | gereğinden fazla, aşırı (olumsuz)
+
+@L small
+@title KÜÇÜK · Small
+@pos adj
+@s minimal | asgari düzeyde, çok az
+@s marginal | kenarda kalan; önemsiz derecede küçük
+@s negligible | göz ardı edilebilecek kadar küçük
+
+@L support
+@title DESTEKLEMEK · Support
+@pos v
+@s assist | yardım ederek destek olmak
+@s promote | teşvik edip yaygınlaşmasını sağlamak
+@s endorse | resmen ya da kamuoyu önünde onaylamak
+@s bolster | zayıf olanı destekleyip güçlendirmek
+@s uphold | karar, ilke ya da yasayı savunup korumak
+
+@L oppose
+@title KARŞI ÇIKMAK · Oppose
+@pos v
+@s oppose | genel; görüş, plan ya da politikaya karşı çıkmak
+@s reject / refuse | reject teklifi reddetmek; refuse yapmayı reddetmek
+@s dismiss | ciddiye almadan geri çevirmek
+@s confront | açıkça yüzleşip karşı durmak
+@s combat | aktif ve sürekli biçimde mücadele etmek
+
+@L maintain
+@title SÜRDÜRMEK · Maintain
+@pos v
+@s maintain | genel; mevcut durumu sürdürmek, korumak
+@s retain | elde tutmak, kaybetmemek
+@s sustain | uzun süre devam ettirmek, ayakta tutmak
+@s preserve / conserve | preserve bozulmadan korumak; conserve tasarrufla korumak
+@s safeguard | tehlikeye karşı güvence altına almak
+@s uphold | ilke, karar, geleneği sürdürüp savunmak
+
+@L develop
+@title GELİŞMEK · Develop
+@pos v
+@s develop | genel; geliştirmek ya da gelişmek
+@s evolve | zamanla aşamalı biçimde gelişmek (nesnesiz)
+@s foster | gelişmesine uygun ortam hazırlamak
+@s cultivate / nurture | özenle ve uzun süre besleyerek geliştirmek
+@s thrive / flourish | nesnesiz; güçlü biçimde gelişip serpilmek
+
+@L consider
+@title DÜŞÜNMEK · Consider
+@pos v
+@s consider | genel; düşünmek, göz önünde bulundurmak
+@s regard | -olarak görmek (regard as)
+@s perceive | algılamak; öznel olarak öyle görmek
+@s contemplate | uzun uzun, derinlemesine düşünmek
+@s deem | resmi; -olarak saymak, addetmek
+
+@L explain
+@title AÇIKLAMAK · Explain
+@pos v
+@s describe | nasıl olduğunu betimlemek
+@s outline / summarise | outline ana hatlarıyla; summarise kısaca özetlemek
+@s clarify | belirsizliği gidererek açıklığa kavuşturmak
+@s interpret | anlamını yorumlayarak açıklamak
+@s elaborate | ayrıntılarıyla genişletip açıklamak
+@s account for | bir olgunun nedenini açıklamak
+
+@L obtain
+@title ELDE ETMEK · Obtain
+@pos v
+@s gain | genel; kazanmak, edinmek
+@s obtain | resmi; elde etmek (veri, izin, belge)
+@s acquire | zamanla edinmek (beceri, bilgi, şirket)
+@s derive | bir kaynaktan çıkarmak (fayda, anlam, gelir)
+@s secure | çabayla güvenceye alarak elde etmek
+@s attain | uzun çabayla hedefe ulaşmak
+
+@L provide
+@title SAĞLAMAK · Provide
+@pos v
+@s provide | genel; sağlamak, temin etmek
+@s enable | olanak sağlamak, mümkün kılmak
+@s facilitate | süreci kolaylaştırmak
+@s allocate | belirli amaç için kaynak tahsis etmek
+@s ensure | olacağını garanti altına almak
+
+@L affect
+@title ETKİLEMEK · Affect
+@pos v
+@s affect | genel etkilemek; çoğunlukla olumsuz
+@s influence | dolaylı, yön veren etki
+@s impact | güçlü ve belirgin etki
+
+@L benefit
+@title FAYDA · Benefit
+@pos n
+@s benefit | genel fayda, yarar
+@s advantage | alternatife göre üstünlük
+@s merit | bir şeyin kendine özgü değeri, meziyeti
+@s asset | değerli kaynak, varlık
